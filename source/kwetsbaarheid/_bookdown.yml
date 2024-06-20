@@ -1,0 +1,16 @@
+book_filename: "pauwels_et_al_kwtsbrhdskrtrlvrstrt.Rmd"
+output_dir: "../../output/kwetsbaarheid"
+delete_merged_file: TRUE
+language:
+  label:
+    fig:    'Figuur '
+    tab:    'Tabel '
+    eq:     'Vergelijking '
+    thm:    'Theorema '
+    lem:    'Lemma '
+    def:    'Definitie '
+    cor:    'Gevolgtrekking '
+    prp:    'Bewering '
+    ex:     'Voorbeeld '
+    proof:  'Bewijs. '
+    remark: 'Opmerking. '
