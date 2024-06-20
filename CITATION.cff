@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: If you use this software, please cite it using these metadata.
+title: "Kwetsbaarheidskaart riooloverstorten"
+authors:
+- given-names: Ine
+  family-names: Pauwels
+  affiliation: Instituut voor Natuur- en Bosonderzoek (INBO)
+  orcid: 0000-0002-2856-8787
+- given-names: Jeroen
+  family-names: Van Wichelen
+  affiliation: Instituut voor Natuur- en Bosonderzoek (INBO)
+  orcid: 0000-0002-0255-9591
+- given-names: Carine
+  family-names: Wils
+  affiliation: Instituut voor Natuur- en Bosonderzoek (INBO)
+  orcid: 0000-0002-5626-6786
+keywords:
+- riooloverstorten
+- waterkwaliteit
+contact:
+- given-names: Ine
+  family-names: Pauwels
+  affiliation: Instituut voor Natuur- en Bosonderzoek (INBO)
+  orcid: 0000-0002-2856-8787
+doi: ~
+license: CC-BY-4.0
+repository-code: https://github.com/inbo/riooloverstorten_kwetsbaarheid/
+type: software
+abstract: "Replace this with a short description of the project.\nIt becomes the abstract
+  of the project in the citation information.\nAnd the project description at https://zenodo.org"
