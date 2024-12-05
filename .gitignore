@@ -16,6 +16,14 @@
 *.shx
 *.xls*
 *_files
+*.RData
+*.lyr
+*.zip
+*.prj
+*.sbn
+*.sbx
+*.sr.lock
+*.cpg
 docs
 libs
 output
