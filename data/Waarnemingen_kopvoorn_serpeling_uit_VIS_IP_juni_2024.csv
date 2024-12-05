@@ -1,0 +1,1173 @@
+Waterloop;Lambert X/Y;X;Y;Omschrijving;Gemeente;Provincie;Bekken;Afvissingsmethode;Jaar;Datum;Nederlandse naam;Aantal per vangstinspanning;Eenheid
+Bovenschelde;100599/178790;100599;178790;DVW02_ASPStuwSA;Gavere;Oost-Vlaanderen;Boven-Scheldebekken;Fuiken;2002;12/03/2002;serpeling;;per 100m
+Bovenschelde;100648/175645;100648;175645;monding van de Zwalmbeek;Oudenaarde;Oost-Vlaanderen;Boven-Scheldebekken;Fuiken;2002;05/06/2002;kopvoorn;0.25;per fuik
+Zwalmbeek;100684/175621;100684;175621;aan de monding in de Schelde;Oudenaarde;Oost-Vlaanderen;Boven-Scheldebekken;Elektrisch;2022;28/09/2022;kopvoorn;1.00;per 100m
+Bovenschelde;100742/178853;100742;178853;DVW11_ASP;Gavere;Oost-Vlaanderen;Boven-Scheldebekken;Fuiken;2012;27/06/2012;kopvoorn;;per 100m
+Bovenschelde;100742/178853;100742;178853;DVW11_ASP;Gavere;Oost-Vlaanderen;Boven-Scheldebekken;Fuiken;2012;16/07/2012;kopvoorn;;per 100m
+Maarkebeek;100763/167635;100763;167635;Aan de Varentstraat;Maarkedal;Oost-Vlaanderen;Boven-Scheldebekken;Elektrisch;2019;10/05/2019;kopvoorn;21.00;per 100m
+Maarkebeek;100763/167635;100763;167635;Aan de Varentstraat;Maarkedal;Oost-Vlaanderen;Boven-Scheldebekken;Elektrisch;2019;10/05/2019;serpeling;29.00;per 100m
+Zwalmbeek;100872/175593;100872;175593;250m SO monding;Oudenaarde;Oost-Vlaanderen;Boven-Scheldebekken;Elektrisch;2023;03/03/2023;kopvoorn;0.83;per 100m
+Maarkebeek;101253/167332;101253;167332;SH12_MaarkGroen;Horebeke;Oost-Vlaanderen;Boven-Scheldebekken;Elektrisch;2012;07/08/2012;kopvoorn;25.50;per 100m
+Maarkebeek;101253/167332;101253;167332;SH13_MaarkGroen;Horebeke;Oost-Vlaanderen;Boven-Scheldebekken;Elektrisch;2013;28/06/2013;kopvoorn;57.60;per 100m
+Maarkebeek;101253/167332;101253;167332;SH13_MaarkGroen;Horebeke;Oost-Vlaanderen;Boven-Scheldebekken;Elektrisch;2013;28/06/2013;serpeling;2.40;per 100m
+Maarkebeek;101312/165599;101312;165599;Heide;Maarkedal;Oost-Vlaanderen;Boven-Scheldebekken;Elektrisch;2014;05/09/2014;kopvoorn;3.00;per 100m
+Maarkebeek;101312/165599;101312;165599;Heide;Maarkedal;Oost-Vlaanderen;Boven-Scheldebekken;Elektrisch;2010;01/04/2010;serpeling;5.00;per 100m
+Maarkebeek;101454/165209;101454;165209;Thv Kaperij;Maarkedal;Oost-Vlaanderen;Boven-Scheldebekken;Elektrisch;2014;05/09/2014;kopvoorn;35.00;per 100m
+Maarkebeek;101454/165209;101454;165209;Thv Kaperij;Maarkedal;Oost-Vlaanderen;Boven-Scheldebekken;Elektrisch;2021;21/04/2021;kopvoorn;3.00;per 100m
+Maarkebeek;101454/165209;101454;165209;Thv Kaperij;Maarkedal;Oost-Vlaanderen;Boven-Scheldebekken;Elektrisch;2014;05/09/2014;serpeling;7.00;per 100m
+Maarkebeek;101454/165209;101454;165209;Thv Kaperij;Maarkedal;Oost-Vlaanderen;Boven-Scheldebekken;Elektrisch;2021;21/04/2021;serpeling;11.00;per 100m
+Maarkebeek;101577/164377;101577;164377;SH12_MaarkTieg;Maarkedal;Oost-Vlaanderen;Boven-Scheldebekken;Elektrisch;2012;07/08/2012;kopvoorn;1.00;per 100m
+Maarkebeek;101577/164377;101577;164377;SH12_MaarkTieg;Maarkedal;Oost-Vlaanderen;Boven-Scheldebekken;Elektrisch;2012;07/08/2012;serpeling;0.50;per 100m
+Maarkebeek;101577/164377;101577;164377;SH13_MaarkTieg;Maarkedal;Oost-Vlaanderen;Boven-Scheldebekken;Elektrisch;2013;07/05/2013;kopvoorn;4.80;per 100m
+Maarkebeek;101577/164377;101577;164377;SH13_MaarkTieg;Maarkedal;Oost-Vlaanderen;Boven-Scheldebekken;Elektrisch;2013;07/05/2013;serpeling;4.80;per 100m
+Bovenschelde;101973/183221;101973;183221;afwatering Molenbeek;De Pinte;Oost-Vlaanderen;Boven-Scheldebekken;Elektrisch;2002;06/06/2002;serpeling;0.15;per 100m
+Krombeek;102025/166925;102025;166925;Thv Den Daele;Horebeke;Oost-Vlaanderen;Boven-Scheldebekken;Elektrisch;2014;19/09/2014;kopvoorn;3.00;per 100m
+Zwalmbeek;102490/175151;102490;175151;VMM07_Biestmole;Zwalm;Oost-Vlaanderen;Boven-Scheldebekken;Fuiken;2007;27/04/2007;kopvoorn;;per 100m
+Zwalmbeek;102490/175151;102490;175151;VMM07_Biestmole;Zwalm;Oost-Vlaanderen;Boven-Scheldebekken;Fuiken;2007;28/05/2007;kopvoorn;;per 100m
+Zwalmbeek;102490/175151;102490;175151;VMM07_Biestmole;Zwalm;Oost-Vlaanderen;Boven-Scheldebekken;Fuiken;2007;11/06/2007;kopvoorn;;per 100m
+Zwalmbeek;102490/175151;102490;175151;VMM07_Biestmole;Zwalm;Oost-Vlaanderen;Boven-Scheldebekken;Fuiken;2007;15/06/2007;kopvoorn;;per 100m
+Zwalmbeek;102490/175151;102490;175151;VMM07_Biestmole;Zwalm;Oost-Vlaanderen;Boven-Scheldebekken;Fuiken;2007;18/06/2007;kopvoorn;;per 100m
+Zwalmbeek;102490/175151;102490;175151;VMM07_Biestmole;Zwalm;Oost-Vlaanderen;Boven-Scheldebekken;Fuiken;2007;06/06/2007;serpeling;;per 100m
+Zwalmbeek;103974/175037;103974;175037;aan de Ijzerkotmolen;Zwalm;Oost-Vlaanderen;Boven-Scheldebekken;Elektrisch;2005;19/04/2005;kopvoorn;0.50;per 100m
+Zwalmbeek;105878/174517;105878;174517;aan de Zwalmmolen;Zwalm;Oost-Vlaanderen;Boven-Scheldebekken;Elektrisch;2005;19/04/2005;kopvoorn;2.50;per 100m
+Zwalmbeek;107325/170937;107325;170937;monding Boembeek SA rwzi;Zwalm;Oost-Vlaanderen;Boven-Scheldebekken;Elektrisch;2020;19/09/2020;kopvoorn;3.67;per 100m
+Zwalmbeek;107325/170937;107325;170937;monding Boembeek SA rwzi;Zwalm;Oost-Vlaanderen;Boven-Scheldebekken;Elektrisch;2014;01/09/2014;serpeling;1.00;per 100m
+Zwalmbeek;107325/170937;107325;170937;monding Boembeek SA rwzi;Zwalm;Oost-Vlaanderen;Boven-Scheldebekken;Elektrisch;2020;19/09/2020;serpeling;2.33;per 100m
+Zwalmbeek;107346/170749;107346;170749;aan de Boembekemolen;Zottegem;Oost-Vlaanderen;Boven-Scheldebekken;Elektrisch;2005;20/04/2005;kopvoorn;20.00;per 100m
+Zwalmbeek;107346/170749;107346;170749;aan de Boembekemolen;Zottegem;Oost-Vlaanderen;Boven-Scheldebekken;Elektrisch;2012;16/05/2012;kopvoorn;1.00;per 100m
+Zwalmbeek;107615/172322;107615;172322;aan de Oude Molen;Zottegem;Oost-Vlaanderen;Boven-Scheldebekken;Elektrisch;2022;31/03/2022;kopvoorn;;per 100m
+Zwalmbeek;107615/172322;107615;172322;aan de Oude Molen;Zottegem;Oost-Vlaanderen;Boven-Scheldebekken;Elektrisch;2014;15/05/2014;serpeling;2.00;per 100m
+Zwalmbeek;107615/172322;107615;172322;aan de Oude Molen;Zottegem;Oost-Vlaanderen;Boven-Scheldebekken;Elektrisch;2020;28/05/2020;serpeling;2.61;per 100m
+Zwalmbeek;107615/172322;107615;172322;aan de Oude Molen;Zottegem;Oost-Vlaanderen;Boven-Scheldebekken;Elektrisch;2022;31/03/2022;serpeling;;per 100m
+Wijze Beek;118777/158790;118777;158790;/;Geraardsbergen;Oost-Vlaanderen;Denderbekken;Elektrisch;2008;10/03/2008;serpeling;6.00;per 100m
+Wijze Beek;118777/158790;118777;158790;/;Geraardsbergen;Oost-Vlaanderen;Denderbekken;Elektrisch;2011;14/03/2011;serpeling;23.00;per 100m
+Zeeschelde;122024/189948;122024;189948;Bergenmeersen;Wichelen;Oost-Vlaanderen;Beneden-Scheldebekken;Elektrisch;2013;21/05/2013;kopvoorn;0.91;per 100m
+Dender;124825/168876;124825;168876;stroomafwaarts de sluis van Ninove;Ninove;Oost-Vlaanderen;Denderbekken;Fuiken;2008;18/03/2008;kopvoorn;0.25;per fuik
+Dender;124825/168876;124825;168876;stroomafwaarts de sluis van Ninove;Ninove;Oost-Vlaanderen;Denderbekken;Fuiken;1996;26/03/1996;serpeling;0.06;per fuik
+Bellebeek;132232/175409;132232;175409;aan de Bellemolen;Affligem;Brabant;Denderbekken;Elektrisch;2012;25/06/2012;kopvoorn;1.00;per 100m
+Bellebeek;132232/175409;132232;175409;aan de Bellemolen;Affligem;Brabant;Denderbekken;Elektrisch;2023;28/04/2023;serpeling;0.50;per 100m
+;136198/197301;136198;197301;Lippenbroek (Zeeschelde);Hamme;Oost-Vlaanderen;Beneden-Scheldebekken;Fuiken;2022;08/11/2022;kopvoorn;0.33;per fuik
+Kanaal naar Charleroi;141017/158732;141017;158732;stroomafwaarts de sluis;Halle;Brabant;Dijlebekken;Elektrisch;2007;22/10/2007;serpeling;0.60;per 100m
+Zeeschelde;141472/200583;141472;200583;Grens Steendorp/Temse;Bornem;Antwerpen;Beneden-Scheldebekken;Fuiken;2022;10/08/2022;kopvoorn;0.50;per fuik
+;145221/167447;145221;167447;aan de ring waar kanaal uitkomt;Anderlecht;Brussels Hoofdstedelijk Gewest;;Elektrisch;2022;14/10/2022;kopvoorn;0.40;per 100m
+;145221/167447;145221;167447;aan de ring waar kanaal uitkomt;Anderlecht;Brussels Hoofdstedelijk Gewest;;Elektrisch;2007;23/10/2007;serpeling;0.20;per 100m
+Zenne;145520/167784;145520;167784;/;Anderlecht;Brussels Hoofdstedelijk Gewest;Dijlebekken;Elektrisch;2016;13/06/2016;kopvoorn;0.50;per 100m
+Zenne;145520/167784;145520;167784;/;Anderlecht;Brussels Hoofdstedelijk Gewest;Dijlebekken;Elektrisch;2022;13/10/2022;kopvoorn;1.00;per 100m
+Zenne;145711/163216;145711;163216;zennebeemden;Beersel;Brabant;Dijlebekken;Elektrisch;2021;11/08/2021;kopvoorn;1.80;per 100m
+Rupel;147138/199035;147138;199035;nabij Winthamsluis;Puurs-Sint-Amands;Antwerpen;Beneden-Scheldebekken;Fuiken;2016;17/06/2016;serpeling;0.50;per fuik
+Linkebeek;147342/162773;147342;162773;baan naar Drogenbos;Linkebeek;Brabant;Dijlebekken;Elektrisch;2007;02/05/2007;kopvoorn;1.00;per 100m
+Linkebeek;147342/162773;147342;162773;baan naar Drogenbos;Linkebeek;Brabant;Dijlebekken;Elektrisch;2011;02/05/2011;kopvoorn;1.00;per 100m
+Kanaal BrusselRupel;149802/188769;149802;188769;stroomaf de sluis;Kapelle-op-den-Bos;Brabant;Beneden-Scheldebekken;Elektrisch;2002;14/10/2002;kopvoorn;0.20;per 100m
+Rupel;152324/196076;152324;196076;hamerdijk;Willebroek;Antwerpen;Beneden-Scheldebekken;Fuiken;2016;13/10/2016;kopvoorn;0.50;per fuik
+Rupel;152324/196076;152324;196076;hamerdijk;Willebroek;Antwerpen;Beneden-Scheldebekken;Fuiken;2019;10/09/2019;kopvoorn;0.50;per fuik
+Zenne;153632/178620;153632;178620;Stroomafwaarts de viaduct van Vilvoorde, aan Initial Hospital Services;Vilvoorde;Brabant;Dijlebekken;Fuiken;2022;14/10/2022;serpeling;0.25;per fuik
+Grote Nete;154082/195817;154082;195817;Nieuwe kreek - wetland in GGG Grote vijver Mechelen;Mechelen;Antwerpen;Netebekken;Elektrisch;2022;26/04/2022;kopvoorn;2.00;per 100m
+Grote Nete;154082/195817;154082;195817;Nieuwe kreek - wetland in GGG Grote vijver Mechelen;Mechelen;Antwerpen;Netebekken;Elektrisch;2022;26/10/2022;kopvoorn;0.50;per 100m
+Grote Nete;154436/196379;154436;196379;1 km voor monding in Rupel;Mechelen;Antwerpen;Netebekken;Fuiken;2022;09/09/2022;kopvoorn;1.50;per fuik
+;154455/194805;154455;194805;Zennegat + Oude Dijle, Mechelen;Mechelen;Antwerpen;Dijlebekken;Elektrisch;2019;21/03/2019;kopvoorn;5.83;per 100m
+;154455/194805;154455;194805;Zennegat + Oude Dijle, Mechelen;Mechelen;Antwerpen;Dijlebekken;Elektrisch;2019;22/03/2019;kopvoorn;6.90;per 100m
+;154455/194805;154455;194805;Zennegat + Oude Dijle, Mechelen;Mechelen;Antwerpen;Dijlebekken;Elektrisch;2020;04/11/2020;kopvoorn;4.24;per 100m
+;154455/194805;154455;194805;Zennegat + Oude Dijle, Mechelen;Mechelen;Antwerpen;Dijlebekken;Fuiken;2021;14/10/2021;kopvoorn;2.00;per fuik
+;154455/194805;154455;194805;Zennegat + Oude Dijle, Mechelen;Mechelen;Antwerpen;Dijlebekken;Elektrisch;2022;17/10/2022;kopvoorn;0.95;per 100m
+;154455/194805;154455;194805;Zennegat + Oude Dijle, Mechelen;Mechelen;Antwerpen;Dijlebekken;Fuiken;2022;18/10/2022;kopvoorn;3.00;per fuik
+;154455/194805;154455;194805;Zennegat + Oude Dijle, Mechelen;Mechelen;Antwerpen;Dijlebekken;Fuiken;2023;28/03/2023;kopvoorn;0.50;per fuik
+;154455/194805;154455;194805;Zennegat + Oude Dijle, Mechelen;Mechelen;Antwerpen;Dijlebekken;Fuiken;2023;31/10/2023;kopvoorn;0.50;per fuik
+Ringgracht aan de sluis van het Zennegat;154497/194813;154497;194813;Ringgracht aan de sluis van het Zennegat;Mechelen;Antwerpen;Dijlebekken;Elektrisch;2020;03/11/2020;kopvoorn;1.00;per 100m
+Ringgracht aan de sluis van het Zennegat;154497/194813;154497;194813;Ringgracht aan de sluis van het Zennegat;Mechelen;Antwerpen;Dijlebekken;Elektrisch;2022;17/10/2022;kopvoorn;1.00;per 100m
+Ringgracht aan de sluis van het Zennegat;154497/194813;154497;194813;Ringgracht aan de sluis van het Zennegat;Mechelen;Antwerpen;Dijlebekken;Elektrisch;2023;30/10/2023;kopvoorn;3.00;per 100m
+;154717/193904;154717;193904;Getijden-gracht in overstromingsgebied het Zennegat;Mechelen;Antwerpen;;Fuiken;2021;04/05/2021;kopvoorn;0.50;per fuik
+;154717/193904;154717;193904;Getijden-gracht in overstromingsgebied het Zennegat;Mechelen;Antwerpen;;Fuiken;2022;18/10/2022;kopvoorn;0.50;per fuik
+;154717/193904;154717;193904;Getijden-gracht in overstromingsgebied het Zennegat;Mechelen;Antwerpen;;Fuiken;2023;31/10/2023;kopvoorn;0.50;per fuik
+Dijle;154866/194577;154866;194577;thv grote vijver Walem;Mechelen;Antwerpen;Dijlebekken;Fuiken;2022;08/09/2022;kopvoorn;0.50;per fuik
+Dijle;159441/189786;159441;189786;aan Mechels broek;Mechelen;Antwerpen;Dijlebekken;Elektrisch;2016;26/05/2016;kopvoorn;1.00;per 100m
+Dijle;159441/189786;159441;189786;aan Mechels broek;Mechelen;Antwerpen;Dijlebekken;Elektrisch;2022;23/05/2022;kopvoorn;0.40;per 100m
+IJse;159599/162127;159599;162127;stroomafwaarts E411, hoeilaart;Overijse;Brabant;Dijlebekken;Elektrisch;2019;23/04/2019;serpeling;31.00;per 100m
+IJse;159784/162087;159784;162087;E411 (500m) - Frans Verbeekstraat;Overijse;Brabant;Dijlebekken;Elektrisch;2015;18/02/2015;kopvoorn;39.00;per 100m
+IJse;159932/162046;159932;162046;SH12IJse_E411;Overijse;Brabant;Dijlebekken;Elektrisch;2012;05/07/2012;kopvoorn;0.40;per 100m
+IJse;159932/162046;159932;162046;SH12IJse_E411;Overijse;Brabant;Dijlebekken;Elektrisch;2012;05/07/2012;serpeling;0.60;per 100m
+IJse;159932/162046;159932;162046;SH14IJse_E411;Overijse;Brabant;Dijlebekken;Elektrisch;2014;11/09/2014;kopvoorn;1.40;per 100m
+IJse;159933/162048;159933;162048;SH13IJse_E411;Overijse;Brabant;Dijlebekken;Elektrisch;2013;31/07/2013;kopvoorn;4.40;per 100m
+IJse;159933/162048;159933;162048;SH15IJse_E411;Overijse;Brabant;Dijlebekken;Elektrisch;2015;18/02/2015;kopvoorn;39.00;per 100m
+IJse;159933/162048;159933;162048;SH15IJse_E411;Overijse;Brabant;Dijlebekken;Elektrisch;2015;13/08/2015;kopvoorn;4.80;per 100m
+IJse;159933/162048;159933;162048;SH15IJse_E411;Overijse;Brabant;Dijlebekken;Elektrisch;2015;13/08/2015;serpeling;16.20;per 100m
+IJse;159934/162047;159934;162047;SH16IJse_E411;Overijse;Brabant;Dijlebekken;Elektrisch;2016;18/02/2016;kopvoorn;7.20;per 100m
+IJse;159934/162047;159934;162047;SH16IJse_E411;Overijse;Brabant;Dijlebekken;Elektrisch;2016;18/02/2016;serpeling;16.20;per 100m
+Barebeek;161030/188356;161030;188356;/;Mechelen;Antwerpen;Dijlebekken;Elektrisch;2019;17/04/2019;kopvoorn;7.00;per 100m
+IJse;161474/162261;161474;162261;Drogenberg, aan de molen;Overijse;Brabant;Dijlebekken;Elektrisch;2005;09/03/2005;kopvoorn;3.00;per 100m
+IJse;161474/162261;161474;162261;Drogenberg, aan de molen;Overijse;Brabant;Dijlebekken;Elektrisch;2009;12/03/2009;kopvoorn;2.00;per 100m
+IJse;161474/162261;161474;162261;Drogenberg, aan de molen;Overijse;Brabant;Dijlebekken;Elektrisch;2012;04/04/2012;kopvoorn;3.00;per 100m
+IJse;161474/162261;161474;162261;Drogenberg, aan de molen;Overijse;Brabant;Dijlebekken;Elektrisch;2009;12/03/2009;serpeling;24.00;per 100m
+IJse;161474/162261;161474;162261;Drogenberg, aan de molen;Overijse;Brabant;Dijlebekken;Elektrisch;2009;30/11/2009;serpeling;15.00;per 100m
+IJse;161474/162261;161474;162261;Drogenberg, aan de molen;Overijse;Brabant;Dijlebekken;Elektrisch;2012;04/04/2012;serpeling;8.00;per 100m
+Dijle;163070/188040;163070;188040;aan oude Dijle;Boortmeerbeek;Brabant;Dijlebekken;Elektrisch;2019;20/06/2019;kopvoorn;0.60;per 100m
+Ijsebroeken;163100/163240;163100;163240;langsheen de Huldenbergse dreef, aan de Kouterstraat;Overijse;Brabant;Dijlebekken;Elektrisch;2018;07/09/2018;kopvoorn;6.00;per 100m
+IJse;163381/163391;163381;163391;SO monding Nellebeek;Overijse;Brabant;Dijlebekken;Elektrisch;2016;12/09/2016;kopvoorn;2.00;per 100m
+IJse;163381/163391;163381;163391;SO monding Nellebeek;Overijse;Brabant;Dijlebekken;Elektrisch;2017;07/09/2017;kopvoorn;4.00;per 100m
+Nellebeek;163707/163891;163707;163891;Meeuwenlaan;Overijse;Brabant;Dijlebekken;Elektrisch;2018;07/09/2018;serpeling;16.00;per 100m
+IJse;164004/163821;164004;163821;SA monding Nellebeek;Huldenberg;Brabant;Dijlebekken;Elektrisch;2017;07/09/2017;serpeling;2.00;per 100m
+IJse;164963/164295;164963;164295;aan de molen;Huldenberg;Brabant;Dijlebekken;Elektrisch;2005;09/03/2005;kopvoorn;4.00;per 100m
+IJse;164963/164295;164963;164295;aan de molen;Huldenberg;Brabant;Dijlebekken;Elektrisch;2019;19/04/2019;kopvoorn;1.00;per 100m
+IJse;164963/164295;164963;164295;aan de molen;Huldenberg;Brabant;Dijlebekken;Elektrisch;2009;12/03/2009;serpeling;2.00;per 100m
+IJse;164963/164295;164963;164295;aan de molen;Huldenberg;Brabant;Dijlebekken;Elektrisch;2012;04/04/2012;serpeling;1.00;per 100m
+IJse;164963/164295;164963;164295;aan de molen;Huldenberg;Brabant;Dijlebekken;Elektrisch;2013;30/08/2013;serpeling;8.00;per 100m
+IJse;164963/164295;164963;164295;aan de molen;Huldenberg;Brabant;Dijlebekken;Elektrisch;2015;13/11/2015;serpeling;2.50;per 100m
+IJse;164963/164295;164963;164295;aan de molen;Huldenberg;Brabant;Dijlebekken;Elektrisch;2019;19/04/2019;serpeling;86.00;per 100m
+Netekanaal;165091/203720;165091;203720;Aan de spoorwegbrug;Lier;Antwerpen;Netebekken;Fuiken;2009;14/07/2009;serpeling;20.50;per fuik
+Dijle;165258/187664;165258;187664;/;Bonheiden;Antwerpen;Dijlebekken;Elektrisch;2013;24/04/2013;kopvoorn;0.20;per 100m
+Dijle;165258/187664;165258;187664;/;Bonheiden;Antwerpen;Dijlebekken;Elektrisch;2019;20/06/2019;kopvoorn;0.80;per 100m
+Laan;165596/161231;165596;161231;/;;Brabant;Dijlebekken;Elektrisch;2015;13/11/2015;kopvoorn;30.00;per 100m
+Laan;165596/161231;165596;161231;/;;Brabant;Dijlebekken;Elektrisch;2015;13/11/2015;serpeling;15.00;per 100m
+Grote Nete;166134/203136;166134;203136;N13 van Lier naar Nijlen, SO de spoorwegbrug;Lier;Antwerpen;Netebekken;Elektrisch;2012;08/05/2012;kopvoorn;0.50;per 100m
+IJse;166434/165003;166434;165003;J11735_IJSE_4;Huldenberg;Brabant;Dijlebekken;Elektrisch;2017;30/05/2017;kopvoorn;14.00;per 100m
+IJse;166449/165320;166449;165320;J11735_IJSE_6;Huldenberg;Brabant;Dijlebekken;Elektrisch;2017;30/05/2017;kopvoorn;1.00;per 100m
+IJse;166476/165130;166476;165130;J11735_IJSE_5;Huldenberg;Brabant;Dijlebekken;Elektrisch;2017;30/05/2017;kopvoorn;25.00;per 100m
+IJse;166503/165645;166503;165645;SH14IJse_Margij;Huldenberg;Brabant;Dijlebekken;Elektrisch;2014;08/09/2014;kopvoorn;53.60;per 100m
+IJse;166503/165645;166503;165645;SH14IJse_Margij;Huldenberg;Brabant;Dijlebekken;Elektrisch;2014;08/09/2014;serpeling;15.60;per 100m
+IJse;166503/165645;166503;165645;SH15IJse_Margij;Huldenberg;Brabant;Dijlebekken;Elektrisch;2015;19/02/2015;kopvoorn;22.80;per 100m
+IJse;166503/165645;166503;165645;SH15IJse_Margij;Huldenberg;Brabant;Dijlebekken;Elektrisch;2015;12/08/2015;kopvoorn;26.67;per 100m
+IJse;166503/165645;166503;165645;SH15IJse_Margij;Huldenberg;Brabant;Dijlebekken;Elektrisch;2015;19/02/2015;serpeling;4.80;per 100m
+IJse;166503/165645;166503;165645;SH15IJse_Margij;Huldenberg;Brabant;Dijlebekken;Elektrisch;2015;12/08/2015;serpeling;14.00;per 100m
+IJse;166504/165645;166504;165645;SH16IJse_Margij;Huldenberg;Brabant;Dijlebekken;Elektrisch;2016;17/02/2016;kopvoorn;20.00;per 100m
+IJse;166504/165645;166504;165645;SH16IJse_Margij;Huldenberg;Brabant;Dijlebekken;Elektrisch;2016;17/02/2016;serpeling;5.21;per 100m
+IJse;166510/165639;166510;165639;SH13IJse_Margij;Huldenberg;Brabant;Dijlebekken;Elektrisch;2013;30/07/2013;kopvoorn;15.60;per 100m
+IJse;166510/165639;166510;165639;SH13IJse_Margij;Huldenberg;Brabant;Dijlebekken;Elektrisch;2013;30/07/2013;serpeling;0.40;per 100m
+IJse;166515/165558;166515;165558;aan Margrijsbos;Huldenberg;Brabant;Dijlebekken;Elektrisch;2012;04/04/2012;kopvoorn;22.00;per 100m
+IJse;166515/165558;166515;165558;aan Margrijsbos;Huldenberg;Brabant;Dijlebekken;Elektrisch;2009;11/03/2009;serpeling;2.00;per 100m
+IJse;166515/165558;166515;165558;aan Margrijsbos;Huldenberg;Brabant;Dijlebekken;Elektrisch;2012;04/04/2012;serpeling;1.00;per 100m
+IJse;166537/165506;166537;165506;Margijsbos (500m);Huldenberg;Brabant;Dijlebekken;Elektrisch;2015;19/02/2015;kopvoorn;22.80;per 100m
+IJse;166537/165506;166537;165506;Margijsbos (500m);Huldenberg;Brabant;Dijlebekken;Elektrisch;2015;19/02/2015;serpeling;4.80;per 100m
+Laan;166648/162021;166648;162021;aan de molen;Overijse;Brabant;Dijlebekken;Elektrisch;2000;24/03/2000;kopvoorn;1.90;per 100m
+Laan;166648/162021;166648;162021;aan de molen;Overijse;Brabant;Dijlebekken;Elektrisch;2001;22/02/2001;kopvoorn;0.95;per 100m
+Laan;166648/162021;166648;162021;aan de molen;Overijse;Brabant;Dijlebekken;Elektrisch;2006;27/04/2006;kopvoorn;8.00;per 100m
+Laan;166648/162021;166648;162021;aan de molen;Overijse;Brabant;Dijlebekken;Elektrisch;2010;22/04/2010;kopvoorn;9.00;per 100m
+Laan;166648/162021;166648;162021;aan de molen;Overijse;Brabant;Dijlebekken;Elektrisch;2010;22/04/2010;serpeling;4.00;per 100m
+IJse;166875/166235;166875;166235;aan de molen;Huldenberg;Brabant;Dijlebekken;Elektrisch;2001;10/01/2001;kopvoorn;1.05;per 100m
+IJse;166875/166235;166875;166235;aan de molen;Huldenberg;Brabant;Dijlebekken;Elektrisch;2001;22/02/2001;kopvoorn;3.16;per 100m
+IJse;166875/166235;166875;166235;aan de molen;Huldenberg;Brabant;Dijlebekken;Elektrisch;2009;30/11/2009;kopvoorn;7.00;per 100m
+IJse;166875/166235;166875;166235;aan de molen;Huldenberg;Brabant;Dijlebekken;Elektrisch;2018;07/09/2018;kopvoorn;15.00;per 100m
+IJse;166875/166235;166875;166235;aan de molen;Huldenberg;Brabant;Dijlebekken;Elektrisch;1999;24/11/1999;serpeling;1.05;per 100m
+IJse;166875/166235;166875;166235;aan de molen;Huldenberg;Brabant;Dijlebekken;Elektrisch;2000;20/01/2000;serpeling;1.05;per 100m
+IJse;166875/166235;166875;166235;aan de molen;Huldenberg;Brabant;Dijlebekken;Elektrisch;2009;14/03/2009;serpeling;16.00;per 100m
+IJse;166875/166235;166875;166235;aan de molen;Huldenberg;Brabant;Dijlebekken;Elektrisch;2009;30/11/2009;serpeling;22.00;per 100m
+IJse;166875/166235;166875;166235;aan de molen;Huldenberg;Brabant;Dijlebekken;Elektrisch;2018;07/09/2018;serpeling;5.00;per 100m
+Laan;167005/162205;167005;162205;SH12_LaanMolen;Overijse;Brabant;Dijlebekken;Elektrisch;2012;01/08/2012;kopvoorn;0.40;per 100m
+Laan;167005/162205;167005;162205;SH12_LaanMolen;Overijse;Brabant;Dijlebekken;Elektrisch;2012;01/08/2012;serpeling;0.80;per 100m
+Laan;167005/162205;167005;162205;SH13_LaanMolen;Overijse;Brabant;Dijlebekken;Elektrisch;2013;05/08/2013;kopvoorn;3.33;per 100m
+IJse;167266/166508;167266;166508;Loonbeek, 100 m van straat;Huldenberg;Brabant;Dijlebekken;Elektrisch;2018;07/09/2018;kopvoorn;8.00;per 100m
+IJse;167266/166508;167266;166508;Loonbeek, 100 m van straat;Huldenberg;Brabant;Dijlebekken;Elektrisch;2018;07/09/2018;serpeling;4.00;per 100m
+Laan;167314/162504;167314;162504;aan de rand van het Sint-Agatha-Rodebos;Huldenberg;Brabant;Dijlebekken;Elektrisch;1998;25/05/1998;kopvoorn;1.00;per 100m
+IJse;167943/167029;167943;167029;Beekstraat (500m);Huldenberg;Brabant;Dijlebekken;Elektrisch;2015;18/02/2015;kopvoorn;3.40;per 100m
+IJse;167943/167029;167943;167029;Beekstraat (500m);Huldenberg;Brabant;Dijlebekken;Elektrisch;2015;18/02/2015;serpeling;1.80;per 100m
+IJse;168084/167109;168084;167109;SH15IJse_beekst;Huldenberg;Brabant;Dijlebekken;Elektrisch;2015;18/02/2015;kopvoorn;3.40;per 100m
+IJse;168084/167109;168084;167109;SH15IJse_beekst;Huldenberg;Brabant;Dijlebekken;Elektrisch;2015;11/08/2015;kopvoorn;3.80;per 100m
+IJse;168084/167109;168084;167109;SH15IJse_beekst;Huldenberg;Brabant;Dijlebekken;Elektrisch;2015;18/02/2015;serpeling;1.80;per 100m
+IJse;168084/167109;168084;167109;SH15IJse_beekst;Huldenberg;Brabant;Dijlebekken;Elektrisch;2015;11/08/2015;serpeling;3.60;per 100m
+IJse;168085/167107;168085;167107;SH12IJse_Beekst;Huldenberg;Brabant;Dijlebekken;Elektrisch;2012;31/07/2012;kopvoorn;2.40;per 100m
+IJse;168085/167107;168085;167107;SH12IJse_Beekst;Huldenberg;Brabant;Dijlebekken;Elektrisch;2012;31/07/2012;serpeling;0.40;per 100m
+IJse;168085/167107;168085;167107;SH14IJse_beekst;Huldenberg;Brabant;Dijlebekken;Elektrisch;2014;08/09/2014;kopvoorn;13.40;per 100m
+IJse;168085/167107;168085;167107;SH14IJse_beekst;Huldenberg;Brabant;Dijlebekken;Elektrisch;2014;08/09/2014;serpeling;4.40;per 100m
+IJse;168085/167109;168085;167109;SH16IJse_beekst;Huldenberg;Brabant;Dijlebekken;Elektrisch;2016;16/02/2016;kopvoorn;0.40;per 100m
+IJse;168085/167109;168085;167109;SH16IJse_beekst;Huldenberg;Brabant;Dijlebekken;Elektrisch;2016;16/02/2016;serpeling;0.40;per 100m
+IJse;168088/167106;168088;167106;SH13IJse_Beekst;Huldenberg;Brabant;Dijlebekken;Elektrisch;2013;29/07/2013;kopvoorn;2.60;per 100m
+IJse;168088/167106;168088;167106;SH13IJse_Beekst;Huldenberg;Brabant;Dijlebekken;Elektrisch;2013;29/07/2013;serpeling;0.40;per 100m
+IJse;168090/167109;168090;167109;Beekstraat;Huldenberg;Brabant;Dijlebekken;Elektrisch;2015;29/04/2015;kopvoorn;7.00;per 100m
+Dijle;168795/164165;168795;164165;100m SA brug;Huldenberg;Brabant;Dijlebekken;Elektrisch;2016;23/05/2016;serpeling;0.50;per 100m
+IJse;168864/167799;168864;167799;Eigenstraat;Huldenberg;Brabant;Dijlebekken;Elektrisch;2013;29/08/2013;kopvoorn;7.00;per 100m
+IJse;168864/167799;168864;167799;Eigenstraat;Huldenberg;Brabant;Dijlebekken;Elektrisch;2015;13/11/2015;kopvoorn;17.50;per 100m
+IJse;168864/167799;168864;167799;Eigenstraat;Huldenberg;Brabant;Dijlebekken;Elektrisch;2009;11/03/2009;serpeling;1.00;per 100m
+IJse;168864/167799;168864;167799;Eigenstraat;Huldenberg;Brabant;Dijlebekken;Elektrisch;2015;24/04/2015;serpeling;4.00;per 100m
+Dijle;168939/162919;168939;162919;Pont des Brebis, Pecrot;Huldenberg;Brabant;Dijlebekken;Elektrisch;2016;23/05/2016;serpeling;0.50;per 100m
+Dijle;168946/162786;168946;162786;200m SO Pont de Brévis;Huldenberg;Brabant;Dijlebekken;Elektrisch;2016;23/05/2016;serpeling;0.50;per 100m
+Laan;168949/164747;168949;164747;aan de monding in de Dijle;Huldenberg;Brabant;Dijlebekken;Elektrisch;2010;22/04/2010;serpeling;0.50;per 100m
+Molenbeek;169080/207936;169080;207936;Viersel;Zandhoven;Antwerpen;Netebekken;Elektrisch;2019;01/07/2019;kopvoorn;1.00;per 100m
+IJse;169154/168120;169154;168120;SH16IJse_Mondin;Huldenberg;Brabant;Dijlebekken;Elektrisch;2016;29/09/2016;kopvoorn;;per 100m
+IJse;169154/168120;169154;168120;SH16IJse_Mondin;Huldenberg;Brabant;Dijlebekken;Elektrisch;2016;29/09/2016;serpeling;;per 100m
+Dijle;169163/165020;169163;165020;aan de monding van de Laan;Huldenberg;Brabant;Dijlebekken;Elektrisch;2007;04/06/2007;kopvoorn;0.20;per 100m
+Dijle;169163/165020;169163;165020;aan de monding van de Laan;Huldenberg;Brabant;Dijlebekken;Elektrisch;2010;03/06/2010;kopvoorn;0.60;per 100m
+Dijle;169186/186325;169186;186325;Hansbrug;Haacht;Brabant;Dijlebekken;Elektrisch;2013;24/04/2013;kopvoorn;0.60;per 100m
+Dijle;169186/186325;169186;186325;Hansbrug;Haacht;Brabant;Dijlebekken;Elektrisch;2019;19/06/2019;kopvoorn;2.60;per 100m
+Dijle;169186/186325;169186;186325;Hansbrug;Haacht;Brabant;Dijlebekken;Elektrisch;2019;19/06/2019;serpeling;0.20;per 100m
+Dijle;169229/168159;169229;168159;aan de monding van de IJse;Huldenberg;Brabant;Dijlebekken;Elektrisch;2013;22/04/2013;kopvoorn;0.40;per 100m
+Dijle;169229/168159;169229;168159;aan de monding van de IJse;Huldenberg;Brabant;Dijlebekken;Elektrisch;2022;24/05/2022;kopvoorn;2.00;per 100m
+Dijle;169229/168159;169229;168159;aan de monding van de IJse;Huldenberg;Brabant;Dijlebekken;Elektrisch;2022;09/11/2022;kopvoorn;;per 100m
+Dijle;169229/168159;169229;168159;aan de monding van de IJse;Huldenberg;Brabant;Dijlebekken;Elektrisch;2013;22/04/2013;serpeling;0.20;per 100m
+Dijle;169229/168159;169229;168159;aan de monding van de IJse;Huldenberg;Brabant;Dijlebekken;Elektrisch;2019;17/06/2019;serpeling;0.20;per 100m
+Dijle;169229/168159;169229;168159;aan de monding van de IJse;Huldenberg;Brabant;Dijlebekken;Elektrisch;2022;24/05/2022;serpeling;0.50;per 100m
+Dijle;169342/169762;169342;169762;aan de monding van de Leigracht;Bertem;Brabant;Dijlebekken;Elektrisch;2016;24/05/2016;kopvoorn;0.50;per 100m
+Dijle;169342/169762;169342;169762;aan de monding van de Leigracht;Bertem;Brabant;Dijlebekken;Elektrisch;2022;24/05/2022;kopvoorn;1.67;per 100m
+Dijle;169645/161047;169645;161047;Florival;;Brabant;Dijlebekken;Elektrisch;2003;06/05/2003;kopvoorn;0.20;per 100m
+Dijle;169645/161047;169645;161047;Florival;;Brabant;Dijlebekken;Elektrisch;2010;03/06/2010;kopvoorn;0.73;per 100m
+Dijle;169645/161047;169645;161047;Florival;;Brabant;Dijlebekken;Elektrisch;2019;17/06/2019;kopvoorn;0.20;per 100m
+Dijle;171089/186304;171089;186304;aan de monding van de Grote Laakbeek;Haacht;Brabant;Dijlebekken;Elektrisch;2007;06/06/2007;kopvoorn;0.40;per 100m
+Dijle;171089/186304;171089;186304;aan de monding van de Grote Laakbeek;Haacht;Brabant;Dijlebekken;Elektrisch;2016;25/05/2016;kopvoorn;5.00;per 100m
+Dijle;171089/186304;171089;186304;aan de monding van de Grote Laakbeek;Haacht;Brabant;Dijlebekken;Elektrisch;2022;23/05/2022;kopvoorn;1.80;per 100m
+Dijle;171137/186267;171137;186267;100m SO monding Grote Laakbeek;Tremelo;Brabant;Dijlebekken;Elektrisch;2016;25/05/2016;kopvoorn;0.50;per 100m
+Dijle;171137/186267;171137;186267;100m SO monding Grote Laakbeek;Tremelo;Brabant;Dijlebekken;Elektrisch;2016;25/05/2016;serpeling;2.00;per 100m
+Dijle;171171/186173;171171;186173;200m SO monding Grote laakbeek;Rotselaar;Brabant;Dijlebekken;Elektrisch;2016;25/05/2016;kopvoorn;3.00;per 100m
+Klein Wilboerebeek;171584/211991;171584;211991;SA fietspad;Zandhoven;Antwerpen;Netebekken;Elektrisch;2023;07/07/2023;serpeling;7.00;per 100m
+Molenbeek;171673/210368;171673;210368;Aan de samenvloeiing met de Klein Wilboerebeek;Zandhoven;Antwerpen;Netebekken;Elektrisch;2017;19/07/2017;kopvoorn;1.00;per 100m
+Dijle;172125/172534;172125;172534;aan de Arenbergmolen;Leuven;Brabant;Dijlebekken;Elektrisch;2003;07/05/2003;kopvoorn;0.20;per 100m
+Dijle;172125/172534;172125;172534;aan de Arenbergmolen;Leuven;Brabant;Dijlebekken;Elektrisch;2007;05/06/2007;kopvoorn;4.60;per 100m
+Dijle;172125/172534;172125;172534;aan de Arenbergmolen;Leuven;Brabant;Dijlebekken;Elektrisch;2010;27/07/2010;kopvoorn;13.00;per 100m
+Molenbeek;172279/210708;172279;210708;aan zuiveringsstaion;Zandhoven;Antwerpen;Netebekken;Elektrisch;2012;25/04/2012;kopvoorn;1.00;per 100m
+Demer;172864/184242;172864;184242;monding Dijle;Rotselaar;Brabant;Demerbekken;Elektrisch;2012;11/06/2012;kopvoorn;0.60;per 100m
+Dijle;173060/173913;173060;173913;aan de Dijlemolens;Leuven;Brabant;Dijlebekken;Elektrisch;2019;18/06/2019;kopvoorn;1.00;per 100m
+Dijle;173060/173913;173060;173913;aan de Dijlemolens;Leuven;Brabant;Dijlebekken;Elektrisch;2019;18/06/2019;serpeling;1.00;per 100m
+Dijle;173808/179531;173808;179531;aan de Dijlebrug (Aquafin);Leuven;Brabant;Dijlebekken;Elektrisch;2013;23/04/2013;kopvoorn;0.80;per 100m
+Dijle;173808/179531;173808;179531;aan de Dijlebrug (Aquafin);Leuven;Brabant;Dijlebekken;Elektrisch;2018;25/06/2018;kopvoorn;0.60;per 100m
+Dijle;173808/179531;173808;179531;aan de Dijlebrug (Aquafin);Leuven;Brabant;Dijlebekken;Elektrisch;2019;19/06/2019;kopvoorn;5.60;per 100m
+Dijle;173808/179531;173808;179531;aan de Dijlebrug (Aquafin);Leuven;Brabant;Dijlebekken;Elektrisch;2021;13/07/2021;kopvoorn;9.50;per 100m
+Dijle;173808/179531;173808;179531;aan de Dijlebrug (Aquafin);Leuven;Brabant;Dijlebekken;Elektrisch;2018;25/06/2018;serpeling;0.40;per 100m
+Dijle;173808/179531;173808;179531;aan de Dijlebrug (Aquafin);Leuven;Brabant;Dijlebekken;Elektrisch;2019;19/06/2019;serpeling;0.40;per 100m
+Ruisseau aux Etangs Hendrickx;174297/172680;174297;172680;Afwateringsbeek park Heverlee;Leuven;Brabant;Dijlebekken;Elektrisch;2018;12/09/2018;kopvoorn;12.00;per 100m
+Molenbeek;174301/172699;174301;172699;Abdij Park Heverlee;Leuven;Brabant;Dijlebekken;Elektrisch;2017;05/09/2017;kopvoorn;148.00;per 100m
+Molenbeek;174301/172699;174301;172699;Abdij Park Heverlee;Leuven;Brabant;Dijlebekken;Elektrisch;2018;12/09/2018;kopvoorn;148.00;per 100m
+Molenbeek;174301/172699;174301;172699;Abdij Park Heverlee;Leuven;Brabant;Dijlebekken;Elektrisch;2017;05/09/2017;serpeling;40.00;per 100m
+Molenbeek;174301/172699;174301;172699;Abdij Park Heverlee;Leuven;Brabant;Dijlebekken;Elektrisch;2018;12/09/2018;serpeling;4.00;per 100m
+Vunt;174350/179128;174350;179128;Wijgmaal;Leuven;Brabant;Dijlebekken;Elektrisch;2023;03/10/2023;kopvoorn;3.00;per 100m
+Grote Nete;174475/201797;174475;201797;Herberg t Schipken;Heist-op-den-Berg;Antwerpen;Netebekken;Elektrisch;2006;20/03/2006;kopvoorn;0.50;per 100m
+Grote Nete;174475/201797;174475;201797;Herberg t Schipken;Heist-op-den-Berg;Antwerpen;Netebekken;Fuiken;2006;20/03/2006;kopvoorn;3.25;per fuik
+Demer;174581/184472;174581;184472;voor de monding van de Winge tot aan de Soldatenbrug;Rotselaar;Brabant;Demerbekken;Elektrisch;2012;11/06/2012;kopvoorn;1.60;per 100m
+Demer;174581/184472;174581;184472;voor de monding van de Winge tot aan de Soldatenbrug;Rotselaar;Brabant;Demerbekken;Elektrisch;2014;16/06/2014;kopvoorn;2.40;per 100m
+Demer;174581/184472;174581;184472;voor de monding van de Winge tot aan de Soldatenbrug;Rotselaar;Brabant;Demerbekken;Elektrisch;2019;05/11/2019;kopvoorn;2.20;per 100m
+Demer;174581/184472;174581;184472;voor de monding van de Winge tot aan de Soldatenbrug;Rotselaar;Brabant;Demerbekken;Elektrisch;2020;22/06/2020;kopvoorn;1.40;per 100m
+Demer;174581/184472;174581;184472;voor de monding van de Winge tot aan de Soldatenbrug;Rotselaar;Brabant;Demerbekken;Elektrisch;2021;22/10/2021;kopvoorn;8.40;per 100m
+Demer;174581/184472;174581;184472;voor de monding van de Winge tot aan de Soldatenbrug;Rotselaar;Brabant;Demerbekken;Elektrisch;2021;22/10/2021;serpeling;0.20;per 100m
+Rotselaar meer (De Plas);175102/183338;175102;183338;Elektrisch beviste oeverstrook 3 in Zone A (visserszone)- Rotselaar Meer;Rotselaar;Brabant;Demerbekken;Elektrisch;2007;03/09/2007;kopvoorn;;per 100m
+Rotselaar meer (De Plas);175473/183481;175473;183481;Elektrisch beviste oeverstrook 8 in Zone F (beek Oost) - Rotselaar Meer;Rotselaar;Brabant;Demerbekken;Elektrisch;2007;03/09/2007;kopvoorn;;per 100m
+Kleine Nete;175582/208603;175582;208603;Rooiaarde;Grobbendonk;Antwerpen;Netebekken;Elektrisch;2010;23/04/2010;kopvoorn;3.50;per 100m
+Kleine Nete;175582/208603;175582;208603;Rooiaarde;Grobbendonk;Antwerpen;Netebekken;Elektrisch;2017;18/07/2017;kopvoorn;0.17;per 100m
+Kleine Nete;175582/208603;175582;208603;Rooiaarde;Grobbendonk;Antwerpen;Netebekken;Elektrisch;2023;10/11/2023;kopvoorn;0.33;per 100m
+Kleine Nete;175582/208603;175582;208603;Rooiaarde;Grobbendonk;Antwerpen;Netebekken;Elektrisch;2007;17/04/2007;serpeling;0.50;per 100m
+Grote Nete;175727/199227;175727;199227;Krombeekweg, Hof ter Borcht;Heist-op-den-Berg;Antwerpen;Netebekken;Elektrisch;2006;20/03/2006;kopvoorn;2.50;per 100m
+Grote Nete;175727/199227;175727;199227;Krombeekweg, Hof ter Borcht;Heist-op-den-Berg;Antwerpen;Netebekken;Fuiken;2006;20/03/2006;kopvoorn;0.50;per fuik
+Grote Nete;175727/199227;175727;199227;Krombeekweg, Hof ter Borcht;Heist-op-den-Berg;Antwerpen;Netebekken;Elektrisch;2009;28/04/2009;kopvoorn;2.00;per 100m
+Grote Nete;175727/199227;175727;199227;Krombeekweg, Hof ter Borcht;Heist-op-den-Berg;Antwerpen;Netebekken;Elektrisch;2012;08/05/2012;kopvoorn;1.50;per 100m
+Grote Nete;175727/199227;175727;199227;Krombeekweg, Hof ter Borcht;Heist-op-den-Berg;Antwerpen;Netebekken;Elektrisch;2020;04/03/2020;kopvoorn;1.08;per 100m
+Molenbeek;176098/172228;176098;172228;/;Leuven;Brabant;Dijlebekken;Elektrisch;2012;12/04/2012;kopvoorn;1.00;per 100m
+Molenbeek;176098/172228;176098;172228;/;Leuven;Brabant;Dijlebekken;Elektrisch;2023;06/03/2023;kopvoorn;1.00;per 100m
+De Delfte Beek;176099/215473;176099;215473;aan kluisbrug;Zoersel;Antwerpen;Netebekken;Elektrisch;2009;20/04/2009;kopvoorn;2.00;per 100m
+De Delfte Beek;176099/215473;176099;215473;aan kluisbrug;Zoersel;Antwerpen;Netebekken;Elektrisch;2012;24/04/2012;kopvoorn;10.00;per 100m
+De Delfte Beek;176099/215473;176099;215473;aan kluisbrug;Zoersel;Antwerpen;Netebekken;Elektrisch;2016;21/09/2016;kopvoorn;20.00;per 100m
+De Delfte Beek;176099/215473;176099;215473;aan kluisbrug;Zoersel;Antwerpen;Netebekken;Elektrisch;2022;28/07/2022;kopvoorn;2.00;per 100m
+De Delfte Beek;176099/215473;176099;215473;aan kluisbrug;Zoersel;Antwerpen;Netebekken;Elektrisch;2022;28/07/2022;serpeling;3.00;per 100m
+Mark;176322/237341;176322;237341;Meer-Looi;Hoogstraten;Antwerpen;Maasbekken;Elektrisch;2004;25/05/2004;kopvoorn;0.50;per 100m
+Molenbeek;176472/214798;176472;214798;Galgevoorste brug;Malle;Antwerpen;Netebekken;Elektrisch;2009;20/04/2009;kopvoorn;10.00;per 100m
+Molenbeek;176472/214798;176472;214798;Galgevoorste brug;Malle;Antwerpen;Netebekken;Elektrisch;2012;24/04/2012;kopvoorn;9.00;per 100m
+Molenbeek;176472/214798;176472;214798;Galgevoorste brug;Malle;Antwerpen;Netebekken;Elektrisch;2013;07/10/2013;kopvoorn;1.00;per 100m
+Molenbeek;176482/214813;176482;214813;SH13_MolBolGalg;Malle;Antwerpen;Netebekken;Elektrisch;2013;07/08/2013;kopvoorn;0.40;per 100m
+Molenbeek;176825/172121;176825;172121;Huizekensstraat;Bierbeek;Brabant;Dijlebekken;Elektrisch;2017;05/09/2017;kopvoorn;2.00;per 100m
+Grote Nete;177254/196555;177254;196555;Grote nete;Heist-op-den-Berg;Antwerpen;Netebekken;Elektrisch;2013;05/03/2013;kopvoorn;1.50;per 100m
+Grote Nete;177254/196555;177254;196555;Grote nete;Heist-op-den-Berg;Antwerpen;Netebekken;Elektrisch;2017;23/08/2017;kopvoorn;3.00;per 100m
+Grote Nete;177254/196555;177254;196555;Grote nete;Heist-op-den-Berg;Antwerpen;Netebekken;Elektrisch;2019;15/03/2019;kopvoorn;0.50;per 100m
+De Aa;178082/209509;178082;209509;VMM17_AaSADijkb;Vorselaar;Antwerpen;Netebekken;Fuiken;2017;15/06/2017;kopvoorn;;per 100m
+De Aa;178326/209664;178326;209664;thv de dijkbaan;Vorselaar;Antwerpen;Netebekken;Elektrisch;2013;28/08/2013;kopvoorn;7.00;per 100m
+Mark;178531/243333;178531;243333;Strijbeek, Mankweg;Hoogstraten;Antwerpen;Maasbekken;Elektrisch;2004;25/05/2004;serpeling;1.50;per 100m
+Kleine Nete;178909/208394;178909;208394;Kleine Nete: brug Heike: ca. 100m stroomaf brug tot ca. 100m stroomop;Vorselaar;Antwerpen;Netebekken;Elektrisch;2013;16/07/2013;kopvoorn;3.60;per 100m
+Kleine Nete;178909/208394;178909;208394;Kleine Nete: brug Heike: ca. 100m stroomaf brug tot ca. 100m stroomop;Vorselaar;Antwerpen;Netebekken;Elektrisch;2019;21/06/2019;kopvoorn;2.40;per 100m
+Moutlaak;178985/185539;178985;185539;SA  Rivierenbrug;Aarschot;Brabant;Demerbekken;Fuiken;2016;14/10/2016;kopvoorn;0.25;per fuik
+Demer;179024/185555;179024;185555;Rivierenbrug;Begijnendijk;Brabant;Demerbekken;Elektrisch;2012;11/06/2012;kopvoorn;0.60;per 100m
+Demer;179024/185555;179024;185555;Rivierenbrug;Begijnendijk;Brabant;Demerbekken;Elektrisch;2023;08/06/2023;kopvoorn;11.80;per 100m
+Demer;182155/186324;182155;186324;'s Hertogenmolen;Aarschot;Brabant;Demerbekken;Elektrisch;2003;05/05/2003;kopvoorn;0.20;per 100m
+Demer;182155/186324;182155;186324;'s Hertogenmolen;Aarschot;Brabant;Demerbekken;Elektrisch;2006;03/04/2006;kopvoorn;2.20;per 100m
+Demer;182155/186324;182155;186324;'s Hertogenmolen;Aarschot;Brabant;Demerbekken;Elektrisch;2006;18/05/2006;kopvoorn;1.00;per 100m
+Demer;182155/186324;182155;186324;'s Hertogenmolen;Aarschot;Brabant;Demerbekken;Elektrisch;2009;05/06/2009;kopvoorn;0.40;per 100m
+Demer;182155/186324;182155;186324;'s Hertogenmolen;Aarschot;Brabant;Demerbekken;Elektrisch;2012;07/06/2012;kopvoorn;6.20;per 100m
+Grote Nete;182328/194990;182328;194990;100m SA punt 51313150;Hulshout;Antwerpen;Netebekken;Elektrisch;2023;04/10/2023;kopvoorn;2.50;per 100m
+Grote Nete;182401/194973;182401;194973;grens met Westerlo, Hoog Heultje, Werstmeerse brug;Westerlo;Antwerpen;Netebekken;Elektrisch;2003;19/03/2003;kopvoorn;0.50;per 100m
+Grote Nete;182401/194973;182401;194973;grens met Westerlo, Hoog Heultje, Werstmeerse brug;Westerlo;Antwerpen;Netebekken;Elektrisch;2006;22/03/2006;kopvoorn;1.00;per 100m
+Grote Nete;182401/194973;182401;194973;grens met Westerlo, Hoog Heultje, Werstmeerse brug;Westerlo;Antwerpen;Netebekken;Elektrisch;2009;29/04/2009;kopvoorn;2.00;per 100m
+Grote Nete;182401/194973;182401;194973;grens met Westerlo, Hoog Heultje, Werstmeerse brug;Westerlo;Antwerpen;Netebekken;Elektrisch;2017;20/09/2017;kopvoorn;13.00;per 100m
+Grote Nete;182401/194973;182401;194973;grens met Westerlo, Hoog Heultje, Werstmeerse brug;Westerlo;Antwerpen;Netebekken;Elektrisch;2023;04/10/2023;kopvoorn;0.50;per 100m
+Grote Nete;182579/194971;182579;194971;100SO punt 51313150A;Hulshout;Antwerpen;Netebekken;Elektrisch;2023;04/10/2023;kopvoorn;2.50;per 100m
+Kanaal van Bocholt naar Herentals;182685/206631;182685;206631;/;Herentals;Antwerpen;Netebekken;Elektrisch;1996;01/10/1996;kopvoorn;0.20;per 100m
+Kleine Nete;182983/208368;182983;208368;Aan kledingwinkel;Herentals;Antwerpen;Netebekken;Elektrisch;2013;16/07/2013;kopvoorn;18.40;per 100m
+Kleine Nete;182983/208368;182983;208368;Aan kledingwinkel;Herentals;Antwerpen;Netebekken;Elektrisch;2018;24/05/2018;kopvoorn;0.75;per 100m
+Kleine Nete;182983/208368;182983;208368;Aan kledingwinkel;Herentals;Antwerpen;Netebekken;Elektrisch;2019;21/06/2019;kopvoorn;1.50;per 100m
+Kleine Nete;182983/208368;182983;208368;Aan kledingwinkel;Herentals;Antwerpen;Netebekken;Elektrisch;2021;18/11/2021;kopvoorn;4.00;per 100m
+Kleine Nete;182983/208368;182983;208368;Aan kledingwinkel;Herentals;Antwerpen;Netebekken;Elektrisch;2013;16/07/2013;serpeling;0.60;per 100m
+Demer;183217/186186;183217;186186;monding Motte;Aarschot;Brabant;Demerbekken;Elektrisch;2006;03/04/2006;kopvoorn;0.20;per 100m
+Demer;183217/186186;183217;186186;monding Motte;Aarschot;Brabant;Demerbekken;Elektrisch;2012;07/06/2012;kopvoorn;1.00;per 100m
+Grote Motte;183689/185682;183689;185682;achter de molen Schoonhoven;Aarschot;Brabant;Demerbekken;Elektrisch;1999;28/09/1999;kopvoorn;8.24;per 100m
+Grote Motte;183689/185682;183689;185682;achter de molen Schoonhoven;Aarschot;Brabant;Demerbekken;Elektrisch;2003;04/03/2003;kopvoorn;26.00;per 100m
+Grote Motte;183689/185682;183689;185682;achter de molen Schoonhoven;Aarschot;Brabant;Demerbekken;Elektrisch;2007;13/03/2007;kopvoorn;11.00;per 100m
+Grote Motte;183689/185682;183689;185682;achter de molen Schoonhoven;Aarschot;Brabant;Demerbekken;Elektrisch;2016;27/09/2016;kopvoorn;11.00;per 100m
+Grote Motte;183689/185682;183689;185682;achter de molen Schoonhoven;Aarschot;Brabant;Demerbekken;Elektrisch;2022;16/06/2022;kopvoorn;42.00;per 100m
+De Aa;184965/213826;184965;213826;aan de stuw;Lille;Antwerpen;Netebekken;Elektrisch;2023;14/04/2023;kopvoorn;1.00;per 100m
+Demer;186853/187250;186853;187250;Rommelaar;Aarschot;Brabant;Demerbekken;Elektrisch;2014;17/06/2014;kopvoorn;5.00;per 100m
+Demer;186853/187250;186853;187250;Rommelaar;Aarschot;Brabant;Demerbekken;Elektrisch;2020;22/06/2020;kopvoorn;2.60;per 100m
+Demer;186853/187250;186853;187250;Rommelaar;Aarschot;Brabant;Demerbekken;Elektrisch;2021;21/10/2021;kopvoorn;6.00;per 100m
+Laarbeek;187233/187461;187233;187461;Demermeander 9, via Hompelstraat, Rommelaar;Aarschot;Brabant;Demerbekken;Elektrisch;2016;28/04/2016;kopvoorn;21.00;per 100m
+Laarbeek;187233/187461;187233;187461;Demermeander 9, via Hompelstraat, Rommelaar;Aarschot;Brabant;Demerbekken;Elektrisch;2016;12/09/2016;kopvoorn;3.00;per 100m
+Kleine Nete;187326/209997;187326;209997;bij Bobbejaanland;Geel;Antwerpen;Netebekken;Elektrisch;2017;18/08/2017;kopvoorn;9.00;per 100m
+Kleine Nete;187326/209997;187326;209997;bij Bobbejaanland;Geel;Antwerpen;Netebekken;Elektrisch;2007;17/04/2007;serpeling;0.50;per 100m
+Grote Gete;187359/162724;187359;162724;achter molen, SA stuw;Hoegaarden;Brabant;Demerbekken;Elektrisch;2001;06/03/2001;kopvoorn;18.00;per 100m
+Demer;187413/187481;187413;187481;Demermeander 8 bis, via Hompelstraat, Rommelaar;Aarschot;Brabant;Demerbekken;Elektrisch;2016;08/09/2016;kopvoorn;0.42;per 100m
+Laarbeek;187521/187341;187521;187341;voor monding;Scherpenheuvel-Zichem;Brabant;Demerbekken;Elektrisch;2014;20/08/2014;kopvoorn;1.00;per 100m
+Laarbeek;187521/187341;187521;187341;voor monding;Scherpenheuvel-Zichem;Brabant;Demerbekken;Elektrisch;2015;20/11/2015;kopvoorn;5.00;per 100m
+Demer;190681/188490;190681;188490;Testelt aan de molen;Scherpenheuvel-Zichem;Brabant;Demerbekken;Elektrisch;2003;05/05/2003;kopvoorn;0.40;per 100m
+Demer;190681/188490;190681;188490;Testelt aan de molen;Scherpenheuvel-Zichem;Brabant;Demerbekken;Elektrisch;2006;18/05/2006;kopvoorn;0.20;per 100m
+Demer;190681/188490;190681;188490;Testelt aan de molen;Scherpenheuvel-Zichem;Brabant;Demerbekken;Elektrisch;2014;18/06/2014;kopvoorn;0.80;per 100m
+Demer;190681/188490;190681;188490;Testelt aan de molen;Scherpenheuvel-Zichem;Brabant;Demerbekken;Elektrisch;2020;23/06/2020;kopvoorn;3.20;per 100m
+Demer;190681/188490;190681;188490;Testelt aan de molen;Scherpenheuvel-Zichem;Brabant;Demerbekken;Elektrisch;2021;21/10/2021;kopvoorn;0.80;per 100m
+Dalemansloop;192412/212074;192412;212074;thv N19;Geel;Antwerpen;Netebekken;Elektrisch;2014;31/07/2014;kopvoorn;7.00;per 100m
+Grote Gete;192584/166814;192584;166814;Tienen, SA het zuiveringsstation;Tienen;Brabant;Demerbekken;Elektrisch;2017;07/09/2017;kopvoorn;1.50;per 100m
+Dalemansloop;193051/211472;193051;211472;thv Breevense dijk;Geel;Antwerpen;Netebekken;Elektrisch;2014;31/07/2014;kopvoorn;1.00;per 100m
+Dalemansloop;193051/211472;193051;211472;thv Breevense dijk;Geel;Antwerpen;Netebekken;Elektrisch;2021;05/10/2021;kopvoorn;2.00;per 100m
+Demer;193230/188174;193230;188174;stroomafwaarts de molen;Scherpenheuvel-Zichem;Brabant;Demerbekken;Elektrisch;2009;08/06/2009;kopvoorn;4.60;per 100m
+Demer;193230/188174;193230;188174;stroomafwaarts de molen;Scherpenheuvel-Zichem;Brabant;Demerbekken;Elektrisch;2012;06/06/2012;kopvoorn;2.20;per 100m
+Demer;193230/188174;193230;188174;stroomafwaarts de molen;Scherpenheuvel-Zichem;Brabant;Demerbekken;Elektrisch;2014;17/06/2014;kopvoorn;0.20;per 100m
+Demer;193230/188174;193230;188174;stroomafwaarts de molen;Scherpenheuvel-Zichem;Brabant;Demerbekken;Elektrisch;2020;23/06/2020;kopvoorn;24.60;per 100m
+Demer;193230/188174;193230;188174;stroomafwaarts de molen;Scherpenheuvel-Zichem;Brabant;Demerbekken;Elektrisch;2021;20/10/2021;kopvoorn;3.80;per 100m
+Grote Gete;193389/167610;193389;167610;/;Tienen;Brabant;Demerbekken;Elektrisch;2001;06/03/2001;kopvoorn;1.00;per 100m
+Grote Nete;193396/201800;193396;201800;Voor parallelweg;Geel;Antwerpen;Netebekken;Elektrisch;2017;20/09/2017;kopvoorn;2.00;per 100m
+Grote Nete;193396/201800;193396;201800;Voor parallelweg;Geel;Antwerpen;Netebekken;Elektrisch;2023;13/09/2023;kopvoorn;2.50;per 100m
+De Hulpe;193665/188889;193665;188889;275m van spoorweg, opw van de weg;Scherpenheuvel-Zichem;Brabant;Demerbekken;Elektrisch;2017;09/03/2017;kopvoorn;0.50;per 100m
+De Hulpe;193665/188889;193665;188889;275m van spoorweg, opw van de weg;Scherpenheuvel-Zichem;Brabant;Demerbekken;Elektrisch;2021;09/03/2021;kopvoorn;12.50;per 100m
+De Hulpe;193665/188889;193665;188889;275m van spoorweg, opw van de weg;Scherpenheuvel-Zichem;Brabant;Demerbekken;Elektrisch;2021;19/03/2021;kopvoorn;2.00;per 100m
+Velpe;193749/174153;193749;174153;SA molen Hoeleden;Kortenaken;Brabant;Demerbekken;Elektrisch;2017;08/09/2017;kopvoorn;1.00;per 100m
+Velpe;193749/174153;193749;174153;SA molen Hoeleden;Kortenaken;Brabant;Demerbekken;Elektrisch;2023;07/11/2023;kopvoorn;0.50;per 100m
+Grote Nete;193986/203445;193986;203445;SO brug;Geel;Antwerpen;Netebekken;Elektrisch;2015;04/08/2015;kopvoorn;2.00;per 100m
+Grote Nete;193986/203445;193986;203445;SO brug;Geel;Antwerpen;Netebekken;Elektrisch;2020;29/05/2020;kopvoorn;5.00;per 100m
+Scherpenbergenloop;194059/203379;194059;203379;stroomopwaarts vanaf meander Wildersedijk;Geel;Antwerpen;Netebekken;Elektrisch;2013;06/06/2013;serpeling;0.40;per 100m
+Scherpenbergenloop;194282/203468;194282;203468;Wildersedijk, SO brug;Geel;Antwerpen;Netebekken;Elektrisch;2015;28/07/2015;serpeling;1.00;per 100m
+Grote Nete;194368/203907;194368;203907;200m SA monding Molse Nete;Geel;Antwerpen;Netebekken;Elektrisch;2017;14/09/2017;kopvoorn;2.50;per 100m
+Grote Nete;194368/203907;194368;203907;200m SA monding Molse Nete;Geel;Antwerpen;Netebekken;Elektrisch;2023;13/09/2023;kopvoorn;2.50;per 100m
+Grote Nete;194952/204549;194952;204549;Na stuw Maelesbroek;Geel;Antwerpen;Netebekken;Elektrisch;2015;31/07/2015;kopvoorn;15.00;per 100m
+Grote Nete;195003/204557;195003;204557;Maelesbroek;Geel;Antwerpen;Netebekken;Elektrisch;2015;20/10/2015;kopvoorn;4.00;per 100m
+Grote Nete;195003/204557;195003;204557;Maelesbroek;Geel;Antwerpen;Netebekken;Elektrisch;2020;12/10/2020;kopvoorn;8.00;per 100m
+Grote Nete;195003/204557;195003;204557;Maelesbroek;Geel;Antwerpen;Netebekken;Elektrisch;2020;12/10/2020;serpeling;1.00;per 100m
+Zwart Water;195303/188403;195303;188403;Brugje tss dorpsst en molenweg;Diest;Brabant;Demerbekken;Elektrisch;2017;09/03/2017;kopvoorn;3.25;per 100m
+Zwart Water;195303/188403;195303;188403;Brugje tss dorpsst en molenweg;Diest;Brabant;Demerbekken;Elektrisch;2021;17/03/2021;kopvoorn;3.67;per 100m
+Zwart Water;195303/188403;195303;188403;Brugje tss dorpsst en molenweg;Diest;Brabant;Demerbekken;Fuiken;2021;19/03/2021;kopvoorn;0.10;per fuik
+Breyloop;195857/213323;195857;213323;Grote Kievit;Retie;Antwerpen;Netebekken;Elektrisch;2008;10/04/2008;kopvoorn;1.00;per 100m
+Kleine Gete;196232/164000;196232;164000;Landen + 150m;Landen;Brabant;Demerbekken;Elektrisch;2001;09/05/2001;kopvoorn;1.00;per 100m
+Demer;196565/186919;196565;186919;waterzuiveringsstation;Diest;Brabant;Demerbekken;Elektrisch;2012;05/06/2012;kopvoorn;0.60;per 100m
+Demer;196565/186919;196565;186919;waterzuiveringsstation;Diest;Brabant;Demerbekken;Elektrisch;2023;07/06/2023;kopvoorn;8.40;per 100m
+Velpe;196693/176373;196693;176373;stroomafwaarts de molen;Kortenaken;Brabant;Demerbekken;Elektrisch;2008;29/05/2008;kopvoorn;1.00;per 100m
+Velpe;196693/176373;196693;176373;stroomafwaarts de molen;Kortenaken;Brabant;Demerbekken;Elektrisch;2011;11/05/2011;kopvoorn;27.00;per 100m
+Velpe;196693/176373;196693;176373;stroomafwaarts de molen;Kortenaken;Brabant;Demerbekken;Elektrisch;2011;11/05/2011;serpeling;1.00;per 100m
+Kleine Gete;197537/164943;197537;164943;/;Linter;Brabant;Demerbekken;Elektrisch;2001;07/03/2001;kopvoorn;5.00;per 100m
+Kleine Nete;197751/215110;197751;215110;Retie, aan oude molen (tss 53014300 en 53014190);Retie;Antwerpen;Netebekken;Elektrisch;2015;06/07/2015;kopvoorn;3.00;per 100m
+Kleine Nete;197751/215110;197751;215110;Retie, aan oude molen (tss 53014300 en 53014190);Retie;Antwerpen;Netebekken;Elektrisch;2019;06/06/2019;kopvoorn;0.63;per 100m
+Kleine Nete;197751/215110;197751;215110;Retie, aan oude molen (tss 53014300 en 53014190);Retie;Antwerpen;Netebekken;Fuiken;2019;22/08/2019;kopvoorn;0.50;per fuik
+Kleine Nete;197751/215110;197751;215110;Retie, aan oude molen (tss 53014300 en 53014190);Retie;Antwerpen;Netebekken;Elektrisch;2022;05/08/2022;kopvoorn;2.00;per 100m
+Grote Gete;197874/170261;197874;170261;SA de Oude Molen te Drieslinter;Linter;Brabant;Demerbekken;Elektrisch;2001;06/03/2001;kopvoorn;1.00;per 100m
+Zeeploop;198518/203949;198518;203949;SH15kwab_Z1;Geel;Antwerpen;Netebekken;Elektrisch;2015;01/06/2015;kopvoorn;;per 100m
+Grote Nete;198524/203928;198524;203928;stroomopwaarts vanaf brugje monding;Meerhout;Antwerpen;Netebekken;Elektrisch;2013;15/06/2013;kopvoorn;1.00;per 100m
+Zeeploop;198525/203945;198525;203945;SH13kwab_Z1;Geel;Antwerpen;Netebekken;Elektrisch;2013;15/05/2013;kopvoorn;1.67;per 100m
+Zeeploop;198525/203945;198525;203945;SH13kwab_Z1;Geel;Antwerpen;Netebekken;Elektrisch;2013;15/05/2013;serpeling;0.67;per 100m
+Zeeploop;198525/203945;198525;203945;SH16kwab_Z1;Geel;Antwerpen;Netebekken;Elektrisch;2016;06/09/2016;kopvoorn;1.43;per 100m
+Molse Nete;198754/207141;198754;207141;baan Mol Geel;Geel;Antwerpen;Netebekken;Elektrisch;2008;11/04/2008;kopvoorn;0.50;per 100m
+Demer;198807/186902;198807;186902;Grote Steunbeer;Diest;Brabant;Demerbekken;Elektrisch;1999;13/04/1999;kopvoorn;2.00;per 100m
+Demer;198807/186902;198807;186902;Grote Steunbeer;Diest;Brabant;Demerbekken;Elektrisch;2009;10/06/2009;kopvoorn;1.20;per 100m
+Demer;198807/186902;198807;186902;Grote Steunbeer;Diest;Brabant;Demerbekken;Elektrisch;2012;05/06/2012;kopvoorn;2.60;per 100m
+Grote Nete;199488/203418;199488;203418;SH15_GNMeerhout;Meerhout;Antwerpen;Netebekken;Elektrisch;2015;16/02/2015;kopvoorn;5.80;per 100m
+Grote Nete;199488/203418;199488;203418;SH15_GNMeerhout;Meerhout;Antwerpen;Netebekken;Elektrisch;2015;08/09/2015;kopvoorn;8.00;per 100m
+Grote Nete;199488/203418;199488;203418;SH15_GNMeerhout;Meerhout;Antwerpen;Netebekken;Elektrisch;2015;16/02/2015;serpeling;1.60;per 100m
+Grote Nete;199488/203418;199488;203418;SH15_GNMeerhout;Meerhout;Antwerpen;Netebekken;Elektrisch;2015;08/09/2015;serpeling;3.80;per 100m
+Grote Nete;199490/203418;199490;203418;SH14GN_Meerhout;Meerhout;Antwerpen;Netebekken;Elektrisch;2014;01/09/2014;kopvoorn;6.60;per 100m
+Grote Nete;199490/203418;199490;203418;SH14GN_Meerhout;Meerhout;Antwerpen;Netebekken;Elektrisch;2014;01/09/2014;serpeling;5.20;per 100m
+Grote Nete;199493/203418;199493;203418;SH12_GNMeerhout;Meerhout;Antwerpen;Netebekken;Elektrisch;2012;03/07/2012;kopvoorn;1.40;per 100m
+Grote Nete;199493/203418;199493;203418;SH12_GNMeerhout;Meerhout;Antwerpen;Netebekken;Elektrisch;2012;03/07/2012;serpeling;1.20;per 100m
+Grote Nete;199493/203418;199493;203418;SH13GN_Meerhout;Meerhout;Antwerpen;Netebekken;Elektrisch;2013;15/07/2013;kopvoorn;3.80;per 100m
+Grote Nete;199493/203418;199493;203418;SH13GN_Meerhout;Meerhout;Antwerpen;Netebekken;Elektrisch;2013;15/07/2013;serpeling;0.40;per 100m
+Grote Nete;199493/203418;199493;203418;SH16GN_Meerhout;Meerhout;Antwerpen;Netebekken;Elektrisch;2016;01/03/2016;kopvoorn;6.20;per 100m
+Grote Nete;199493/203418;199493;203418;SH16GN_Meerhout;Meerhout;Antwerpen;Netebekken;Elektrisch;2016;01/03/2016;serpeling;1.00;per 100m
+Grote Nete;199707/203337;199707;203337;Meerhout (500m);Meerhout;Antwerpen;Netebekken;Elektrisch;2015;16/02/2015;kopvoorn;5.80;per 100m
+Grote Nete;199707/203337;199707;203337;Meerhout (500m);Meerhout;Antwerpen;Netebekken;Elektrisch;2015;16/02/2015;serpeling;1.60;per 100m
+Grote Nete;199827/203241;199827;203241;aan de Molsebaan;Meerhout;Antwerpen;Netebekken;Elektrisch;2002;03/04/2002;kopvoorn;4.76;per 100m
+Grote Nete;199827/203241;199827;203241;aan de Molsebaan;Meerhout;Antwerpen;Netebekken;Elektrisch;2006;21/03/2006;kopvoorn;22.00;per 100m
+Grote Nete;199827/203241;199827;203241;aan de Molsebaan;Meerhout;Antwerpen;Netebekken;Elektrisch;2009;29/04/2009;kopvoorn;25.00;per 100m
+Grote Nete;199827/203241;199827;203241;aan de Molsebaan;Meerhout;Antwerpen;Netebekken;Elektrisch;2012;10/05/2012;kopvoorn;17.00;per 100m
+Grote Nete;199827/203241;199827;203241;aan de Molsebaan;Meerhout;Antwerpen;Netebekken;Elektrisch;2012;10/05/2012;serpeling;5.00;per 100m
+Grote Nete;199928/203207;199928;203207;Meerhout (SA van de brug);Meerhout;Antwerpen;Netebekken;Elektrisch;2015;15/07/2015;kopvoorn;3.80;per 100m
+Grote Nete;199928/203207;199928;203207;Meerhout (SA van de brug);Meerhout;Antwerpen;Netebekken;Elektrisch;2015;15/07/2015;serpeling;0.40;per 100m
+Zwartwater;200042/185855;200042;185855;monding Zwarte Beek;Halen;Limburg;Demerbekken;Elektrisch;2001;17/05/2001;kopvoorn;1.00;per 100m
+Demer;200619/184275;200619;184275;monding Velpe;Halen;Limburg;Demerbekken;Elektrisch;2014;19/06/2014;kopvoorn;3.00;per 100m
+Demer;200619/184275;200619;184275;monding Velpe;Halen;Limburg;Demerbekken;Elektrisch;2020;25/06/2020;kopvoorn;7.60;per 100m
+Demer;200619/184275;200619;184275;monding Velpe;Halen;Limburg;Demerbekken;Elektrisch;2021;20/10/2021;kopvoorn;0.20;per 100m
+Kleine Gete;200657/168000;200657;168000;/;Zoutleeuw;Brabant;Demerbekken;Elektrisch;2013;03/04/2013;kopvoorn;1.00;per 100m
+Kleine Gete;200657/168000;200657;168000;/;Zoutleeuw;Brabant;Demerbekken;Elektrisch;2015;06/11/2015;kopvoorn;2.50;per 100m
+Velpe;200729/183672;200729;183672;Zelk, stroomafwaarts Zelkermolen;Halen;Limburg;Demerbekken;Elektrisch;2022;06/04/2022;kopvoorn;5.00;per 100m
+Velpe;200729/183672;200729;183672;Zelk, stroomafwaarts Zelkermolen;Halen;Limburg;Demerbekken;Elektrisch;2022;26/07/2022;kopvoorn;11.00;per 100m
+Velpe;200729/183672;200729;183672;Zelk, stroomafwaarts Zelkermolen;Halen;Limburg;Demerbekken;Elektrisch;2022;13/10/2022;kopvoorn;1.00;per 100m
+Velpe;200729/183672;200729;183672;Zelk, stroomafwaarts Zelkermolen;Halen;Limburg;Demerbekken;Elektrisch;2016;21/10/2016;serpeling;20.00;per 100m
+Grote Gete;200799/171722;200799;171722;/;Zoutleeuw;Brabant;Demerbekken;Elektrisch;2017;07/09/2017;kopvoorn;1.00;per 100m
+Zwarte Beek;201061/185853;201061;185853;Gennepstraat SO  brug;Halen;Limburg;Demerbekken;Elektrisch;2006;26/06/2006;kopvoorn;3.00;per 100m
+Desselse Neet;201248/216455;201248;216455;baan Retie-Dessel;Retie;Antwerpen;Netebekken;Elektrisch;2000;31/07/2000;kopvoorn;1.00;per 100m
+Dormaalbeek;201260/168543;201260;168543;voor monding;Zoutleeuw;Brabant;Demerbekken;Elektrisch;2001;14/02/2001;kopvoorn;2.00;per 100m
+Dormaalbeek;201260/168543;201260;168543;voor monding;Zoutleeuw;Brabant;Demerbekken;Elektrisch;2005;31/03/2005;kopvoorn;4.00;per 100m
+Dormaalbeek;201260/168543;201260;168543;voor monding;Zoutleeuw;Brabant;Demerbekken;Elektrisch;2012;15/03/2012;kopvoorn;5.00;per 100m
+Velpe;201366/180739;201366;180739;Velpen;Halen;Limburg;Demerbekken;Elektrisch;2008;28/05/2008;kopvoorn;5.00;per 100m
+Velpe;201366/180739;201366;180739;Velpen;Halen;Limburg;Demerbekken;Elektrisch;2011;11/05/2011;kopvoorn;3.00;per 100m
+Velpe;201366/180739;201366;180739;Velpen;Halen;Limburg;Demerbekken;Elektrisch;2017;30/08/2017;kopvoorn;67.00;per 100m
+Velpe;201366/180739;201366;180739;Velpen;Halen;Limburg;Demerbekken;Elektrisch;2023;06/11/2023;kopvoorn;3.00;per 100m
+Velpe;201366/180739;201366;180739;Velpen;Halen;Limburg;Demerbekken;Elektrisch;2011;11/05/2011;serpeling;1.00;per 100m
+Velpe;201366/180739;201366;180739;Velpen;Halen;Limburg;Demerbekken;Elektrisch;2017;30/08/2017;serpeling;6.00;per 100m
+Grotebeek;201667/191129;201667;191129;baan Deurne-Vleugt;Diest;Brabant;Demerbekken;Elektrisch;2016;14/03/2016;kopvoorn;16.00;per 100m
+Grotebeek;201668/191143;201668;191143;Hasseltsebaan opw van de weg;Diest;Brabant;Demerbekken;Elektrisch;2017;08/03/2017;kopvoorn;0.25;per 100m
+Grotebeek;201668/191143;201668;191143;Hasseltsebaan opw van de weg;Diest;Brabant;Demerbekken;Elektrisch;2021;16/03/2021;kopvoorn;10.75;per 100m
+De Wamp;201792/224134;201792;224134;100m SO Asselbergen;Arendonk;Antwerpen;Netebekken;Elektrisch;2018;03/07/2018;serpeling;4.62;per 100m
+Grote Nete;201815/203663;201815;203663;thv Kreindertweg;Balen;Antwerpen;Netebekken;Elektrisch;2014;29/07/2014;kopvoorn;1.00;per 100m
+Grote Nete;201815/203663;201815;203663;thv Kreindertweg;Balen;Antwerpen;Netebekken;Elektrisch;2020;02/06/2020;kopvoorn;2.00;per 100m
+Grote Nete;201815/203663;201815;203663;thv Kreindertweg;Balen;Antwerpen;Netebekken;Elektrisch;2020;02/06/2020;serpeling;16.00;per 100m
+Kleine Gete;202014/170395;202014;170395;pompstation watering;Zoutleeuw;Brabant;Demerbekken;Elektrisch;2012;15/03/2012;kopvoorn;3.00;per 100m
+Grote Nete;202740/203904;202740;203904;/;Balen;Antwerpen;Netebekken;Elektrisch;2014;28/07/2014;kopvoorn;12.00;per 100m
+Grote Nete;202758/203918;202758;203918;SH12-GNStraalm;Balen;Antwerpen;Netebekken;Elektrisch;2012;03/07/2012;serpeling;0.20;per 100m
+Grote Nete;202758/203918;202758;203918;SH13GN_Straalmo;Balen;Antwerpen;Netebekken;Elektrisch;2013;16/07/2013;kopvoorn;1.60;per 100m
+Gete;202776/175471;202776;175471;'t broek, Geetbets;Geetbets;Brabant;Demerbekken;Elektrisch;2017;02/10/2017;kopvoorn;16.50;per 100m
+Gete;202776/175471;202776;175471;'t broek, Geetbets;Geetbets;Brabant;Demerbekken;Elektrisch;2022;20/04/2022;kopvoorn;1.00;per 100m
+Grotebeek;202898/193429;202898;193429;Voorbij rwzi einde onverh weg thv gebouwtje;Beringen;Limburg;Demerbekken;Elektrisch;2017;07/03/2017;kopvoorn;0.75;per 100m
+Grote Nete;202946/203969;202946;203969;Straalmolen;Balen;Antwerpen;Netebekken;Elektrisch;2015;16/07/2015;kopvoorn;0.80;per 100m
+Heiloop  Neerhoefloop;202981/203967;202981;203967;SH14GN_Hoolst;Balen;Antwerpen;Netebekken;Elektrisch;2014;02/09/2014;kopvoorn;1.50;per 100m
+Heiloop  Neerhoefloop;202981/203967;202981;203967;SH14GN_Hoolst;Balen;Antwerpen;Netebekken;Elektrisch;2014;02/09/2014;serpeling;2.00;per 100m
+Heiloop  Neerhoefloop;202984/203968;202984;203968;SH15_GNHoolst;Balen;Antwerpen;Netebekken;Elektrisch;2015;17/02/2015;kopvoorn;2.00;per 100m
+Heiloop  Neerhoefloop;202984/203968;202984;203968;SH15_GNHoolst;Balen;Antwerpen;Netebekken;Elektrisch;2015;26/08/2015;kopvoorn;0.67;per 100m
+Heiloop  Neerhoefloop;202984/203968;202984;203968;SH15_GNHoolst;Balen;Antwerpen;Netebekken;Elektrisch;2015;17/02/2015;serpeling;6.00;per 100m
+Heiloop  Neerhoefloop;202984/203968;202984;203968;SH15_GNHoolst;Balen;Antwerpen;Netebekken;Elektrisch;2015;26/08/2015;serpeling;6.00;per 100m
+Heiloop  Neerhoefloop;202992/203965;202992;203965;SH15kwab_H1;Balen;Antwerpen;Netebekken;Elektrisch;2015;01/06/2015;kopvoorn;;per 100m
+Heiloop  Neerhoefloop;202992/203965;202992;203965;SH15kwab_H1;Balen;Antwerpen;Netebekken;Elektrisch;2015;01/06/2015;serpeling;;per 100m
+Heiloop  Neerhoefloop;202993/203965;202993;203965;SH18kwab_H1;Balen;Antwerpen;Netebekken;Elektrisch;2018;04/05/2018;kopvoorn;1.43;per 100m
+Heiloop  Neerhoefloop;202993/203965;202993;203965;SH18kwab_H1;Balen;Antwerpen;Netebekken;Elektrisch;2018;04/05/2018;serpeling;1.43;per 100m
+Heiloop  Neerhoefloop;203050/203927;203050;203927;stroomopwaarts eerste brugje aan Straalmolen;Balen;Antwerpen;Netebekken;Elektrisch;2013;15/05/2013;kopvoorn;0.80;per 100m
+Heiloop  Neerhoefloop;203055/203927;203055;203927;SH13kwab_Heiloo;Balen;Antwerpen;Netebekken;Elektrisch;2013;15/05/2013;kopvoorn;1.33;per 100m
+Heiloop  Neerhoefloop;203072/203934;203072;203934;/;Balen;Antwerpen;Netebekken;Elektrisch;2021;01/06/2021;kopvoorn;8.00;per 100m
+Heiloop  Neerhoefloop;203072/203934;203072;203934;/;Balen;Antwerpen;Netebekken;Elektrisch;2021;01/06/2021;serpeling;6.00;per 100m
+Zwarte Beek;203279/186548;203279;186548;Bakel, SO brug;Halen;Limburg;Demerbekken;Elektrisch;2018;15/06/2018;kopvoorn;2.00;per 100m
+Gete;203352/179821;203352;179821;Ertsenrijk;Halen;Limburg;Demerbekken;Elektrisch;2021;09/03/2021;kopvoorn;1.00;per 100m
+Gete;203352/179821;203352;179821;Ertsenrijk;Halen;Limburg;Demerbekken;Elektrisch;2023;03/10/2023;kopvoorn;40.00;per 100m
+Melsterbeek;203724/176826;203724;176826;Geetbets, aan het kasteel van Rummen;Geetbets;Brabant;Demerbekken;Elektrisch;2016;11/03/2016;kopvoorn;4.00;per 100m
+Melsterbeek;203724/176826;203724;176826;Geetbets, aan het kasteel van Rummen;Geetbets;Brabant;Demerbekken;Elektrisch;2020;27/07/2020;kopvoorn;0.50;per 100m
+Schulens Meer;204025/183471;204025;183471;Elektrisch beviste oeverstrook 1 (750 m) in Zone B - Schulensmeer;Lummen;Limburg;Demerbekken;Elektrisch;2014;16/10/2014;serpeling;0.29;per 100m
+Heiloop  Neerhoefloop;204048/204175;204048;204175;thv Echelpoel;Balen;Antwerpen;Netebekken;Elektrisch;2014;29/07/2014;kopvoorn;4.00;per 100m
+Heiloop  Neerhoefloop;204242/204212;204242;204212;SH15kwab_H3;Balen;Antwerpen;Netebekken;Elektrisch;2015;01/06/2015;kopvoorn;;per 100m
+Grote Nete;204307/204647;204307;204647;SH16kwab_GN1;Balen;Antwerpen;Netebekken;Elektrisch;2016;06/09/2016;kopvoorn;1.00;per 100m
+Grote Nete;204600/204752;204600;204752;SH12_GNHoolst;Balen;Antwerpen;Netebekken;Elektrisch;2012;08/06/2012;kopvoorn;1.20;per 100m
+Grote Nete;204600/204752;204600;204752;SH12_GNHoolst;Balen;Antwerpen;Netebekken;Elektrisch;2012;08/06/2012;serpeling;6.00;per 100m
+Grote Nete;204600/204752;204600;204752;SH13GN_Hoolst;Balen;Antwerpen;Netebekken;Elektrisch;2013;17/07/2013;kopvoorn;2.33;per 100m
+Grote Nete;204600/204752;204600;204752;SH13GN_Hoolst;Balen;Antwerpen;Netebekken;Elektrisch;2013;17/07/2013;serpeling;1.33;per 100m
+Schulens Meer;204606/183011;204606;183011;Elektrisch beviste oeverstrook 1 (1600 m) in Zone A - Schulensmeer;Herk-de-Stad;Limburg;Demerbekken;Elektrisch;2014;17/10/2014;serpeling;0.17;per 100m
+Asbeek;204618/204747;204618;204747;stroomopwaarts op Asbeek vanaf monding;Balen;Antwerpen;Netebekken;Elektrisch;2013;04/06/2013;kopvoorn;0.60;per 100m
+Asbeek;204618/204747;204618;204747;stroomopwaarts op Asbeek vanaf monding;Balen;Antwerpen;Netebekken;Elektrisch;2013;04/06/2013;serpeling;0.80;per 100m
+Asbeek;204622/204730;204622;204730;SH13kwab_Asbeek;Balen;Antwerpen;Netebekken;Elektrisch;2013;04/06/2013;kopvoorn;1.00;per 100m
+Asbeek;204622/204730;204622;204730;SH13kwab_Asbeek;Balen;Antwerpen;Netebekken;Elektrisch;2013;04/06/2013;serpeling;1.33;per 100m
+Grote Nete;204709/204760;204709;204760;Hoolstmolen (monding asbeek tot brug);Balen;Antwerpen;Netebekken;Elektrisch;2015;17/02/2015;kopvoorn;2.00;per 100m
+Grote Nete;204709/204760;204709;204760;Hoolstmolen (monding asbeek tot brug);Balen;Antwerpen;Netebekken;Elektrisch;2015;17/02/2015;serpeling;6.00;per 100m
+Asbeek;204721/204559;204721;204559;SH15kwab_A1;Balen;Antwerpen;Netebekken;Elektrisch;2015;29/05/2015;kopvoorn;0.77;per 100m
+Asbeek;204725/204559;204725;204559;SH17kwab_A1;Balen;Antwerpen;Netebekken;Elektrisch;2017;08/06/2017;kopvoorn;0.67;per 100m
+Asbeek;204744/204553;204744;204553;SO monding in Grote Nete, Olmen;Balen;Antwerpen;Netebekken;Elektrisch;2015;04/05/2015;kopvoorn;1.00;per 100m
+Asbeek;204744/204553;204744;204553;SO monding in Grote Nete, Olmen;Balen;Antwerpen;Netebekken;Elektrisch;2015;13/11/2015;kopvoorn;57.50;per 100m
+Asbeek;204744/204553;204744;204553;SO monding in Grote Nete, Olmen;Balen;Antwerpen;Netebekken;Elektrisch;2021;13/04/2021;kopvoorn;2.00;per 100m
+Asbeek;204744/204553;204744;204553;SO monding in Grote Nete, Olmen;Balen;Antwerpen;Netebekken;Elektrisch;2015;13/11/2015;serpeling;77.50;per 100m
+Asbeek;204744/204553;204744;204553;SO monding in Grote Nete, Olmen;Balen;Antwerpen;Netebekken;Elektrisch;2021;13/04/2021;serpeling;3.00;per 100m
+Grote Nete;204758/204750;204758;204750;Hoolstmolen;Balen;Antwerpen;Netebekken;Elektrisch;2013;17/07/2013;kopvoorn;1.40;per 100m
+Grote Nete;204758/204750;204758;204750;Hoolstmolen;Balen;Antwerpen;Netebekken;Elektrisch;2013;17/07/2013;serpeling;0.80;per 100m
+Asbeek;204788/204542;204788;204542;100 SA 'Dijk';Balen;Antwerpen;Netebekken;Elektrisch;2018;22/05/2018;kopvoorn;2.00;per 100m
+Grote Nete;204799/204748;204799;204748;aan de Hoolstmolen;Balen;Antwerpen;Netebekken;Elektrisch;2006;21/03/2006;kopvoorn;3.00;per 100m
+Grote Nete;204799/204748;204799;204748;aan de Hoolstmolen;Balen;Antwerpen;Netebekken;Elektrisch;2009;30/04/2009;kopvoorn;8.00;per 100m
+Grote Nete;204799/204748;204799;204748;aan de Hoolstmolen;Balen;Antwerpen;Netebekken;Elektrisch;2012;10/05/2012;kopvoorn;8.00;per 100m
+Grote Nete;204799/204748;204799;204748;aan de Hoolstmolen;Balen;Antwerpen;Netebekken;Elektrisch;2002;02/04/2002;serpeling;3.00;per 100m
+Grote Nete;204799/204748;204799;204748;aan de Hoolstmolen;Balen;Antwerpen;Netebekken;Elektrisch;2009;30/04/2009;serpeling;2.00;per 100m
+Grote Nete;204799/204748;204799;204748;aan de Hoolstmolen;Balen;Antwerpen;Netebekken;Elektrisch;2012;10/05/2012;serpeling;8.00;per 100m
+Melsterbeek;205688/172049;205688;172049;/;Sint-Truiden;Limburg;Demerbekken;Elektrisch;2012;13/03/2012;kopvoorn;1.00;per 100m
+Demer;205843/184483;205843;184483;stuw Schulensmeer;Lummen;Limburg;Demerbekken;Elektrisch;2001;29/10/2001;kopvoorn;0.20;per 100m
+Demer;205843/184483;205843;184483;stuw Schulensmeer;Lummen;Limburg;Demerbekken;Elektrisch;2006;05/04/2006;kopvoorn;2.20;per 100m
+Demer;205843/184483;205843;184483;stuw Schulensmeer;Lummen;Limburg;Demerbekken;Elektrisch;2009;09/06/2009;kopvoorn;1.60;per 100m
+Grotebeek;205867/194919;205867;194919;Industrieweg, 15m afw brug;Beringen;Limburg;Demerbekken;Elektrisch;2017;07/03/2017;kopvoorn;0.21;per 100m
+Grotebeek;205867/194919;205867;194919;Industrieweg, 15m afw brug;Beringen;Limburg;Demerbekken;Fuiken;2017;13/03/2017;kopvoorn;0.05;per fuik
+Grotebeek;205867/194919;205867;194919;Industrieweg, 15m afw brug;Beringen;Limburg;Demerbekken;Elektrisch;2017;07/03/2017;serpeling;0.21;per 100m
+Grote Nete;206035/204576;206035;204576;Eerste brug SO 134, Heynsbergen;Balen;Antwerpen;Netebekken;Elektrisch;2014;06/08/2014;kopvoorn;7.00;per 100m
+Grote Nete;206035/204576;206035;204576;Eerste brug SO 134, Heynsbergen;Balen;Antwerpen;Netebekken;Elektrisch;2020;27/08/2020;kopvoorn;3.00;per 100m
+Grote Nete;206035/204576;206035;204576;Eerste brug SO 134, Heynsbergen;Balen;Antwerpen;Netebekken;Elektrisch;2014;06/08/2014;serpeling;5.00;per 100m
+Grote Nete;206057/204582;206057;204582;SH12_GNHanskeSe;Balen;Antwerpen;Netebekken;Elektrisch;2012;26/07/2012;serpeling;0.67;per 100m
+Schulens Meer;206072/184358;206072;184358;Elektrisch beviste oeverstrook 1 (720 m) in Zone E - Schulensmeer;Herk-de-Stad;Limburg;Demerbekken;Elektrisch;2014;14/10/2014;kopvoorn;0.94;per 100m
+Schulens Meer;206072/184358;206072;184358;Elektrisch beviste oeverstrook 1 (720 m) in Zone E - Schulensmeer;Herk-de-Stad;Limburg;Demerbekken;Elektrisch;2014;14/10/2014;serpeling;1.88;per 100m
+Grote Nete;206506/204892;206506;204892;Halflochtdijk;Balen;Antwerpen;Netebekken;Elektrisch;2015;21/10/2015;serpeling;41.18;per 100m
+Grote Nete;206506/204892;206506;204892;Halflochtdijk;Balen;Antwerpen;Netebekken;Elektrisch;2020;12/05/2020;serpeling;2.00;per 100m
+Herk;206615/181827;206615;181827;molen;Herk-de-Stad;Limburg;Demerbekken;Elektrisch;2005;30/03/2005;kopvoorn;1.00;per 100m
+Herk;206615/181827;206615;181827;molen;Herk-de-Stad;Limburg;Demerbekken;Elektrisch;2009;17/03/2009;kopvoorn;5.00;per 100m
+Herk;206615/181827;206615;181827;molen;Herk-de-Stad;Limburg;Demerbekken;Elektrisch;2012;12/03/2012;kopvoorn;37.50;per 100m
+Herk;206615/181827;206615;181827;molen;Herk-de-Stad;Limburg;Demerbekken;Elektrisch;2020;27/07/2020;kopvoorn;23.00;per 100m
+Grote Nete;206752/205374;206752;205374;SO Schepmolenstraat;Balen;Antwerpen;Netebekken;Elektrisch;2023;25/09/2023;kopvoorn;6.00;per 100m
+Grote Nete;206752/205374;206752;205374;SO Schepmolenstraat;Balen;Antwerpen;Netebekken;Elektrisch;2017;13/09/2017;serpeling;1.00;per 100m
+Kleine Hoofdgracht;206774/205478;206774;205478;850m SA N18;Balen;Antwerpen;Netebekken;Elektrisch;2015;30/10/2015;kopvoorn;5.00;per 100m
+Kleine Hoofdgracht;206774/205478;206774;205478;850m SA N18;Balen;Antwerpen;Netebekken;Elektrisch;2021;01/06/2021;kopvoorn;1.00;per 100m
+Kleine Hoofdgracht;206774/205478;206774;205478;850m SA N18;Balen;Antwerpen;Netebekken;Elektrisch;2015;30/10/2015;serpeling;4.00;per 100m
+Kleine Hoofdgracht;206774/205478;206774;205478;850m SA N18;Balen;Antwerpen;Netebekken;Elektrisch;2021;01/06/2021;serpeling;1.00;per 100m
+Kleine Hoofdgracht;206817/205577;206817;205577;SH15kwab_KH1;Balen;Antwerpen;Netebekken;Elektrisch;2015;02/06/2015;kopvoorn;;per 100m
+Kleine Hoofdgracht;206817/205577;206817;205577;SH15kwab_KH1;Balen;Antwerpen;Netebekken;Elektrisch;2015;02/06/2015;serpeling;;per 100m
+Kanaal van Bocholt naar Herentals;206896/214510;206896;214510;nabij natuurreservaat 'De Maat';Mol;Antwerpen;Netebekken;Elektrisch;2002;09/10/2002;kopvoorn;0.91;per 100m
+Kanaal van Bocholt naar Herentals;206896/214510;206896;214510;nabij natuurreservaat 'De Maat';Mol;Antwerpen;Netebekken;Elektrisch;2020;25/09/2020;kopvoorn;0.20;per 100m
+Mangelbeek;207170/185594;207170;185594;Lummen, Schalbroek, kleine molen;Lummen;Limburg;Demerbekken;Elektrisch;2009;02/04/2009;kopvoorn;1.00;per 100m
+Mangelbeek;207170/185594;207170;185594;Lummen, Schalbroek, kleine molen;Lummen;Limburg;Demerbekken;Elektrisch;2012;29/03/2012;kopvoorn;1.00;per 100m
+Mangelbeek;207170/185594;207170;185594;Lummen, Schalbroek, kleine molen;Lummen;Limburg;Demerbekken;Elektrisch;2020;02/03/2020;kopvoorn;44.00;per 100m
+Asbeek;207307/203933;207307;203933;100m SO Brug;Balen;Antwerpen;Netebekken;Elektrisch;2018;23/05/2018;kopvoorn;1.00;per 100m
+Kleine Hoofdgracht;207438/205922;207438;205922;SH15kwab_KH2;Balen;Antwerpen;Netebekken;Elektrisch;2015;02/06/2015;kopvoorn;;per 100m
+Grote Nete;207534/205709;207534;205709;Schoor, Steenweg op Leopoldsburg;Balen;Antwerpen;Netebekken;Elektrisch;2023;25/09/2023;kopvoorn;1.00;per 100m
+Zwarte Beek;207770/191310;207770;191310;SA Gestelse molen;Beringen;Limburg;Demerbekken;Elektrisch;2001;03/05/2001;kopvoorn;1.00;per 100m
+Zwarte Beek;207770/191310;207770;191310;SA Gestelse molen;Beringen;Limburg;Demerbekken;Elektrisch;2003;18/04/2003;kopvoorn;10.00;per 100m
+Zwarte Beek;207770/191310;207770;191310;SA Gestelse molen;Beringen;Limburg;Demerbekken;Elektrisch;2009;02/04/2009;kopvoorn;8.00;per 100m
+Zwarte Beek;207770/191310;207770;191310;SA Gestelse molen;Beringen;Limburg;Demerbekken;Elektrisch;2019;13/03/2019;kopvoorn;45.00;per 100m
+Zwarte Beek;207770/191310;207770;191310;SA Gestelse molen;Beringen;Limburg;Demerbekken;Elektrisch;2019;13/03/2019;serpeling;6.00;per 100m
+Rauwput;207896/212913;207896;212913;Rauwput zone G elektrisch afgeviste oeverstrook (165m);Mol;Antwerpen;Netebekken;Elektrisch;2013;14/11/2013;serpeling;0.61;per 100m
+Grote Nete;207965/205852;207965;205852;/;Balen;Antwerpen;Netebekken;Elektrisch;2019;24/06/2019;serpeling;5.43;per 100m
+Asbeek;208496/203612;208496;203612;100m SA Bruine Kolk;Balen;Antwerpen;Netebekken;Elektrisch;2018;23/05/2018;kopvoorn;4.00;per 100m
+Rauwput;208622/213212;208622;213212;Rauwput zone B elektrisch afgeviste oeverstrook (250m);Mol;Antwerpen;Netebekken;Elektrisch;2013;12/11/2013;serpeling;0.40;per 100m
+Beek te Rauw;208793/212706;208793;212706;SH13_Taploop;Mol;Antwerpen;Netebekken;Elektrisch;2013;01/07/2013;kopvoorn;43.00;per 100m
+Grote Nete;208874/206167;208874;206167;SH15_GNPeerLuyt;Balen;Antwerpen;Netebekken;Elektrisch;2015;16/02/2015;serpeling;10.00;per 100m
+Grote Nete;208892/206158;208892;206158;SH15_GNPeerSA;Balen;Antwerpen;Netebekken;Elektrisch;2015;14/08/2015;kopvoorn;3.00;per 100m
+Grote Nete;208892/206158;208892;206158;SH15_GNPeerSA;Balen;Antwerpen;Netebekken;Elektrisch;2015;14/08/2015;serpeling;20.00;per 100m
+Grote Nete;208894/206155;208894;206155;SH14GN_Peerluyt;Balen;Antwerpen;Netebekken;Elektrisch;2014;28/08/2014;kopvoorn;7.00;per 100m
+Grote Nete;208894/206155;208894;206155;SH14GN_Peerluyt;Balen;Antwerpen;Netebekken;Elektrisch;2014;28/08/2014;serpeling;1.00;per 100m
+Grote Nete;208929/206144;208929;206144;/;Balen;Antwerpen;Netebekken;Elektrisch;2015;24/07/2015;serpeling;156.00;per 100m
+Grote Nete;208929/206144;208929;206144;/;Balen;Antwerpen;Netebekken;Elektrisch;2020;12/05/2020;serpeling;2.00;per 100m
+Grote Nete;208949/206142;208949;206142;Peer Luytendijk (100m);Balen;Antwerpen;Netebekken;Elektrisch;2015;16/02/2015;serpeling;10.00;per 100m
+Maatloop;209038/214443;209038;214443;aan vijver Rauw Noord 750m SA;Mol;Antwerpen;Netebekken;Elektrisch;2014;21/10/2014;kopvoorn;22.00;per 100m
+Beek te Rauw;209086/212990;209086;212990;Op de grens Mol-Lommel;Mol;Antwerpen;Netebekken;Elektrisch;2014;21/10/2014;kopvoorn;2.00;per 100m
+;209220/212003;209220;212003;Gracht dwars op Esdoornstraat;Lommel;Limburg;;Elektrisch;2014;21/10/2014;kopvoorn;12.00;per 100m
+Maatloop;209608/214497;209608;214497;aan Blauwe kei 140m SA;Lommel;Limburg;Netebekken;Elektrisch;2014;21/10/2014;kopvoorn;;per 100m
+Maatloop;209608/214497;209608;214497;aan Blauwe kei 140m SA;Lommel;Limburg;Netebekken;Elektrisch;2019;07/10/2019;kopvoorn;105.71;per 100m
+Kanaal naar Beverlo;209819/214529;209819;214529;Blauwe Kei;Lommel;Limburg;Netebekken;Elektrisch;1999;05/11/1999;kopvoorn;0.20;per 100m
+Kanaal naar Beverlo;209819/214529;209819;214529;Blauwe Kei;Lommel;Limburg;Netebekken;Elektrisch;2005;26/10/2005;kopvoorn;2.60;per 100m
+Kanaal naar Beverlo;209819/214529;209819;214529;Blauwe Kei;Lommel;Limburg;Netebekken;Elektrisch;2011;27/10/2011;kopvoorn;1.00;per 100m
+Beek te Rauw;210188/213486;210188;213486;SO uitwatering Beek te Rauw;Lommel;Limburg;Netebekken;Elektrisch;2014;21/10/2014;kopvoorn;18.00;per 100m
+Beek te Rauw;210188/213486;210188;213486;SO uitwatering Beek te Rauw;Lommel;Limburg;Netebekken;Elektrisch;2019;07/10/2019;kopvoorn;6.00;per 100m
+Kanaal naar Beverlo;210433/212805;210433;212805;thv Katoenstraat;Lommel;Limburg;Netebekken;Elektrisch;2019;07/10/2019;kopvoorn;12.00;per 100m
+Demer;210784/183983;210784;183983;540m SA Stuw;Hasselt;Limburg;Demerbekken;Elektrisch;2017;29/05/2017;kopvoorn;2.00;per 100m
+Bypass Veldekermolen;210878/184046;210878;184046;SA Stuw;Hasselt;Limburg;Demerbekken;Elektrisch;2009;09/06/2009;kopvoorn;0.40;per 100m
+Bypass Veldekermolen;210878/184046;210878;184046;SA Stuw;Hasselt;Limburg;Demerbekken;Elektrisch;2023;06/06/2023;kopvoorn;1.80;per 100m
+Bypass Veldekermolen;210878/184046;210878;184046;SA Stuw;Hasselt;Limburg;Demerbekken;Elektrisch;2012;04/06/2012;serpeling;0.40;per 100m
+Steenlaak;210913/184241;210913;184241;Tierwinkel;Lummen;Limburg;Demerbekken;Elektrisch;2001;14/03/2001;kopvoorn;1.00;per 100m
+Zwarte Beek;211416/195124;211416;195124;Stalse molen SA;Beringen;Limburg;Demerbekken;Elektrisch;2003;18/04/2003;kopvoorn;12.00;per 100m
+Zwarte Beek;211422/195165;211422;195165;SO Stalse molen;Beringen;Limburg;Demerbekken;Elektrisch;2001;02/05/2001;kopvoorn;127.00;per 100m
+Zwarte Beek;211422/195165;211422;195165;SO Stalse molen;Beringen;Limburg;Demerbekken;Elektrisch;2003;18/04/2003;kopvoorn;1.00;per 100m
+Brisdilloop;211569/204889;211569;204889;450m ten Z van Schoorheide;Balen;Antwerpen;Netebekken;Elektrisch;2019;08/10/2019;kopvoorn;6.25;per 100m
+Laambeek;211819/187640;211819;187640;stroomafwaarts de weg;Heusden-Zolder;Limburg;Demerbekken;Elektrisch;2018;05/06/2018;kopvoorn;5.00;per 100m
+Kleine Herk;212055/179002;212055;179002;Stevoort;Hasselt;Limburg;Demerbekken;Elektrisch;2019;21/10/2019;kopvoorn;1.39;per 100m
+Grote Nete;212448/205755;212448;205755;Kerkhovensesteenweg, grens Balen, Lommel, Hechtel-Eksel;Lommel;Limburg;Netebekken;Elektrisch;2006;21/03/2006;kopvoorn;3.00;per 100m
+Kanaal van Bocholt naar Herentals;212484/215835;212484;215835;Haven;Lommel;Limburg;Netebekken;Elektrisch;1996;08/10/1996;kopvoorn;0.80;per 100m
+Kanaal van Bocholt naar Herentals;212484/215835;212484;215835;Haven;Lommel;Limburg;Netebekken;Netten;1997;23/05/1997;kopvoorn;;per 100m
+Kanaal van Bocholt naar Herentals;212484/215835;212484;215835;Haven;Lommel;Limburg;Netebekken;Elektrisch;2002;09/10/2002;kopvoorn;0.20;per 100m
+Kanaal van Bocholt naar Herentals;212484/215835;212484;215835;Haven;Lommel;Limburg;Netebekken;Elektrisch;2007;09/10/2007;kopvoorn;0.20;per 100m
+Zwarte Beek;213175/196404;213175;196404;achter varkenskwekerij;Beringen;Limburg;Demerbekken;Elektrisch;2018;28/06/2018;kopvoorn;1.00;per 100m
+Zwarte Beek;214329/197596;214329;197596;SA natuurreservaat;Beringen;Limburg;Demerbekken;Elektrisch;2009;02/04/2009;kopvoorn;2.00;per 100m
+Zwarte Beek;214329/197596;214329;197596;SA natuurreservaat;Beringen;Limburg;Demerbekken;Elektrisch;2012;29/03/2012;kopvoorn;3.00;per 100m
+Zwarte Beek;214329/197596;214329;197596;SA natuurreservaat;Beringen;Limburg;Demerbekken;Elektrisch;2014;01/08/2014;kopvoorn;3.00;per 100m
+Slangbeek;215633/183291;215633;183291;Kuringen, naast L.G.T.B.;Hasselt;Limburg;Demerbekken;Elektrisch;2006;23/06/2006;kopvoorn;;per 100m
+Slangbeek;215633/183291;215633;183291;Kuringen, naast L.G.T.B.;Hasselt;Limburg;Demerbekken;Elektrisch;2010;07/04/2010;kopvoorn;2.00;per 100m
+Slangbeek;215633/183291;215633;183291;Kuringen, naast L.G.T.B.;Hasselt;Limburg;Demerbekken;Elektrisch;2010;03/06/2010;kopvoorn;15.38;per 100m
+Slangbeek;215633/183291;215633;183291;Kuringen, naast L.G.T.B.;Hasselt;Limburg;Demerbekken;Elektrisch;2011;12/04/2011;kopvoorn;2.00;per 100m
+Demer;216056/182155;216056;182155;stuw Prinsbeemden;Hasselt;Limburg;Demerbekken;Elektrisch;2014;19/06/2014;kopvoorn;0.20;per 100m
+Molenarm Demer;216058/182203;216058;182203;zijarm molen Prinsenhof;Hasselt;Limburg;Demerbekken;Elektrisch;2006;05/04/2006;kopvoorn;7.33;per 100m
+Molenarm Demer;216058/182203;216058;182203;zijarm molen Prinsenhof;Hasselt;Limburg;Demerbekken;Elektrisch;2009;10/06/2009;kopvoorn;0.33;per 100m
+Molenarm Demer;216058/182203;216058;182203;zijarm molen Prinsenhof;Hasselt;Limburg;Demerbekken;Elektrisch;2018;02/07/2018;kopvoorn;0.89;per 100m
+Molenarm Demer;216058/182203;216058;182203;zijarm molen Prinsenhof;Hasselt;Limburg;Demerbekken;Fuiken;2018;04/07/2018;kopvoorn;0.17;per fuik
+Herk;216236/174496;216236;174496;Alken-centrum molen;Alken;Limburg;Demerbekken;Elektrisch;2021;05/03/2021;kopvoorn;4.00;per 100m
+Grote Fossé;217983/215756;217983;215756;nabij de verbinding met het Kanaal Bocholt-Herentals;Lommel;Limburg;Maasbekken;Elektrisch;1997;21/04/1997;kopvoorn;0.83;per 100m
+Bollisenbeek;223397/204756;223397;204756;/;Hechtel-Eksel;Limburg;Maasbekken;Elektrisch;2011;26/04/2011;kopvoorn;1.00;per 100m
+Dommel;223448/217226;223448;217226;Lommels Goor;Pelt;Limburg;Maasbekken;Elektrisch;2007;23/04/2007;kopvoorn;1.50;per 100m
+Dommel;223448/217226;223448;217226;Lommels Goor;Pelt;Limburg;Maasbekken;Elektrisch;2007;19/11/2007;kopvoorn;0.50;per 100m
+Dommel;223448/217226;223448;217226;Lommels Goor;Pelt;Limburg;Maasbekken;Elektrisch;2008;21/04/2008;kopvoorn;0.50;per 100m
+Dommel;223523/214512;223523;214512;SA kanaal, Volmolenstraat SO de weg, tussen kanaal en brug;Pelt;Limburg;Maasbekken;Elektrisch;2007;24/04/2007;kopvoorn;2.00;per 100m
+Dommel;223523/214512;223523;214512;SA kanaal, Volmolenstraat SO de weg, tussen kanaal en brug;Pelt;Limburg;Maasbekken;Fuiken;2007;26/04/2007;kopvoorn;0.50;per fuik
+Dommel;223523/214512;223523;214512;SA kanaal, Volmolenstraat SO de weg, tussen kanaal en brug;Pelt;Limburg;Maasbekken;Elektrisch;2007;20/11/2007;kopvoorn;0.50;per 100m
+Dommel;223523/214512;223523;214512;SA kanaal, Volmolenstraat SO de weg, tussen kanaal en brug;Pelt;Limburg;Maasbekken;Fuiken;2008;20/04/2008;kopvoorn;0.50;per fuik
+Dommel;223523/214512;223523;214512;SA kanaal, Volmolenstraat SO de weg, tussen kanaal en brug;Pelt;Limburg;Maasbekken;Elektrisch;2008;22/04/2008;kopvoorn;1.00;per 100m
+Dommel;223530/215312;223530;215312;Hageven, Broeseinderdijk Neerpelt;Pelt;Limburg;Maasbekken;Elektrisch;2007;24/04/2007;kopvoorn;10.00;per 100m
+Dommel;223530/215312;223530;215312;Hageven, Broeseinderdijk Neerpelt;Pelt;Limburg;Maasbekken;Elektrisch;2007;20/11/2007;kopvoorn;2.00;per 100m
+Dommel;223913/213558;223913;213558;aan de brug, 50 m so en 50 sa;Pelt;Limburg;Maasbekken;Elektrisch;2007;24/04/2007;kopvoorn;1.00;per 100m
+Dommel;223913/213558;223913;213558;aan de brug, 50 m so en 50 sa;Pelt;Limburg;Maasbekken;Fuiken;2007;26/04/2007;kopvoorn;1.00;per fuik
+Dommel;223913/213558;223913;213558;aan de brug, 50 m so en 50 sa;Pelt;Limburg;Maasbekken;Elektrisch;2008;22/04/2008;kopvoorn;1.00;per 100m
+Dommel;223913/213558;223913;213558;aan de brug, 50 m so en 50 sa;Pelt;Limburg;Maasbekken;Elektrisch;2007;22/11/2007;serpeling;5.00;per 100m
+Dommel;223953/218079;223953;218079;Hageven, Stenenbrug, begin van wandelpad;Pelt;Limburg;Maasbekken;Elektrisch;2007;19/11/2007;kopvoorn;3.00;per 100m
+Dommel;223953/218079;223953;218079;Hageven, Stenenbrug, begin van wandelpad;Pelt;Limburg;Maasbekken;Fuiken;2007;21/11/2007;kopvoorn;0.10;per fuik
+Dommel;223953/218079;223953;218079;Hageven, Stenenbrug, begin van wandelpad;Pelt;Limburg;Maasbekken;Elektrisch;2008;21/04/2008;kopvoorn;3.50;per 100m
+Dommel;223953/218079;223953;218079;Hageven, Stenenbrug, begin van wandelpad;Pelt;Limburg;Maasbekken;Fuiken;2008;21/04/2008;kopvoorn;0.55;per fuik
+Dommel;223953/218079;223953;218079;Hageven, Stenenbrug, begin van wandelpad;Pelt;Limburg;Maasbekken;Elektrisch;2016;30/03/2016;kopvoorn;1.83;per 100m
+Dommel;223953/218079;223953;218079;Hageven, Stenenbrug, begin van wandelpad;Pelt;Limburg;Maasbekken;Fuiken;2016;30/03/2016;kopvoorn;0.25;per fuik
+Dommel;223953/218079;223953;218079;Hageven, Stenenbrug, begin van wandelpad;Pelt;Limburg;Maasbekken;Elektrisch;2022;23/03/2022;kopvoorn;8.00;per 100m
+Dommel;223953/218079;223953;218079;Hageven, Stenenbrug, begin van wandelpad;Pelt;Limburg;Maasbekken;Elektrisch;2023;11/09/2023;kopvoorn;;per 100m
+Dommel;223953/218079;223953;218079;Hageven, Stenenbrug, begin van wandelpad;Pelt;Limburg;Maasbekken;Elektrisch;2007;19/11/2007;serpeling;0.50;per 100m
+Dommel;223953/218079;223953;218079;Hageven, Stenenbrug, begin van wandelpad;Pelt;Limburg;Maasbekken;Fuiken;2016;30/03/2016;serpeling;0.25;per fuik
+Dommel;224472/212991;224472;212991;Slagmolen;Pelt;Limburg;Maasbekken;Elektrisch;2004;21/04/2004;kopvoorn;4.00;per 100m
+Dommel;224635/211396;224635;211396;upstream till bridge;Pelt;Limburg;Maasbekken;Elektrisch;2016;01/04/2016;kopvoorn;17.00;per 100m
+Dommel;224635/211396;224635;211396;upstream till bridge;Pelt;Limburg;Maasbekken;Elektrisch;2022;24/03/2022;kopvoorn;15.00;per 100m
+Dommel;224635/211396;224635;211396;upstream till bridge;Pelt;Limburg;Maasbekken;Elektrisch;2016;01/04/2016;serpeling;4.00;per 100m
+Dommel;224635/211396;224635;211396;upstream till bridge;Pelt;Limburg;Maasbekken;Elektrisch;2022;24/03/2022;serpeling;3.00;per 100m
+Dommel;224721/207520;224721;207520;aan de kleine molen;Pelt;Limburg;Maasbekken;Elektrisch;2004;22/04/2004;kopvoorn;12.00;per 100m
+Dommel;224721/207520;224721;207520;aan de kleine molen;Pelt;Limburg;Maasbekken;Elektrisch;2011;26/04/2011;kopvoorn;36.00;per 100m
+Dommel;224721/207520;224721;207520;aan de kleine molen;Pelt;Limburg;Maasbekken;Fuiken;2020;20/08/2020;kopvoorn;1.00;per fuik
+Dommel;224721/207520;224721;207520;aan de kleine molen;Pelt;Limburg;Maasbekken;Elektrisch;2011;26/04/2011;serpeling;8.00;per 100m
+Dommel;224732/212007;224732;212007;Bemvoortse molen;Pelt;Limburg;Maasbekken;Elektrisch;2008;28/04/2008;kopvoorn;10.00;per 100m
+Oude Dommel;224809/211911;224809;211911;/;Pelt;Limburg;Maasbekken;Elektrisch;2004;21/04/2004;kopvoorn;1.11;per 100m
+Oude Dommel;224809/211911;224809;211911;/;Pelt;Limburg;Maasbekken;Elektrisch;2008;28/04/2008;kopvoorn;2.22;per 100m
+Oude Dommel;224809/211911;224809;211911;/;Pelt;Limburg;Maasbekken;Elektrisch;2011;26/04/2011;kopvoorn;1.11;per 100m
+Oude Dommel;224809/211911;224809;211911;/;Pelt;Limburg;Maasbekken;Elektrisch;2008;28/04/2008;serpeling;4.44;per 100m
+Oude Dommel;224809/211911;224809;211911;/;Pelt;Limburg;Maasbekken;Elektrisch;2011;26/04/2011;serpeling;1.11;per 100m
+Prinsenloop;226488/219958;226488;219958;Kork;Hamont-Achel;Limburg;Maasbekken;Elektrisch;2009;04/03/2009;kopvoorn;9.00;per 100m
+Prinsenloop;226488/219958;226488;219958;Kork;Hamont-Achel;Limburg;Maasbekken;Elektrisch;2012;05/03/2012;kopvoorn;1.00;per 100m
+Prinsenloop;226488/219958;226488;219958;Kork;Hamont-Achel;Limburg;Maasbekken;Elektrisch;2016;30/03/2016;kopvoorn;8.00;per 100m
+Kanaal van Bocholt naar Herentals;226576/214058;226576;214058;Linkeroever t.h.v. prinsenloop km paal 9,3;Pelt;Limburg;Maasbekken;Elektrisch;2014;18/09/2014;kopvoorn;33.33;per 100m
+De Vliet;228459/219637;228459;219637;net voor de monding on de Warmbeek ter hoogte van Rozend;Hamont-Achel;Limburg;Maasbekken;Elektrisch;2009;03/03/2009;serpeling;1.00;per 100m
+Warmbeek;228487/213683;228487;213683;/;Pelt;Limburg;Maasbekken;Elektrisch;2009;03/03/2009;serpeling;2.00;per 100m
+Warmbeek;228487/213683;228487;213683;/;Pelt;Limburg;Maasbekken;Elektrisch;2012;06/03/2012;serpeling;18.00;per 100m
+Warmbeek;228579/213983;228579;213983;Northerly the  Bocholt-Herentals channel;Pelt;Limburg;Maasbekken;Elektrisch;2014;05/05/2014;serpeling;10.00;per 100m
+Warmbeek;228823/218691;228823;218691;'t Mulken;Hamont-Achel;Limburg;Maasbekken;Elektrisch;2000;20/03/2000;kopvoorn;1.00;per 100m
+Warmbeek;228823/218691;228823;218691;'t Mulken;Hamont-Achel;Limburg;Maasbekken;Elektrisch;2009;03/03/2009;kopvoorn;3.00;per 100m
+Warmbeek;228823/218691;228823;218691;'t Mulken;Hamont-Achel;Limburg;Maasbekken;Elektrisch;2012;05/03/2012;kopvoorn;3.00;per 100m
+Warmbeek;228823/218691;228823;218691;'t Mulken;Hamont-Achel;Limburg;Maasbekken;Elektrisch;2017;29/08/2017;kopvoorn;243.00;per 100m
+Warmbeek;228823/218691;228823;218691;'t Mulken;Hamont-Achel;Limburg;Maasbekken;Elektrisch;2018;04/06/2018;kopvoorn;19.00;per 100m
+Warmbeek;228823/218691;228823;218691;'t Mulken;Hamont-Achel;Limburg;Maasbekken;Elektrisch;2009;03/03/2009;serpeling;2.00;per 100m
+Warmbeek;228823/218691;228823;218691;'t Mulken;Hamont-Achel;Limburg;Maasbekken;Elektrisch;2012;05/03/2012;serpeling;6.00;per 100m
+Warmbeek;228823/218691;228823;218691;'t Mulken;Hamont-Achel;Limburg;Maasbekken;Elektrisch;2017;29/08/2017;serpeling;55.00;per 100m
+Warmbeek;228823/218691;228823;218691;'t Mulken;Hamont-Achel;Limburg;Maasbekken;Elektrisch;2018;04/06/2018;serpeling;10.00;per 100m
+;228861/216114;228861;216114;Gracht langs militaire dijk;Hamont-Achel;Limburg;;Elektrisch;2014;05/05/2014;kopvoorn;1.67;per 100m
+Warmbeek;228988/209549;228988;209549;ter hoogte van de weg Kaulille-Kleine-Brogel;Bocholt;Limburg;Maasbekken;Elektrisch;2009;04/03/2009;serpeling;1.00;per 100m
+Demer;229465/176326;229465;176326;Rentfortmolen stuw;Bilzen;Limburg;Demerbekken;Elektrisch;2006;05/04/2006;kopvoorn;0.60;per 100m
+Demer;229465/176326;229465;176326;Rentfortmolen stuw;Bilzen;Limburg;Demerbekken;Elektrisch;2009;11/06/2009;kopvoorn;0.80;per 100m
+Demer;229465/176326;229465;176326;Rentfortmolen stuw;Bilzen;Limburg;Demerbekken;Elektrisch;2012;04/06/2012;kopvoorn;0.80;per 100m
+Demer;229465/176326;229465;176326;Rentfortmolen stuw;Bilzen;Limburg;Demerbekken;Elektrisch;2020;24/06/2020;kopvoorn;2.00;per 100m
+Demer;229465/176326;229465;176326;Rentfortmolen stuw;Bilzen;Limburg;Demerbekken;Elektrisch;2023;05/06/2023;kopvoorn;1.60;per 100m
+;229800/213607;229800;213607;taploop langs Hork;Pelt;Limburg;;Elektrisch;2014;05/05/2014;kopvoorn;4.00;per 100m
+Abeek;230176/200113;230176;200113;Dorpermolen;Oudsbergen;Limburg;Maasbekken;Elektrisch;2014;22/05/2014;serpeling;61.00;per 100m
+Abeek;230176/200113;230176;200113;Dorpermolen;Oudsbergen;Limburg;Maasbekken;Elektrisch;2015;19/11/2015;serpeling;7.50;per 100m
+Abeek;230414/202438;230414;202438;Hoogmolen Ellikom: 500m stroomaf van de molen, eerste bocht voorbij de bypass;Oudsbergen;Limburg;Maasbekken;Elektrisch;2008;30/09/2008;kopvoorn;5.60;per 100m
+Abeek;230414/202438;230414;202438;Hoogmolen Ellikom: 500m stroomaf van de molen, eerste bocht voorbij de bypass;Oudsbergen;Limburg;Maasbekken;Elektrisch;2008;30/09/2008;serpeling;16.40;per 100m
+Vellerloop;230519/202575;230519;202575;/;Oudsbergen;Limburg;Maasbekken;Elektrisch;2015;23/09/2015;kopvoorn;13.00;per 100m
+Vellerloop;230519/202575;230519;202575;/;Oudsbergen;Limburg;Maasbekken;Elektrisch;2015;23/09/2015;serpeling;7.00;per 100m
+Abeek;230584/202565;230584;202565;/;Oudsbergen;Limburg;Maasbekken;Elektrisch;2015;23/09/2015;kopvoorn;1.00;per 100m
+Abeek;230584/202565;230584;202565;/;Oudsbergen;Limburg;Maasbekken;Elektrisch;2015;23/09/2015;serpeling;6.00;per 100m
+Abeek;230591/202573;230591;202573;SH12Abeek_Hoogm;Oudsbergen;Limburg;Maasbekken;Elektrisch;2012;28/06/2012;kopvoorn;2.80;per 100m
+Abeek;230591/202573;230591;202573;SH12Abeek_Hoogm;Oudsbergen;Limburg;Maasbekken;Elektrisch;2012;28/06/2012;serpeling;7.80;per 100m
+Abeek;230591/202573;230591;202573;SH13Abeek_Hoogm;Oudsbergen;Limburg;Maasbekken;Elektrisch;2013;12/08/2013;kopvoorn;8.80;per 100m
+Abeek;230591/202573;230591;202573;SH13Abeek_Hoogm;Oudsbergen;Limburg;Maasbekken;Elektrisch;2013;12/08/2013;serpeling;20.60;per 100m
+Vellerloop;230594/202584;230594;202584;uitmonding Vellerloop aan Hoogmolen;Oudsbergen;Limburg;Maasbekken;Elektrisch;2015;23/09/2015;kopvoorn;2.00;per 100m
+Vellerloop;230594/202584;230594;202584;uitmonding Vellerloop aan Hoogmolen;Oudsbergen;Limburg;Maasbekken;Elektrisch;2015;23/09/2015;serpeling;4.00;per 100m
+Abeek;230702/203680;230702;203680;Neermolen;Oudsbergen;Limburg;Maasbekken;Elektrisch;2015;27/07/2015;kopvoorn;4.00;per 100m
+Abeek;230702/203680;230702;203680;Neermolen;Oudsbergen;Limburg;Maasbekken;Elektrisch;2010;08/04/2010;serpeling;12.00;per 100m
+Abeek;230702/203680;230702;203680;Neermolen;Oudsbergen;Limburg;Maasbekken;Elektrisch;2015;27/07/2015;serpeling;95.00;per 100m
+Abeek;230702/203680;230702;203680;Neermolen;Oudsbergen;Limburg;Maasbekken;Elektrisch;2020;25/08/2020;serpeling;20.00;per 100m
+Abeek;230860/203922;230860;203922;SH12Abeek_N73;Peer;Limburg;Maasbekken;Elektrisch;2012;28/06/2012;kopvoorn;5.20;per 100m
+Abeek;230860/203922;230860;203922;SH12Abeek_N73;Peer;Limburg;Maasbekken;Elektrisch;2012;28/06/2012;serpeling;3.80;per 100m
+Abeek;230860/203922;230860;203922;SH13Abeek_N73;Peer;Limburg;Maasbekken;Elektrisch;2013;24/07/2013;kopvoorn;6.80;per 100m
+Abeek;230860/203922;230860;203922;SH13Abeek_N73;Peer;Limburg;Maasbekken;Elektrisch;2013;24/07/2013;serpeling;2.80;per 100m
+Abeek;230887/204042;230887;204042;Reppel: 250m stroomaf brug te Reppel, dus stroomaf Reppelmolen;Peer;Limburg;Maasbekken;Elektrisch;2008;29/09/2008;serpeling;23.60;per 100m
+;230945/212155;230945;212155;Linkeroever t.h.v. km paal 4,3;Hamont-Achel;Limburg;Maasbekken;Elektrisch;2014;18/09/2014;kopvoorn;20.00;per 100m
+ZuidWillemsvaart;232844/211185;232844;211185;voor de sluis van Lozen;Bocholt;Limburg;Maasbekken;Elektrisch;2010;14/09/2010;kopvoorn;0.40;per 100m
+ZuidWillemsvaart;232844/211185;232844;211185;voor de sluis van Lozen;Bocholt;Limburg;Maasbekken;Elektrisch;2018;03/10/2018;kopvoorn;0.20;per 100m
+Abeek;233351/205468;233351;205468;Reppelmolen;Bocholt;Limburg;Maasbekken;Elektrisch;2013;22/07/2013;serpeling;3.20;per 100m
+Abeek;233506/205584;233506;205584;SH12Abeek_Reppe;Bocholt;Limburg;Maasbekken;Elektrisch;2012;27/06/2012;serpeling;3.00;per 100m
+Abeek;233508/205586;233508;205586;SH13Abeek_Reppe;Bocholt;Limburg;Maasbekken;Elektrisch;2013;22/07/2013;serpeling;3.20;per 100m
+Abeek;233695/205587;233695;205587;Reppel: 250m stroomaf brug te Reppel, dus stroomaf Reppelmolen;Bocholt;Limburg;Maasbekken;Elektrisch;2008;01/10/2008;kopvoorn;16.40;per 100m
+Abeek;233695/205587;233695;205587;Reppel: 250m stroomaf brug te Reppel, dus stroomaf Reppelmolen;Bocholt;Limburg;Maasbekken;Elektrisch;2008;01/10/2008;serpeling;18.40;per 100m
+Abeek;236203/207409;236203;207409;Beek-Bree;Bocholt;Limburg;Maasbekken;Elektrisch;2016;31/03/2016;kopvoorn;2.00;per 100m
+Abeek;236203/207409;236203;207409;Beek-Bree;Bocholt;Limburg;Maasbekken;Elektrisch;2020;05/03/2020;kopvoorn;124.00;per 100m
+Abeek;236203/207409;236203;207409;Beek-Bree;Bocholt;Limburg;Maasbekken;Elektrisch;2020;05/03/2020;serpeling;1.00;per 100m
+Bosbeek;236471/191573;236471;191573;SH13Bosb_Wilhel;Oudsbergen;Limburg;Maasbekken;Elektrisch;2013;18/07/2013;serpeling;0.60;per 100m
+Bosbeek;236675/192029;236675;192029;Willem Tell;As;Limburg;Maasbekken;Elektrisch;2013;18/07/2013;serpeling;0.60;per 100m
+Abeek;236723/208138;236723;208138;SO Clootsmolen;Bocholt;Limburg;Maasbekken;Elektrisch;2015;10/07/2015;kopvoorn;1.00;per 100m
+Abeek;236723/208138;236723;208138;SO Clootsmolen;Bocholt;Limburg;Maasbekken;Elektrisch;2020;15/05/2020;kopvoorn;2.00;per 100m
+Abeek;238220/208419;238220;208419;voorste Luismolen;Bree;Limburg;Maasbekken;Elektrisch;2015;10/07/2015;kopvoorn;20.00;per 100m
+Abeek;238220/208419;238220;208419;voorste Luismolen;Bree;Limburg;Maasbekken;Elektrisch;2020;15/05/2020;kopvoorn;1.00;per 100m
+Abeek;238220/208419;238220;208419;voorste Luismolen;Bree;Limburg;Maasbekken;Elektrisch;1998;16/04/1998;serpeling;3.00;per 100m
+Abeek;238220/208419;238220;208419;voorste Luismolen;Bree;Limburg;Maasbekken;Elektrisch;2010;07/04/2010;serpeling;5.00;per 100m
+Itterbeek;238326/200926;238326;200926;Nijsenhof;Bree;Limburg;Maasbekken;Elektrisch;2010;25/05/2010;kopvoorn;5.00;per 100m
+Asbeek;239094/179394;239094;179394;bovenloop in het Pietersembos;Lanaken;Limburg;Maasbekken;Elektrisch;2000;13/10/2000;serpeling;7.00;per 100m
+Itterbeek;239297/201441;239297;201441;aan de Kasteelmolen;Bree;Limburg;Maasbekken;Elektrisch;2010;25/05/2010;kopvoorn;6.15;per 100m
+Itterbeek;239297/201441;239297;201441;aan de Kasteelmolen;Bree;Limburg;Maasbekken;Elektrisch;2017;12/09/2017;kopvoorn;16.92;per 100m
+Itterbeek;239297/201441;239297;201441;aan de Kasteelmolen;Bree;Limburg;Maasbekken;Elektrisch;2010;25/05/2010;serpeling;110.77;per 100m
+Itterbeek;239297/201441;239297;201441;aan de Kasteelmolen;Bree;Limburg;Maasbekken;Elektrisch;2017;12/09/2017;serpeling;103.08;per 100m
+Itterbeek;239297/201441;239297;201441;aan de Kasteelmolen;Bree;Limburg;Maasbekken;Elektrisch;2023;13/04/2023;serpeling;2.50;per 100m
+Itterbeek;240156/202310;240156;202310;aan de Keyaardmolen;Bree;Limburg;Maasbekken;Elektrisch;2015;22/07/2015;kopvoorn;170.00;per 100m
+Itterbeek;240156/202310;240156;202310;aan de Keyaardmolen;Bree;Limburg;Maasbekken;Elektrisch;2021;12/10/2021;kopvoorn;2.00;per 100m
+Itterbeek;240156/202310;240156;202310;aan de Keyaardmolen;Bree;Limburg;Maasbekken;Elektrisch;2014;18/09/2014;serpeling;8.33;per 100m
+Itterbeek;240156/202310;240156;202310;aan de Keyaardmolen;Bree;Limburg;Maasbekken;Elektrisch;2015;22/07/2015;serpeling;87.00;per 100m
+Itterbeek;240156/202310;240156;202310;aan de Keyaardmolen;Bree;Limburg;Maasbekken;Elektrisch;2021;12/10/2021;serpeling;17.00;per 100m
+Kikbeek;240306/183379;240306;183379;achter de camping, voorbij de voetbalterreinen;Maasmechelen;Limburg;Maasbekken;Elektrisch;2002;14/03/2002;kopvoorn;88.00;per 100m
+Kikbeek;240306/183379;240306;183379;achter de camping, voorbij de voetbalterreinen;Maasmechelen;Limburg;Maasbekken;Elektrisch;2007;22/03/2007;kopvoorn;17.00;per 100m
+Kikbeek;240306/183379;240306;183379;achter de camping, voorbij de voetbalterreinen;Maasmechelen;Limburg;Maasbekken;Elektrisch;2010;08/03/2010;kopvoorn;22.00;per 100m
+Bosbeek;241436/197087;241436;197087;aan de Volmolen;Maaseik;Limburg;Maasbekken;Elektrisch;2013;01/10/2013;kopvoorn;3.00;per 100m
+Bosbeek;241436/197087;241436;197087;aan de Volmolen;Maaseik;Limburg;Maasbekken;Elektrisch;2015;04/11/2015;kopvoorn;25.00;per 100m
+Bosbeek;241436/197087;241436;197087;aan de Volmolen;Maaseik;Limburg;Maasbekken;Elektrisch;2019;26/09/2019;kopvoorn;1.00;per 100m
+Bosbeek;241436/197087;241436;197087;aan de Volmolen;Maaseik;Limburg;Maasbekken;Elektrisch;2007;21/03/2007;serpeling;75.00;per 100m
+Bosbeek;241436/197087;241436;197087;aan de Volmolen;Maaseik;Limburg;Maasbekken;Elektrisch;2011;17/03/2011;serpeling;109.00;per 100m
+Bosbeek;241436/197087;241436;197087;aan de Volmolen;Maaseik;Limburg;Maasbekken;Elektrisch;2013;01/10/2013;serpeling;65.00;per 100m
+Bosbeek;241436/197087;241436;197087;aan de Volmolen;Maaseik;Limburg;Maasbekken;Elektrisch;2015;04/11/2015;serpeling;72.50;per 100m
+Bosbeek;241436/197087;241436;197087;aan de Volmolen;Maaseik;Limburg;Maasbekken;Elektrisch;2019;26/09/2019;serpeling;12.00;per 100m
+Bosbeek;241457/197095;241457;197095;Volmolen (SA molen);Maaseik;Limburg;Maasbekken;Elektrisch;2013;23/07/2013;kopvoorn;1.20;per 100m
+Bosbeek;241457/197095;241457;197095;Volmolen (SA molen);Maaseik;Limburg;Maasbekken;Elektrisch;2013;23/07/2013;serpeling;37.40;per 100m
+Abeek;241737/207382;241737;207382;Bij natuurreservaat 't Hasselterbroek;Bree;Limburg;Maasbekken;Elektrisch;2018;06/06/2018;kopvoorn;1.00;per 100m
+Bosbeek;241875/197468;241875;197468;SH12Bosb_Volmol;Maaseik;Limburg;Maasbekken;Elektrisch;2012;24/07/2012;kopvoorn;1.60;per 100m
+Bosbeek;241875/197468;241875;197468;SH12Bosb_Volmol;Maaseik;Limburg;Maasbekken;Elektrisch;2012;24/07/2012;serpeling;9.20;per 100m
+Bosbeek;241875/197468;241875;197468;SH13Bosb_Volmol;Maaseik;Limburg;Maasbekken;Elektrisch;2013;23/07/2013;kopvoorn;1.20;per 100m
+Bosbeek;241875/197468;241875;197468;SH13Bosb_Volmol;Maaseik;Limburg;Maasbekken;Elektrisch;2013;23/07/2013;serpeling;37.40;per 100m
+Abeek;242767/206834;242767;206834;Woutershof, Urlobroek, stroomopwaarts de monding van de;Kinrooi;Limburg;Maasbekken;Elektrisch;2010;06/04/2010;kopvoorn;3.00;per 100m
+Abeek;242767/206834;242767;206834;Woutershof, Urlobroek, stroomopwaarts de monding van de;Kinrooi;Limburg;Maasbekken;Elektrisch;2018;06/06/2018;kopvoorn;1.00;per 100m
+Abeek;242767/206834;242767;206834;Woutershof, Urlobroek, stroomopwaarts de monding van de;Kinrooi;Limburg;Maasbekken;Elektrisch;1998;16/04/1998;serpeling;0.50;per 100m
+Abeek;242767/206834;242767;206834;Woutershof, Urlobroek, stroomopwaarts de monding van de;Kinrooi;Limburg;Maasbekken;Elektrisch;2000;19/01/2000;serpeling;2.00;per 100m
+Abeek;242767/206834;242767;206834;Woutershof, Urlobroek, stroomopwaarts de monding van de;Kinrooi;Limburg;Maasbekken;Elektrisch;2000;22/03/2000;serpeling;1.00;per 100m
+Abeek;242767/206834;242767;206834;Woutershof, Urlobroek, stroomopwaarts de monding van de;Kinrooi;Limburg;Maasbekken;Elektrisch;2000;25/08/2000;serpeling;4.00;per 100m
+Abeek;242767/206834;242767;206834;Woutershof, Urlobroek, stroomopwaarts de monding van de;Kinrooi;Limburg;Maasbekken;Elektrisch;2000;23/10/2000;serpeling;4.21;per 100m
+Abeek;242767/206834;242767;206834;Woutershof, Urlobroek, stroomopwaarts de monding van de;Kinrooi;Limburg;Maasbekken;Elektrisch;2001;09/01/2001;serpeling;1.00;per 100m
+Abeek;242767/206834;242767;206834;Woutershof, Urlobroek, stroomopwaarts de monding van de;Kinrooi;Limburg;Maasbekken;Elektrisch;2018;06/06/2018;serpeling;1.00;per 100m
+Berwijn;242783/161359;242783;161359;Aan de monding;Voeren;Limburg;Maasbekken;Elektrisch;2014;20/06/2014;kopvoorn;1.00;per 100m
+Berwijn;242783/161359;242783;161359;Aan de monding;Voeren;Limburg;Maasbekken;Elektrisch;2015;04/06/2015;kopvoorn;8.00;per 100m
+Berwijn;242783/161359;242783;161359;Aan de monding;Voeren;Limburg;Maasbekken;Elektrisch;2016;14/07/2016;kopvoorn;37.00;per 100m
+Berwijn;242783/161359;242783;161359;Aan de monding;Voeren;Limburg;Maasbekken;Elektrisch;2017;11/04/2017;kopvoorn;52.00;per 100m
+Berwijn;242783/161359;242783;161359;Aan de monding;Voeren;Limburg;Maasbekken;Elektrisch;2018;20/06/2018;kopvoorn;21.05;per 100m
+Berwijn;242783/161359;242783;161359;Aan de monding;Voeren;Limburg;Maasbekken;Elektrisch;2018;17/10/2018;kopvoorn;121.05;per 100m
+Berwijn;242783/161359;242783;161359;Aan de monding;Voeren;Limburg;Maasbekken;Elektrisch;2019;27/05/2019;kopvoorn;10.00;per 100m
+Berwijn;242783/161359;242783;161359;Aan de monding;Voeren;Limburg;Maasbekken;Elektrisch;2020;15/06/2020;kopvoorn;10.47;per 100m
+Berwijn;242783/161359;242783;161359;Aan de monding;Voeren;Limburg;Maasbekken;Elektrisch;2021;14/06/2021;kopvoorn;12.50;per 100m
+Berwijn;242783/161359;242783;161359;Aan de monding;Voeren;Limburg;Maasbekken;Elektrisch;2022;07/06/2022;kopvoorn;14.00;per 100m
+Berwijn;242783/161359;242783;161359;Aan de monding;Voeren;Limburg;Maasbekken;Elektrisch;2023;30/05/2023;kopvoorn;6.00;per 100m
+Berwijn;242783/161359;242783;161359;Aan de monding;Voeren;Limburg;Maasbekken;Elektrisch;2016;14/07/2016;serpeling;2.00;per 100m
+Berwijn;242783/161359;242783;161359;Aan de monding;Voeren;Limburg;Maasbekken;Elektrisch;2018;20/06/2018;serpeling;23.68;per 100m
+Berwijn;242783/161359;242783;161359;Aan de monding;Voeren;Limburg;Maasbekken;Elektrisch;2018;17/10/2018;serpeling;73.68;per 100m
+Berwijn;242783/161359;242783;161359;Aan de monding;Voeren;Limburg;Maasbekken;Elektrisch;2022;07/06/2022;serpeling;2.00;per 100m
+Berwijn;242783/161359;242783;161359;Aan de monding;Voeren;Limburg;Maasbekken;Elektrisch;2023;30/05/2023;serpeling;4.00;per 100m
+Berwijn;242846/161309;242846;161309;100m SO monding, grens Wallonië;;Luik;Maasbekken;Elektrisch;2015;05/06/2015;kopvoorn;4.86;per 100m
+Berwijn;242846/161309;242846;161309;100m SO monding, grens Wallonië;;Luik;Maasbekken;Elektrisch;2015;05/11/2015;kopvoorn;35.00;per 100m
+Berwijn;242846/161309;242846;161309;100m SO monding, grens Wallonië;;Luik;Maasbekken;Elektrisch;2016;14/07/2016;kopvoorn;11.00;per 100m
+Berwijn;242846/161309;242846;161309;100m SO monding, grens Wallonië;;Luik;Maasbekken;Elektrisch;2017;11/04/2017;kopvoorn;9.00;per 100m
+Berwijn;242846/161309;242846;161309;100m SO monding, grens Wallonië;;Luik;Maasbekken;Elektrisch;2018;20/06/2018;kopvoorn;14.00;per 100m
+Berwijn;242846/161309;242846;161309;100m SO monding, grens Wallonië;;Luik;Maasbekken;Elektrisch;2018;17/10/2018;kopvoorn;157.00;per 100m
+Berwijn;242846/161309;242846;161309;100m SO monding, grens Wallonië;;Luik;Maasbekken;Elektrisch;2019;27/05/2019;kopvoorn;130.00;per 100m
+Berwijn;242846/161309;242846;161309;100m SO monding, grens Wallonië;;Luik;Maasbekken;Elektrisch;2020;15/06/2020;kopvoorn;40.00;per 100m
+Berwijn;242846/161309;242846;161309;100m SO monding, grens Wallonië;;Luik;Maasbekken;Elektrisch;2022;07/06/2022;kopvoorn;20.00;per 100m
+Berwijn;242846/161309;242846;161309;100m SO monding, grens Wallonië;;Luik;Maasbekken;Elektrisch;2023;30/05/2023;kopvoorn;49.00;per 100m
+Berwijn;242846/161309;242846;161309;100m SO monding, grens Wallonië;;Luik;Maasbekken;Elektrisch;2015;05/11/2015;serpeling;2.50;per 100m
+Berwijn;242846/161309;242846;161309;100m SO monding, grens Wallonië;;Luik;Maasbekken;Elektrisch;2018;20/06/2018;serpeling;3.00;per 100m
+Berwijn;242846/161309;242846;161309;100m SO monding, grens Wallonië;;Luik;Maasbekken;Elektrisch;2018;17/10/2018;serpeling;52.00;per 100m
+Berwijn;242846/161309;242846;161309;100m SO monding, grens Wallonië;;Luik;Maasbekken;Elektrisch;2019;27/05/2019;serpeling;1.00;per 100m
+Berwijn;242846/161309;242846;161309;100m SO monding, grens Wallonië;;Luik;Maasbekken;Elektrisch;2020;15/06/2020;serpeling;3.00;per 100m
+Berwijn;242846/161309;242846;161309;100m SO monding, grens Wallonië;;Luik;Maasbekken;Elektrisch;2022;07/06/2022;serpeling;3.00;per 100m
+Berwijn;242846/161309;242846;161309;100m SO monding, grens Wallonië;;Luik;Maasbekken;Elektrisch;2023;30/05/2023;serpeling;10.00;per 100m
+Witbeek;242858/198150;242858;198150;stroomopwaarts Zuidwillemsvaart;Maaseik;Limburg;Maasbekken;Elektrisch;2023;14/09/2023;kopvoorn;5.00;per 100m
+Berwijn;242899/161350;242899;161350;250 m SO de monding;Voeren;Limburg;Maasbekken;Elektrisch;1994;05/10/1994;kopvoorn;21.00;per 100m
+Berwijn;242899/161350;242899;161350;250 m SO de monding;Voeren;Limburg;Maasbekken;Elektrisch;1998;23/04/1998;kopvoorn;12.00;per 100m
+Berwijn;242899/161350;242899;161350;250 m SO de monding;Voeren;Limburg;Maasbekken;Elektrisch;1994;05/10/1994;serpeling;14.00;per 100m
+Berwijn;242899/161350;242899;161350;250 m SO de monding;Voeren;Limburg;Maasbekken;Elektrisch;1998;23/04/1998;serpeling;1.33;per 100m
+Berwijn;242917/161373;242917;161373;300m SO monding;Voeren;Limburg;Maasbekken;Elektrisch;2016;15/07/2016;kopvoorn;78.00;per 100m
+Berwijn;242917/161373;242917;161373;300m SO monding;Voeren;Limburg;Maasbekken;Elektrisch;2017;12/04/2017;kopvoorn;69.00;per 100m
+Berwijn;242917/161373;242917;161373;300m SO monding;Voeren;Limburg;Maasbekken;Elektrisch;2018;21/06/2018;kopvoorn;122.00;per 100m
+Berwijn;242917/161373;242917;161373;300m SO monding;Voeren;Limburg;Maasbekken;Elektrisch;2018;18/10/2018;kopvoorn;149.00;per 100m
+Berwijn;242917/161373;242917;161373;300m SO monding;Voeren;Limburg;Maasbekken;Elektrisch;2019;27/05/2019;kopvoorn;38.00;per 100m
+Berwijn;242917/161373;242917;161373;300m SO monding;Voeren;Limburg;Maasbekken;Elektrisch;2020;16/06/2020;kopvoorn;79.00;per 100m
+Berwijn;242917/161373;242917;161373;300m SO monding;Voeren;Limburg;Maasbekken;Elektrisch;2021;14/06/2021;kopvoorn;17.00;per 100m
+Berwijn;242917/161373;242917;161373;300m SO monding;Voeren;Limburg;Maasbekken;Elektrisch;2022;07/06/2022;kopvoorn;3.00;per 100m
+Berwijn;242917/161373;242917;161373;300m SO monding;Voeren;Limburg;Maasbekken;Elektrisch;2023;30/05/2023;kopvoorn;53.00;per 100m
+Berwijn;242917/161373;242917;161373;300m SO monding;Voeren;Limburg;Maasbekken;Elektrisch;2016;15/07/2016;serpeling;8.00;per 100m
+Berwijn;242917/161373;242917;161373;300m SO monding;Voeren;Limburg;Maasbekken;Elektrisch;2018;21/06/2018;serpeling;18.00;per 100m
+Berwijn;242917/161373;242917;161373;300m SO monding;Voeren;Limburg;Maasbekken;Elektrisch;2018;18/10/2018;serpeling;114.00;per 100m
+Berwijn;242917/161373;242917;161373;300m SO monding;Voeren;Limburg;Maasbekken;Elektrisch;2019;27/05/2019;serpeling;32.00;per 100m
+Berwijn;242917/161373;242917;161373;300m SO monding;Voeren;Limburg;Maasbekken;Elektrisch;2020;16/06/2020;serpeling;22.00;per 100m
+Berwijn;242917/161373;242917;161373;300m SO monding;Voeren;Limburg;Maasbekken;Elektrisch;2021;14/06/2021;serpeling;17.00;per 100m
+Berwijn;242917/161373;242917;161373;300m SO monding;Voeren;Limburg;Maasbekken;Elektrisch;2022;07/06/2022;serpeling;2.00;per 100m
+Berwijn;242917/161373;242917;161373;300m SO monding;Voeren;Limburg;Maasbekken;Elektrisch;2023;30/05/2023;serpeling;27.00;per 100m
+Berwijn;242919/161299;242919;161299;200m SO monding;Voeren;Limburg;Maasbekken;Elektrisch;2016;15/07/2016;kopvoorn;18.00;per 100m
+Berwijn;242919/161299;242919;161299;200m SO monding;Voeren;Limburg;Maasbekken;Elektrisch;2017;11/04/2017;kopvoorn;9.00;per 100m
+Berwijn;242919/161299;242919;161299;200m SO monding;Voeren;Limburg;Maasbekken;Elektrisch;2018;20/06/2018;kopvoorn;37.00;per 100m
+Berwijn;242919/161299;242919;161299;200m SO monding;Voeren;Limburg;Maasbekken;Elektrisch;2018;17/10/2018;kopvoorn;115.00;per 100m
+Berwijn;242919/161299;242919;161299;200m SO monding;Voeren;Limburg;Maasbekken;Elektrisch;2019;27/05/2019;kopvoorn;68.00;per 100m
+Berwijn;242919/161299;242919;161299;200m SO monding;Voeren;Limburg;Maasbekken;Elektrisch;2020;15/06/2020;kopvoorn;28.00;per 100m
+Berwijn;242919/161299;242919;161299;200m SO monding;Voeren;Limburg;Maasbekken;Elektrisch;2018;20/06/2018;serpeling;5.00;per 100m
+Berwijn;242919/161299;242919;161299;200m SO monding;Voeren;Limburg;Maasbekken;Elektrisch;2018;17/10/2018;serpeling;88.00;per 100m
+Berwijn;242919/161299;242919;161299;200m SO monding;Voeren;Limburg;Maasbekken;Elektrisch;2019;27/05/2019;serpeling;11.00;per 100m
+Berwijn;242919/161299;242919;161299;200m SO monding;Voeren;Limburg;Maasbekken;Elektrisch;2020;15/06/2020;serpeling;42.00;per 100m
+Maas;242973/176640;242973;176640;nabij Hoge Maas (19 km);Lanaken;Limburg;Maasbekken;Elektrisch;2002;15/05/2002;kopvoorn;3.80;per 100m
+Maas;242973/176640;242973;176640;nabij Hoge Maas (19 km);Lanaken;Limburg;Maasbekken;Elektrisch;2005;19/05/2005;kopvoorn;6.40;per 100m
+Maas;242973/176640;242973;176640;nabij Hoge Maas (19 km);Lanaken;Limburg;Maasbekken;Elektrisch;2008;22/05/2008;kopvoorn;1.40;per 100m
+Maas;242973/176640;242973;176640;nabij Hoge Maas (19 km);Lanaken;Limburg;Maasbekken;Elektrisch;2013;31/10/2013;kopvoorn;1.60;per 100m
+Maas;242973/176640;242973;176640;nabij Hoge Maas (19 km);Lanaken;Limburg;Maasbekken;Elektrisch;2015;17/03/2015;kopvoorn;4.00;per 100m
+Maas;242973/176640;242973;176640;nabij Hoge Maas (19 km);Lanaken;Limburg;Maasbekken;Elektrisch;2015;18/06/2015;kopvoorn;0.40;per 100m
+Maas;242973/176640;242973;176640;nabij Hoge Maas (19 km);Lanaken;Limburg;Maasbekken;Elektrisch;2017;26/06/2017;kopvoorn;1.20;per 100m
+Maas;242973/176640;242973;176640;nabij Hoge Maas (19 km);Lanaken;Limburg;Maasbekken;Elektrisch;2018;30/05/2018;kopvoorn;22.80;per 100m
+Maas;242973/176640;242973;176640;nabij Hoge Maas (19 km);Lanaken;Limburg;Maasbekken;Elektrisch;2019;22/05/2019;kopvoorn;0.40;per 100m
+Maas;242973/176640;242973;176640;nabij Hoge Maas (19 km);Lanaken;Limburg;Maasbekken;Elektrisch;2019;23/09/2019;kopvoorn;0.67;per 100m
+Maas;242973/176640;242973;176640;nabij Hoge Maas (19 km);Lanaken;Limburg;Maasbekken;Elektrisch;2019;24/10/2019;kopvoorn;0.67;per 100m
+Maas;242973/176640;242973;176640;nabij Hoge Maas (19 km);Lanaken;Limburg;Maasbekken;Elektrisch;2019;17/12/2019;kopvoorn;7.00;per 100m
+Maas;242973/176640;242973;176640;nabij Hoge Maas (19 km);Lanaken;Limburg;Maasbekken;Elektrisch;2020;23/01/2020;kopvoorn;1.67;per 100m
+Maas;242973/176640;242973;176640;nabij Hoge Maas (19 km);Lanaken;Limburg;Maasbekken;Elektrisch;2020;20/02/2020;kopvoorn;5.00;per 100m
+Maas;242973/176640;242973;176640;nabij Hoge Maas (19 km);Lanaken;Limburg;Maasbekken;Elektrisch;2020;12/06/2020;kopvoorn;0.73;per 100m
+Maas;242973/176640;242973;176640;nabij Hoge Maas (19 km);Lanaken;Limburg;Maasbekken;Elektrisch;2021;01/07/2021;kopvoorn;10.80;per 100m
+Maas;242973/176640;242973;176640;nabij Hoge Maas (19 km);Lanaken;Limburg;Maasbekken;Elektrisch;2012;24/05/2012;serpeling;0.40;per 100m
+Maas;242973/176640;242973;176640;nabij Hoge Maas (19 km);Lanaken;Limburg;Maasbekken;Elektrisch;2013;31/10/2013;serpeling;3.60;per 100m
+Maas;242973/176640;242973;176640;nabij Hoge Maas (19 km);Lanaken;Limburg;Maasbekken;Elektrisch;2019;27/06/2019;serpeling;;per 100m
+Maas;242973/176640;242973;176640;nabij Hoge Maas (19 km);Lanaken;Limburg;Maasbekken;Elektrisch;2020;20/02/2020;serpeling;0.67;per 100m
+Berwijn;243002/161337;243002;161337;400m SO monding;Voeren;Limburg;Maasbekken;Elektrisch;2016;25/08/2016;kopvoorn;42.00;per 100m
+Berwijn;243002/161337;243002;161337;400m SO monding;Voeren;Limburg;Maasbekken;Elektrisch;2017;12/04/2017;kopvoorn;101.00;per 100m
+Berwijn;243002/161337;243002;161337;400m SO monding;Voeren;Limburg;Maasbekken;Elektrisch;2018;21/06/2018;kopvoorn;32.00;per 100m
+Berwijn;243002/161337;243002;161337;400m SO monding;Voeren;Limburg;Maasbekken;Elektrisch;2018;18/10/2018;kopvoorn;183.00;per 100m
+Berwijn;243002/161337;243002;161337;400m SO monding;Voeren;Limburg;Maasbekken;Elektrisch;2019;28/05/2019;kopvoorn;27.00;per 100m
+Berwijn;243002/161337;243002;161337;400m SO monding;Voeren;Limburg;Maasbekken;Elektrisch;2020;16/06/2020;kopvoorn;43.00;per 100m
+Berwijn;243002/161337;243002;161337;400m SO monding;Voeren;Limburg;Maasbekken;Elektrisch;2022;07/06/2022;kopvoorn;1.00;per 100m
+Berwijn;243002/161337;243002;161337;400m SO monding;Voeren;Limburg;Maasbekken;Elektrisch;2023;31/05/2023;kopvoorn;57.00;per 100m
+Berwijn;243002/161337;243002;161337;400m SO monding;Voeren;Limburg;Maasbekken;Elektrisch;2017;12/04/2017;serpeling;30.00;per 100m
+Berwijn;243002/161337;243002;161337;400m SO monding;Voeren;Limburg;Maasbekken;Elektrisch;2018;21/06/2018;serpeling;22.00;per 100m
+Berwijn;243002/161337;243002;161337;400m SO monding;Voeren;Limburg;Maasbekken;Elektrisch;2018;18/10/2018;serpeling;120.00;per 100m
+Berwijn;243002/161337;243002;161337;400m SO monding;Voeren;Limburg;Maasbekken;Elektrisch;2020;16/06/2020;serpeling;11.00;per 100m
+Berwijn;243002/161337;243002;161337;400m SO monding;Voeren;Limburg;Maasbekken;Elektrisch;2023;31/05/2023;serpeling;11.00;per 100m
+Berwijn;243002/161251;243002;161251;500m SO monding;Voeren;Limburg;Maasbekken;Elektrisch;2016;25/08/2016;kopvoorn;24.00;per 100m
+Berwijn;243002/161251;243002;161251;500m SO monding;Voeren;Limburg;Maasbekken;Elektrisch;2017;13/04/2017;kopvoorn;70.00;per 100m
+Berwijn;243002/161251;243002;161251;500m SO monding;Voeren;Limburg;Maasbekken;Elektrisch;2018;21/06/2018;kopvoorn;8.00;per 100m
+Berwijn;243002/161251;243002;161251;500m SO monding;Voeren;Limburg;Maasbekken;Elektrisch;2018;19/10/2018;kopvoorn;77.00;per 100m
+Berwijn;243002/161251;243002;161251;500m SO monding;Voeren;Limburg;Maasbekken;Elektrisch;2019;28/05/2019;kopvoorn;10.00;per 100m
+Berwijn;243002/161251;243002;161251;500m SO monding;Voeren;Limburg;Maasbekken;Elektrisch;2020;16/06/2020;kopvoorn;31.00;per 100m
+Berwijn;243002/161251;243002;161251;500m SO monding;Voeren;Limburg;Maasbekken;Elektrisch;2022;08/06/2022;kopvoorn;27.00;per 100m
+Berwijn;243002/161251;243002;161251;500m SO monding;Voeren;Limburg;Maasbekken;Elektrisch;2023;31/05/2023;kopvoorn;31.00;per 100m
+Berwijn;243002/161251;243002;161251;500m SO monding;Voeren;Limburg;Maasbekken;Elektrisch;2017;13/04/2017;serpeling;14.00;per 100m
+Berwijn;243002/161251;243002;161251;500m SO monding;Voeren;Limburg;Maasbekken;Elektrisch;2018;21/06/2018;serpeling;6.00;per 100m
+Berwijn;243002/161251;243002;161251;500m SO monding;Voeren;Limburg;Maasbekken;Elektrisch;2018;19/10/2018;serpeling;69.00;per 100m
+Berwijn;243002/161251;243002;161251;500m SO monding;Voeren;Limburg;Maasbekken;Elektrisch;2020;16/06/2020;serpeling;72.00;per 100m
+Berwijn;243002/161251;243002;161251;500m SO monding;Voeren;Limburg;Maasbekken;Elektrisch;2022;08/06/2022;serpeling;18.00;per 100m
+Berwijn;243002/161251;243002;161251;500m SO monding;Voeren;Limburg;Maasbekken;Elektrisch;2023;31/05/2023;serpeling;16.00;per 100m
+Berwijn;243050/161171;243050;161171;600m SO monding;Voeren;Limburg;Maasbekken;Elektrisch;2016;25/08/2016;kopvoorn;27.00;per 100m
+Berwijn;243050/161171;243050;161171;600m SO monding;Voeren;Limburg;Maasbekken;Elektrisch;2017;13/04/2017;kopvoorn;16.00;per 100m
+Berwijn;243050/161171;243050;161171;600m SO monding;Voeren;Limburg;Maasbekken;Elektrisch;2018;22/06/2018;kopvoorn;74.00;per 100m
+Berwijn;243050/161171;243050;161171;600m SO monding;Voeren;Limburg;Maasbekken;Elektrisch;2018;19/10/2018;kopvoorn;199.00;per 100m
+Berwijn;243050/161171;243050;161171;600m SO monding;Voeren;Limburg;Maasbekken;Elektrisch;2019;28/05/2019;kopvoorn;10.00;per 100m
+Berwijn;243050/161171;243050;161171;600m SO monding;Voeren;Limburg;Maasbekken;Elektrisch;2020;16/06/2020;kopvoorn;10.00;per 100m
+Berwijn;243050/161171;243050;161171;600m SO monding;Voeren;Limburg;Maasbekken;Elektrisch;2021;14/06/2021;kopvoorn;25.00;per 100m
+Berwijn;243050/161171;243050;161171;600m SO monding;Voeren;Limburg;Maasbekken;Elektrisch;2022;08/06/2022;kopvoorn;135.00;per 100m
+Berwijn;243050/161171;243050;161171;600m SO monding;Voeren;Limburg;Maasbekken;Elektrisch;2023;31/05/2023;kopvoorn;18.00;per 100m
+Berwijn;243050/161171;243050;161171;600m SO monding;Voeren;Limburg;Maasbekken;Elektrisch;2018;22/06/2018;serpeling;14.00;per 100m
+Berwijn;243050/161171;243050;161171;600m SO monding;Voeren;Limburg;Maasbekken;Elektrisch;2018;19/10/2018;serpeling;302.00;per 100m
+Berwijn;243050/161171;243050;161171;600m SO monding;Voeren;Limburg;Maasbekken;Elektrisch;2019;28/05/2019;serpeling;8.00;per 100m
+Berwijn;243050/161171;243050;161171;600m SO monding;Voeren;Limburg;Maasbekken;Elektrisch;2020;16/06/2020;serpeling;4.00;per 100m
+Berwijn;243050/161171;243050;161171;600m SO monding;Voeren;Limburg;Maasbekken;Elektrisch;2021;14/06/2021;serpeling;33.00;per 100m
+Berwijn;243050/161171;243050;161171;600m SO monding;Voeren;Limburg;Maasbekken;Elektrisch;2022;08/06/2022;serpeling;35.00;per 100m
+Berwijn;243050/161171;243050;161171;600m SO monding;Voeren;Limburg;Maasbekken;Elektrisch;2023;31/05/2023;serpeling;8.00;per 100m
+Berwijn;243143/161136;243143;161136;700m SO monding;Voeren;Limburg;Maasbekken;Elektrisch;2016;25/08/2016;kopvoorn;5.81;per 100m
+Berwijn;243143/161136;243143;161136;700m SO monding;Voeren;Limburg;Maasbekken;Elektrisch;2017;13/04/2017;kopvoorn;34.29;per 100m
+Berwijn;243143/161136;243143;161136;700m SO monding;Voeren;Limburg;Maasbekken;Elektrisch;2018;22/06/2018;kopvoorn;12.94;per 100m
+Berwijn;243143/161136;243143;161136;700m SO monding;Voeren;Limburg;Maasbekken;Elektrisch;2018;22/10/2018;kopvoorn;194.00;per 100m
+Berwijn;243143/161136;243143;161136;700m SO monding;Voeren;Limburg;Maasbekken;Elektrisch;2019;28/05/2019;kopvoorn;14.00;per 100m
+Berwijn;243143/161136;243143;161136;700m SO monding;Voeren;Limburg;Maasbekken;Elektrisch;2020;17/06/2020;kopvoorn;10.11;per 100m
+Berwijn;243143/161136;243143;161136;700m SO monding;Voeren;Limburg;Maasbekken;Elektrisch;2022;08/06/2022;kopvoorn;1.11;per 100m
+Berwijn;243143/161136;243143;161136;700m SO monding;Voeren;Limburg;Maasbekken;Elektrisch;2023;31/05/2023;kopvoorn;24.00;per 100m
+Berwijn;243143/161136;243143;161136;700m SO monding;Voeren;Limburg;Maasbekken;Elektrisch;2017;13/04/2017;serpeling;0.95;per 100m
+Berwijn;243143/161136;243143;161136;700m SO monding;Voeren;Limburg;Maasbekken;Elektrisch;2018;22/06/2018;serpeling;15.29;per 100m
+Berwijn;243143/161136;243143;161136;700m SO monding;Voeren;Limburg;Maasbekken;Elektrisch;2018;22/10/2018;serpeling;564.00;per 100m
+Berwijn;243143/161136;243143;161136;700m SO monding;Voeren;Limburg;Maasbekken;Elektrisch;2019;28/05/2019;serpeling;4.00;per 100m
+Berwijn;243143/161136;243143;161136;700m SO monding;Voeren;Limburg;Maasbekken;Elektrisch;2020;17/06/2020;serpeling;7.87;per 100m
+Berwijn;243143/161136;243143;161136;700m SO monding;Voeren;Limburg;Maasbekken;Elektrisch;2022;08/06/2022;serpeling;1.11;per 100m
+Berwijn;243143/161136;243143;161136;700m SO monding;Voeren;Limburg;Maasbekken;Elektrisch;2023;31/05/2023;serpeling;6.00;per 100m
+;243207/197816;243207;197816;Aan oude kanaalarm;Maaseik;Limburg;Maasbekken;Elektrisch;2014;17/09/2014;kopvoorn;;per 100m
+Lossing;243228/207507;243228;207507;/;Kinrooi;Limburg;Maasbekken;Elektrisch;2006;12/06/2006;serpeling;1.00;per 100m
+Berwijn;243247/161120;243247;161120;SA schansweg;Voeren;Limburg;Maasbekken;Elektrisch;2020;17/06/2020;kopvoorn;58.46;per 100m
+Berwijn;243247/161120;243247;161120;SA schansweg;Voeren;Limburg;Maasbekken;Elektrisch;2022;31/05/2022;kopvoorn;66.00;per 100m
+Berwijn;243247/161120;243247;161120;SA schansweg;Voeren;Limburg;Maasbekken;Elektrisch;2022;31/05/2022;serpeling;6.00;per 100m
+Berwijn;243281/161115;243281;161115;SO Schansweg;Voeren;Limburg;Maasbekken;Elektrisch;2017;20/04/2017;kopvoorn;10.57;per 100m
+Berwijn;243281/161115;243281;161115;SO Schansweg;Voeren;Limburg;Maasbekken;Elektrisch;2018;22/10/2018;kopvoorn;23.88;per 100m
+Berwijn;243281/161115;243281;161115;SO Schansweg;Voeren;Limburg;Maasbekken;Elektrisch;2021;15/06/2021;kopvoorn;41.67;per 100m
+Berwijn;243281/161115;243281;161115;SO Schansweg;Voeren;Limburg;Maasbekken;Elektrisch;2022;09/06/2022;kopvoorn;29.00;per 100m
+Berwijn;243281/161115;243281;161115;SO Schansweg;Voeren;Limburg;Maasbekken;Elektrisch;2023;01/06/2023;kopvoorn;15.00;per 100m
+Berwijn;243281/161115;243281;161115;SO Schansweg;Voeren;Limburg;Maasbekken;Elektrisch;2017;20/04/2017;serpeling;0.81;per 100m
+Berwijn;243281/161115;243281;161115;SO Schansweg;Voeren;Limburg;Maasbekken;Elektrisch;2021;15/06/2021;serpeling;2.08;per 100m
+Berwijn;243281/161115;243281;161115;SO Schansweg;Voeren;Limburg;Maasbekken;Elektrisch;2022;09/06/2022;serpeling;15.00;per 100m
+Berwijn;243349/161144;243349;161144;aan de fiets/wandelbrug;Voeren;Limburg;Maasbekken;Elektrisch;2015;04/06/2015;kopvoorn;30.00;per 100m
+Zanderbeek;243357/195246;243357;195246;Close to Bergerven, the Bek;Dilsen-Stokkem;Limburg;Maasbekken;Elektrisch;2014;16/09/2014;kopvoorn;21.74;per 100m
+Zanderbeek;243357/195246;243357;195246;Close to Bergerven, the Bek;Dilsen-Stokkem;Limburg;Maasbekken;Elektrisch;2018;04/05/2018;kopvoorn;3.00;per 100m
+Zanderbeek;243357/195246;243357;195246;Close to Bergerven, the Bek;Dilsen-Stokkem;Limburg;Maasbekken;Elektrisch;2018;24/09/2018;kopvoorn;17.00;per 100m
+Zanderbeek;243357/195246;243357;195246;Close to Bergerven, the Bek;Dilsen-Stokkem;Limburg;Maasbekken;Elektrisch;2019;26/08/2019;kopvoorn;9.00;per 100m
+ZuidWillemsvaart;243470/194301;243470;194301;Rotem, ter hoogte van de zinkfabriek;Dilsen-Stokkem;Limburg;Maasbekken;Elektrisch;2010;16/09/2010;kopvoorn;0.80;per 100m
+Berwijn;243625/161005;243625;161005;Zuidelijk van Parking TIR;Voeren;Limburg;Maasbekken;Elektrisch;2021;15/06/2021;kopvoorn;11.63;per 100m
+Bosbeek;243780/198448;243780;198448;Sa Neermolen;Maaseik;Limburg;Maasbekken;Elektrisch;2013;18/07/2013;kopvoorn;0.40;per 100m
+Bosbeek;243780/198448;243780;198448;Sa Neermolen;Maaseik;Limburg;Maasbekken;Elektrisch;2013;18/07/2013;serpeling;1.40;per 100m
+Bosbeek;244215/198339;244215;198339;SH12Bosb_Neerm;Maaseik;Limburg;Maasbekken;Elektrisch;2012;20/06/2012;kopvoorn;3.60;per 100m
+Bosbeek;244215/198339;244215;198339;SH12Bosb_Neerm;Maaseik;Limburg;Maasbekken;Elektrisch;2012;20/06/2012;serpeling;0.60;per 100m
+Bosbeek;244215/198339;244215;198339;SH13Bosb_Neerm;Maaseik;Limburg;Maasbekken;Elektrisch;2013;18/07/2013;kopvoorn;0.20;per 100m
+Bosbeek;244215/198339;244215;198339;SH13Bosb_Neerm;Maaseik;Limburg;Maasbekken;Elektrisch;2013;18/07/2013;serpeling;1.20;per 100m
+Kikbeek;244934/184449;244934;184449;aan de monding in de Maas;Maasmechelen;Limburg;Maasbekken;Elektrisch;2011;04/10/2011;kopvoorn;2.50;per 100m
+Kikbeek;244934/184449;244934;184449;aan de monding in de Maas;Maasmechelen;Limburg;Maasbekken;Elektrisch;2012;22/03/2012;kopvoorn;5.33;per 100m
+Kikbeek;244934/184449;244934;184449;aan de monding in de Maas;Maasmechelen;Limburg;Maasbekken;Elektrisch;2012;03/04/2012;kopvoorn;2.00;per 100m
+Kikbeek;244934/184449;244934;184449;aan de monding in de Maas;Maasmechelen;Limburg;Maasbekken;Elektrisch;2013;23/09/2013;kopvoorn;8.00;per 100m
+Kikbeek;244934/184449;244934;184449;aan de monding in de Maas;Maasmechelen;Limburg;Maasbekken;Elektrisch;2013;11/10/2013;kopvoorn;5.00;per 100m
+Kikbeek;244934/184449;244934;184449;aan de monding in de Maas;Maasmechelen;Limburg;Maasbekken;Elektrisch;2014;15/07/2014;kopvoorn;6.00;per 100m
+Kikbeek;244934/184449;244934;184449;aan de monding in de Maas;Maasmechelen;Limburg;Maasbekken;Elektrisch;2015;18/06/2015;kopvoorn;35.00;per 100m
+Kikbeek;244934/184449;244934;184449;aan de monding in de Maas;Maasmechelen;Limburg;Maasbekken;Elektrisch;2017;18/04/2017;kopvoorn;16.67;per 100m
+Kikbeek;244934/184449;244934;184449;aan de monding in de Maas;Maasmechelen;Limburg;Maasbekken;Elektrisch;2011;04/10/2011;serpeling;7.50;per 100m
+Kikbeek;244934/184449;244934;184449;aan de monding in de Maas;Maasmechelen;Limburg;Maasbekken;Elektrisch;2014;15/07/2014;serpeling;1.00;per 100m
+Berwijn;244985/161547;244985;161547;SA 90032150;Voeren;Limburg;Maasbekken;Elektrisch;2014;20/06/2014;kopvoorn;7.27;per 100m
+Berwijn;244985/161547;244985;161547;SA 90032150;Voeren;Limburg;Maasbekken;Elektrisch;2023;01/06/2023;kopvoorn;13.00;per 100m
+Maas;245179/178519;245179;178519;bocht te Herbricht (B)  (23 km);Lanaken;Limburg;Maasbekken;Elektrisch;1998;14/05/1998;kopvoorn;3.80;per 100m
+Maas;245179/178519;245179;178519;bocht te Herbricht (B)  (23 km);Lanaken;Limburg;Maasbekken;Elektrisch;2018;30/05/2018;kopvoorn;36.00;per 100m
+Maas;245179/178519;245179;178519;bocht te Herbricht (B)  (23 km);Lanaken;Limburg;Maasbekken;Elektrisch;2021;01/07/2021;kopvoorn;0.77;per 100m
+Maas;245179/178519;245179;178519;bocht te Herbricht (B)  (23 km);Lanaken;Limburg;Maasbekken;Elektrisch;2018;30/05/2018;serpeling;2.67;per 100m
+Maas;245179/178519;245179;178519;bocht te Herbricht (B)  (23 km);Lanaken;Limburg;Maasbekken;Elektrisch;2022;01/06/2022;serpeling;0.80;per 100m
+Berwijn;245321/161452;245321;161452;stroomafwaarts de stuw van Moelingen;Voeren;Limburg;Maasbekken;Elektrisch;1994;05/10/1994;kopvoorn;52.00;per 100m
+Berwijn;245321/161452;245321;161452;stroomafwaarts de stuw van Moelingen;Voeren;Limburg;Maasbekken;Elektrisch;1998;23/04/1998;kopvoorn;2.00;per 100m
+Berwijn;245321/161452;245321;161452;stroomafwaarts de stuw van Moelingen;Voeren;Limburg;Maasbekken;Elektrisch;2005;27/04/2005;kopvoorn;39.00;per 100m
+Berwijn;245321/161452;245321;161452;stroomafwaarts de stuw van Moelingen;Voeren;Limburg;Maasbekken;Elektrisch;2010;08/04/2010;kopvoorn;78.00;per 100m
+Berwijn;245321/161452;245321;161452;stroomafwaarts de stuw van Moelingen;Voeren;Limburg;Maasbekken;Elektrisch;2017;04/10/2017;kopvoorn;622.00;per 100m
+Berwijn;245321/161452;245321;161452;stroomafwaarts de stuw van Moelingen;Voeren;Limburg;Maasbekken;Elektrisch;2022;03/10/2022;kopvoorn;1.00;per 100m
+Berwijn;245321/161452;245321;161452;stroomafwaarts de stuw van Moelingen;Voeren;Limburg;Maasbekken;Elektrisch;1994;05/10/1994;serpeling;3.00;per 100m
+Berwijn;245321/161452;245321;161452;stroomafwaarts de stuw van Moelingen;Voeren;Limburg;Maasbekken;Elektrisch;2005;27/04/2005;serpeling;4.00;per 100m
+Berwijn;245321/161452;245321;161452;stroomafwaarts de stuw van Moelingen;Voeren;Limburg;Maasbekken;Elektrisch;2010;08/04/2010;serpeling;2.00;per 100m
+Berwijn;245321/161452;245321;161452;stroomafwaarts de stuw van Moelingen;Voeren;Limburg;Maasbekken;Elektrisch;2017;04/10/2017;serpeling;24.00;per 100m
+Ziepbeek;245648/183606;245648;183606;Mouth into Meuse;Maasmechelen;Limburg;Maasbekken;Elektrisch;2012;22/03/2012;kopvoorn;163.27;per 100m
+Ziepbeek;245648/183606;245648;183606;Mouth into Meuse;Maasmechelen;Limburg;Maasbekken;Elektrisch;2012;03/04/2012;kopvoorn;4.00;per 100m
+Ziepbeek;245648/183606;245648;183606;Mouth into Meuse;Maasmechelen;Limburg;Maasbekken;Elektrisch;2015;18/06/2015;kopvoorn;6.00;per 100m
+Ziepbeek;245648/183606;245648;183606;Mouth into Meuse;Maasmechelen;Limburg;Maasbekken;Elektrisch;2017;18/04/2017;kopvoorn;59.21;per 100m
+Ziepbeek;245648/183606;245648;183606;Mouth into Meuse;Maasmechelen;Limburg;Maasbekken;Elektrisch;2021;11/10/2021;kopvoorn;325.71;per 100m
+Ziepbeek;245648/183606;245648;183606;Mouth into Meuse;Maasmechelen;Limburg;Maasbekken;Elektrisch;2021;11/10/2021;serpeling;2.86;per 100m
+Berwijn;245653/161330;245653;161330;aan het zandpad;Voeren;Limburg;Maasbekken;Elektrisch;1998;23/04/1998;kopvoorn;15.00;per 100m
+Maas;245837/185556;245837;185556;thv Maaskruis Vucht;Maasmechelen;Limburg;Maasbekken;Elektrisch;2022;02/08/2022;kopvoorn;5.40;per 100m
+Ziepbeek;245851/182546;245851;182546;1 km stroomopwaarts de monding, Bampstraat;Maasmechelen;Limburg;Maasbekken;Elektrisch;2010;08/03/2010;kopvoorn;1.00;per 100m
+Ziepbeek;245851/182546;245851;182546;1 km stroomopwaarts de monding, Bampstraat;Maasmechelen;Limburg;Maasbekken;Elektrisch;2015;15/10/2015;kopvoorn;20.00;per 100m
+Maas;246123/186252;246123;186252;(35 km);MaasMechelen;Limburg;Maasbekken;Elektrisch;1998;13/05/1998;kopvoorn;4.60;per 100m
+Maas;246152/183843;246152;183843;(31 km);MaasMechelen;Limburg;Maasbekken;Elektrisch;1998;13/05/1998;kopvoorn;2.00;per 100m
+Maas;246152/183843;246152;183843;(31 km);MaasMechelen;Limburg;Maasbekken;Elektrisch;2002;14/05/2002;kopvoorn;1.00;per 100m
+Maas;246152/183843;246152;183843;(31 km);MaasMechelen;Limburg;Maasbekken;Elektrisch;2005;18/05/2005;kopvoorn;7.20;per 100m
+Maas;246152/183843;246152;183843;(31 km);MaasMechelen;Limburg;Maasbekken;Elektrisch;2008;21/05/2008;kopvoorn;0.20;per 100m
+Maas;246152/183843;246152;183843;(31 km);MaasMechelen;Limburg;Maasbekken;Elektrisch;2012;23/05/2012;kopvoorn;39.60;per 100m
+Maas;246152/183843;246152;183843;(31 km);MaasMechelen;Limburg;Maasbekken;Elektrisch;2016;22/08/2016;kopvoorn;15.60;per 100m
+Maas;246152/183843;246152;183843;(31 km);MaasMechelen;Limburg;Maasbekken;Elektrisch;2018;29/05/2018;kopvoorn;;per 100m
+Maas;246152/183843;246152;183843;(31 km);MaasMechelen;Limburg;Maasbekken;Elektrisch;2019;21/05/2019;kopvoorn;22.80;per 100m
+Maas;246152/183843;246152;183843;(31 km);MaasMechelen;Limburg;Maasbekken;Elektrisch;2020;10/06/2020;kopvoorn;28.80;per 100m
+Maas;246152/183843;246152;183843;(31 km);MaasMechelen;Limburg;Maasbekken;Elektrisch;2021;30/06/2021;kopvoorn;21.20;per 100m
+Maas;246152/183843;246152;183843;(31 km);MaasMechelen;Limburg;Maasbekken;Elektrisch;2022;31/05/2022;kopvoorn;10.00;per 100m
+Bosbeek;246307/199090;246307;199090;aan de Bosbeekvallei;Maaseik;Limburg;Maasbekken;Elektrisch;2011;17/03/2011;kopvoorn;5.00;per 100m
+Zanderbeek;246472/197675;246472;197675;Aan het toeristische fietspad As - Maaseik;Dilsen-Stokkem;Limburg;Maasbekken;Elektrisch;2018;04/05/2018;kopvoorn;8.00;per 100m
+Zanderbeek;246472/197675;246472;197675;Aan het toeristische fietspad As - Maaseik;Dilsen-Stokkem;Limburg;Maasbekken;Elektrisch;2018;24/09/2018;kopvoorn;6.00;per 100m
+Zanderbeek;246472/197675;246472;197675;Aan het toeristische fietspad As - Maaseik;Dilsen-Stokkem;Limburg;Maasbekken;Elektrisch;2019;26/08/2019;kopvoorn;3.00;per 100m
+Oude Maas Dilsen Noord;246570/192906;246570;192906;Elektrovisserij - Oude Maas Dilsen;Dilsen-Stokkem;Limburg;Maasbekken;Elektrisch;2002;16/09/2002;kopvoorn;0.05;per 100m
+Witbeek;246659/201354;246659;201354;Broekberg;Maaseik;Limburg;Maasbekken;Elektrisch;2010;26/05/2010;kopvoorn;1.00;per 100m
+Itterbeek;246688/204472;246688;204472;waar de Itterbeek en de Abeek samenkomen;Kinrooi;Limburg;Maasbekken;Elektrisch;2005;31/05/2005;kopvoorn;3.00;per 100m
+Itterbeek;246688/204472;246688;204472;waar de Itterbeek en de Abeek samenkomen;Kinrooi;Limburg;Maasbekken;Elektrisch;2000;25/08/2000;serpeling;0.50;per 100m
+Abeek;246706/204493;246706;204493;net na de samenvloeiing van de A-beek en de Itterbeek;Kinrooi;Limburg;Maasbekken;Elektrisch;2010;06/04/2010;serpeling;4.00;per 100m
+Maas;246716/182140;246716;182140;nabij Terhagen (27 km);Maasmechelen;Limburg;Maasbekken;Elektrisch;1998;14/05/1998;kopvoorn;1.80;per 100m
+Maas;246716/182140;246716;182140;nabij Terhagen (27 km);Maasmechelen;Limburg;Maasbekken;Elektrisch;2002;15/05/2002;kopvoorn;9.00;per 100m
+Maas;246716/182140;246716;182140;nabij Terhagen (27 km);Maasmechelen;Limburg;Maasbekken;Elektrisch;2005;19/05/2005;kopvoorn;10.20;per 100m
+Maas;246716/182140;246716;182140;nabij Terhagen (27 km);Maasmechelen;Limburg;Maasbekken;Elektrisch;2008;21/05/2008;kopvoorn;2.60;per 100m
+Maas;246716/182140;246716;182140;nabij Terhagen (27 km);Maasmechelen;Limburg;Maasbekken;Elektrisch;2012;24/05/2012;kopvoorn;2.60;per 100m
+Maas;246716/182140;246716;182140;nabij Terhagen (27 km);Maasmechelen;Limburg;Maasbekken;Elektrisch;2017;27/06/2017;kopvoorn;4.80;per 100m
+Maas;246716/182140;246716;182140;nabij Terhagen (27 km);Maasmechelen;Limburg;Maasbekken;Elektrisch;2018;30/05/2018;kopvoorn;97.42;per 100m
+Maas;246716/182140;246716;182140;nabij Terhagen (27 km);Maasmechelen;Limburg;Maasbekken;Elektrisch;2019;22/05/2019;kopvoorn;1.20;per 100m
+Maas;246716/182140;246716;182140;nabij Terhagen (27 km);Maasmechelen;Limburg;Maasbekken;Elektrisch;2020;11/06/2020;kopvoorn;89.60;per 100m
+Maas;246716/182140;246716;182140;nabij Terhagen (27 km);Maasmechelen;Limburg;Maasbekken;Elektrisch;2021;01/07/2021;kopvoorn;5.20;per 100m
+Maas;246716/182140;246716;182140;nabij Terhagen (27 km);Maasmechelen;Limburg;Maasbekken;Elektrisch;2022;01/06/2022;kopvoorn;9.20;per 100m
+Maas;246716/182140;246716;182140;nabij Terhagen (27 km);Maasmechelen;Limburg;Maasbekken;Elektrisch;2005;19/05/2005;serpeling;0.20;per 100m
+Maas;246716/182140;246716;182140;nabij Terhagen (27 km);Maasmechelen;Limburg;Maasbekken;Elektrisch;2022;01/06/2022;serpeling;33.60;per 100m
+Abeek;246781/205609;246781;205609;/;Kinrooi;Limburg;Maasbekken;Elektrisch;2020;10/03/2020;kopvoorn;1.00;per 100m
+Bosbeek;247348/198986;247348;198986;aan de Wurfeldermolen;Maaseik;Limburg;Maasbekken;Elektrisch;2013;23/09/2013;kopvoorn;36.00;per 100m
+Bosbeek;247348/198986;247348;198986;aan de Wurfeldermolen;Maaseik;Limburg;Maasbekken;Elektrisch;2015;04/11/2015;kopvoorn;20.00;per 100m
+Bosbeek;247348/198986;247348;198986;aan de Wurfeldermolen;Maaseik;Limburg;Maasbekken;Elektrisch;2019;29/08/2019;kopvoorn;44.21;per 100m
+Bosbeek;247348/198986;247348;198986;aan de Wurfeldermolen;Maaseik;Limburg;Maasbekken;Elektrisch;2013;23/09/2013;serpeling;10.00;per 100m
+Bosbeek;247348/198986;247348;198986;aan de Wurfeldermolen;Maaseik;Limburg;Maasbekken;Elektrisch;2015;04/11/2015;serpeling;2.50;per 100m
+Bosbeek;247348/198986;247348;198986;aan de Wurfeldermolen;Maaseik;Limburg;Maasbekken;Elektrisch;2019;29/08/2019;serpeling;61.05;per 100m
+Maas;247480/192510;247480;192510;Booien (43 km);Dilsen-Stokkem;Limburg;Maasbekken;Elektrisch;1998;13/05/1998;kopvoorn;3.40;per 100m
+Maas;247611/183649;247611;183649;bocht Kotem na de brug (E314) (29 km);Maasmechelen;Limburg;Maasbekken;Elektrisch;1998;13/05/1998;kopvoorn;3.20;per 100m
+Lossing;247915/207558;247915;207558;/;Kinrooi;Limburg;Maasbekken;Elektrisch;2011;14/06/2011;serpeling;1.00;per 100m
+Maas;248106/189381;248106;189381;aan het Veer van Meeswijk (39,1 km);Maasmechelen;Limburg;Maasbekken;Elektrisch;1998;13/05/1998;kopvoorn;3.00;per 100m
+Maas;248106/189381;248106;189381;aan het Veer van Meeswijk (39,1 km);Maasmechelen;Limburg;Maasbekken;Elektrisch;2002;14/05/2002;kopvoorn;3.20;per 100m
+Maas;248106/189381;248106;189381;aan het Veer van Meeswijk (39,1 km);Maasmechelen;Limburg;Maasbekken;Elektrisch;2005;18/05/2005;kopvoorn;2.60;per 100m
+Maas;248106/189381;248106;189381;aan het Veer van Meeswijk (39,1 km);Maasmechelen;Limburg;Maasbekken;Elektrisch;2012;23/05/2012;kopvoorn;8.00;per 100m
+Maas;248106/189381;248106;189381;aan het Veer van Meeswijk (39,1 km);Maasmechelen;Limburg;Maasbekken;Elektrisch;2013;11/10/2013;kopvoorn;1.00;per 100m
+Maas;248106/189381;248106;189381;aan het Veer van Meeswijk (39,1 km);Maasmechelen;Limburg;Maasbekken;Elektrisch;2014;16/07/2014;kopvoorn;5.00;per 100m
+Maas;248106/189381;248106;189381;aan het Veer van Meeswijk (39,1 km);Maasmechelen;Limburg;Maasbekken;Elektrisch;2015;17/06/2015;kopvoorn;0.40;per 100m
+Maas;248106/189381;248106;189381;aan het Veer van Meeswijk (39,1 km);Maasmechelen;Limburg;Maasbekken;Elektrisch;2016;22/08/2016;kopvoorn;4.40;per 100m
+Maas;248106/189381;248106;189381;aan het Veer van Meeswijk (39,1 km);Maasmechelen;Limburg;Maasbekken;Elektrisch;2017;28/06/2017;kopvoorn;2.80;per 100m
+Maas;248106/189381;248106;189381;aan het Veer van Meeswijk (39,1 km);Maasmechelen;Limburg;Maasbekken;Elektrisch;2018;29/05/2018;kopvoorn;3.20;per 100m
+Maas;248106/189381;248106;189381;aan het Veer van Meeswijk (39,1 km);Maasmechelen;Limburg;Maasbekken;Elektrisch;2019;21/05/2019;kopvoorn;1.20;per 100m
+Maas;248106/189381;248106;189381;aan het Veer van Meeswijk (39,1 km);Maasmechelen;Limburg;Maasbekken;Elektrisch;2020;10/06/2020;kopvoorn;46.40;per 100m
+Maas;248106/189381;248106;189381;aan het Veer van Meeswijk (39,1 km);Maasmechelen;Limburg;Maasbekken;Elektrisch;2021;30/06/2021;kopvoorn;12.80;per 100m
+Maas;248106/189381;248106;189381;aan het Veer van Meeswijk (39,1 km);Maasmechelen;Limburg;Maasbekken;Elektrisch;2022;31/05/2022;kopvoorn;0.40;per 100m
+Maas;248106/189381;248106;189381;aan het Veer van Meeswijk (39,1 km);Maasmechelen;Limburg;Maasbekken;Elektrisch;2021;30/06/2021;serpeling;2.40;per 100m
+Kogbeek;248227/195355;248227;195355;300m SO monding;Dilsen-Stokkem;Limburg;Maasbekken;Elektrisch;2018;02/05/2018;kopvoorn;7.00;per 100m
+Kogbeek;248262/195435;248262;195435;200m SO monding;Dilsen-Stokkem;Limburg;Maasbekken;Elektrisch;2018;02/05/2018;kopvoorn;15.00;per 100m
+Kogbeek;248262/195435;248262;195435;200m SO monding;Dilsen-Stokkem;Limburg;Maasbekken;Elektrisch;2018;19/09/2018;kopvoorn;26.00;per 100m
+Kogbeek;248262/195435;248262;195435;200m SO monding;Dilsen-Stokkem;Limburg;Maasbekken;Elektrisch;2019;27/08/2019;kopvoorn;142.00;per 100m
+Kogbeek;248326/195522;248326;195522;kogbeek;Dilsen-Stokkem;Limburg;Maasbekken;Elektrisch;2018;02/05/2018;kopvoorn;26.00;per 100m
+Kogbeek;248326/195522;248326;195522;kogbeek;Dilsen-Stokkem;Limburg;Maasbekken;Elektrisch;2018;19/09/2018;kopvoorn;17.00;per 100m
+Kogbeek;248326/195522;248326;195522;kogbeek;Dilsen-Stokkem;Limburg;Maasbekken;Elektrisch;2019;27/08/2019;kopvoorn;69.00;per 100m
+Kogbeek;248326/195522;248326;195522;kogbeek;Dilsen-Stokkem;Limburg;Maasbekken;Elektrisch;2007;21/03/2007;serpeling;1.00;per 100m
+Kogbeek;248326/195522;248326;195522;kogbeek;Dilsen-Stokkem;Limburg;Maasbekken;Elektrisch;2018;02/05/2018;serpeling;1.00;per 100m
+Maas;248328/194291;248328;194291;Bichterweert (45 km);Dilsen-Stokkem;Limburg;Maasbekken;Elektrisch;1998;12/05/1998;kopvoorn;2.00;per 100m
+Maas;248328/194291;248328;194291;Bichterweert (45 km);Dilsen-Stokkem;Limburg;Maasbekken;Elektrisch;2002;14/05/2002;kopvoorn;8.20;per 100m
+Maas;248328/194291;248328;194291;Bichterweert (45 km);Dilsen-Stokkem;Limburg;Maasbekken;Elektrisch;2005;18/05/2005;kopvoorn;19.40;per 100m
+Maas;248328/194291;248328;194291;Bichterweert (45 km);Dilsen-Stokkem;Limburg;Maasbekken;Elektrisch;2012;22/05/2012;kopvoorn;3.20;per 100m
+Maas;248328/194291;248328;194291;Bichterweert (45 km);Dilsen-Stokkem;Limburg;Maasbekken;Elektrisch;2013;11/10/2013;kopvoorn;9.52;per 100m
+Maas;248328/194291;248328;194291;Bichterweert (45 km);Dilsen-Stokkem;Limburg;Maasbekken;Elektrisch;2014;16/07/2014;kopvoorn;0.80;per 100m
+Maas;248328/194291;248328;194291;Bichterweert (45 km);Dilsen-Stokkem;Limburg;Maasbekken;Elektrisch;2015;17/06/2015;kopvoorn;8.00;per 100m
+Maas;248328/194291;248328;194291;Bichterweert (45 km);Dilsen-Stokkem;Limburg;Maasbekken;Elektrisch;2016;23/08/2016;kopvoorn;0.40;per 100m
+Maas;248328/194291;248328;194291;Bichterweert (45 km);Dilsen-Stokkem;Limburg;Maasbekken;Elektrisch;2017;28/06/2017;kopvoorn;20.00;per 100m
+Maas;248328/194291;248328;194291;Bichterweert (45 km);Dilsen-Stokkem;Limburg;Maasbekken;Elektrisch;2018;29/05/2018;kopvoorn;401.86;per 100m
+Maas;248328/194291;248328;194291;Bichterweert (45 km);Dilsen-Stokkem;Limburg;Maasbekken;Elektrisch;2020;11/06/2020;kopvoorn;13.60;per 100m
+Maas;248328/194291;248328;194291;Bichterweert (45 km);Dilsen-Stokkem;Limburg;Maasbekken;Elektrisch;2021;30/06/2021;kopvoorn;21.20;per 100m
+Maas;248328/194291;248328;194291;Bichterweert (45 km);Dilsen-Stokkem;Limburg;Maasbekken;Elektrisch;2021;30/06/2021;serpeling;0.40;per 100m
+Zanderbeek;248329/197266;248329;197266;middenloop, grens Derde straat - Zandstraat nabij Diepbeekhof;Dilsen-Stokkem;Limburg;Maasbekken;Elektrisch;2000;13/09/2000;kopvoorn;41.00;per 100m
+Zanderbeek;248329/197266;248329;197266;middenloop, grens Derde straat - Zandstraat nabij Diepbeekhof;Dilsen-Stokkem;Limburg;Maasbekken;Elektrisch;2003;11/03/2003;kopvoorn;7.50;per 100m
+Zanderbeek;248329/197266;248329;197266;middenloop, grens Derde straat - Zandstraat nabij Diepbeekhof;Dilsen-Stokkem;Limburg;Maasbekken;Elektrisch;2007;20/03/2007;kopvoorn;2.50;per 100m
+Zanderbeek;248329/197266;248329;197266;middenloop, grens Derde straat - Zandstraat nabij Diepbeekhof;Dilsen-Stokkem;Limburg;Maasbekken;Elektrisch;2012;02/04/2012;kopvoorn;3.00;per 100m
+Witbeek;249011/202979;249011;202979;/;Kinrooi;Limburg;Maasbekken;Elektrisch;2017;11/09/2017;kopvoorn;8.00;per 100m
+Witbeek;249011/202979;249011;202979;/;Kinrooi;Limburg;Maasbekken;Elektrisch;2023;14/09/2023;kopvoorn;5.00;per 100m
+Maas;249149/195551;249149;195551;De Krauw (47 km);Maaseik;Limburg;Maasbekken;Elektrisch;1998;12/05/1998;kopvoorn;2.20;per 100m
+Zanderbeek;249885/198568;249885;198568;100m SO monding;Maaseik;Limburg;Maasbekken;Elektrisch;2017;10/04/2017;kopvoorn;2.00;per 100m
+Zanderbeek;249910/197813;249910;197813;Heppeneert, SO terugslagklep;Maaseik;Limburg;Maasbekken;Elektrisch;2003;11/03/2003;kopvoorn;3.00;per 100m
+Zanderbeek;249910/197813;249910;197813;Heppeneert, SO terugslagklep;Maaseik;Limburg;Maasbekken;Elektrisch;2007;20/03/2007;kopvoorn;10.00;per 100m
+Zanderbeek;249910/197813;249910;197813;Heppeneert, SO terugslagklep;Maaseik;Limburg;Maasbekken;Elektrisch;2012;02/04/2012;kopvoorn;27.00;per 100m
+Zanderbeek;249920/198389;249920;198389;300m SO monding;Maaseik;Limburg;Maasbekken;Elektrisch;2017;14/04/2017;kopvoorn;6.00;per 100m
+Zanderbeek;249921/197817;249921;197817;De Sloot, afwaarts winterdijk2;Maaseik;Limburg;Maasbekken;Elektrisch;2017;19/04/2017;kopvoorn;250.00;per 100m
+Zanderbeek;249923/198645;249923;198645;Heppeneert;Maaseik;Limburg;Maasbekken;Elektrisch;2000;13/09/2000;kopvoorn;25.00;per 100m
+Zanderbeek;249923/198645;249923;198645;Heppeneert;Maaseik;Limburg;Maasbekken;Elektrisch;2015;10/08/2015;kopvoorn;12.73;per 100m
+Zanderbeek;249923/198645;249923;198645;Heppeneert;Maaseik;Limburg;Maasbekken;Elektrisch;2017;10/04/2017;kopvoorn;1.00;per 100m
+Bosbeek;250084/199668;250084;199668;Bosbeek thv Maasweg;Maaseik;Limburg;Maasbekken;Elektrisch;2021;25/06/2021;kopvoorn;6.32;per 100m
+Maas;250300/196065;250300;196065;Damiaan (49 km);Dilsen-Stokkem;Limburg;Maasbekken;Elektrisch;1998;12/05/1998;kopvoorn;3.40;per 100m
+Maas;250300/196065;250300;196065;Damiaan (49 km);Dilsen-Stokkem;Limburg;Maasbekken;Elektrisch;2002;14/05/2002;kopvoorn;2.60;per 100m
+Maas;250300/196065;250300;196065;Damiaan (49 km);Dilsen-Stokkem;Limburg;Maasbekken;Elektrisch;2005;18/05/2005;kopvoorn;5.60;per 100m
+Maas;250300/196065;250300;196065;Damiaan (49 km);Dilsen-Stokkem;Limburg;Maasbekken;Elektrisch;2012;22/05/2012;kopvoorn;16.80;per 100m
+Maas;250300/196065;250300;196065;Damiaan (49 km);Dilsen-Stokkem;Limburg;Maasbekken;Elektrisch;2016;24/08/2016;kopvoorn;1.20;per 100m
+Bosbeek;250507/200109;250507;200109;aan de Aldeneikermolen;Maaseik;Limburg;Maasbekken;Elektrisch;1997;07/03/1997;kopvoorn;4.00;per 100m
+Bosbeek;250507/200109;250507;200109;aan de Aldeneikermolen;Maaseik;Limburg;Maasbekken;Elektrisch;1999;25/11/1999;kopvoorn;380.00;per 100m
+Bosbeek;250507/200109;250507;200109;aan de Aldeneikermolen;Maaseik;Limburg;Maasbekken;Elektrisch;2000;21/01/2000;kopvoorn;256.00;per 100m
+Bosbeek;250507/200109;250507;200109;aan de Aldeneikermolen;Maaseik;Limburg;Maasbekken;Elektrisch;2000;20/03/2000;kopvoorn;214.00;per 100m
+Bosbeek;250507/200109;250507;200109;aan de Aldeneikermolen;Maaseik;Limburg;Maasbekken;Elektrisch;2000;29/05/2000;kopvoorn;82.00;per 100m
+Bosbeek;250507/200109;250507;200109;aan de Aldeneikermolen;Maaseik;Limburg;Maasbekken;Elektrisch;2000;24/08/2000;kopvoorn;100.00;per 100m
+Bosbeek;250507/200109;250507;200109;aan de Aldeneikermolen;Maaseik;Limburg;Maasbekken;Elektrisch;2000;20/10/2000;kopvoorn;48.15;per 100m
+Bosbeek;250507/200109;250507;200109;aan de Aldeneikermolen;Maaseik;Limburg;Maasbekken;Elektrisch;2001;08/01/2001;kopvoorn;55.00;per 100m
+Bosbeek;250507/200109;250507;200109;aan de Aldeneikermolen;Maaseik;Limburg;Maasbekken;Elektrisch;2001;21/02/2001;kopvoorn;117.00;per 100m
+Bosbeek;250507/200109;250507;200109;aan de Aldeneikermolen;Maaseik;Limburg;Maasbekken;Elektrisch;2003;12/03/2003;kopvoorn;15.00;per 100m
+Bosbeek;250507/200109;250507;200109;aan de Aldeneikermolen;Maaseik;Limburg;Maasbekken;Elektrisch;2011;17/03/2011;kopvoorn;48.00;per 100m
+Bosbeek;250507/200109;250507;200109;aan de Aldeneikermolen;Maaseik;Limburg;Maasbekken;Elektrisch;2015;23/07/2015;kopvoorn;150.00;per 100m
+Bosbeek;250507/200109;250507;200109;aan de Aldeneikermolen;Maaseik;Limburg;Maasbekken;Elektrisch;2015;04/11/2015;kopvoorn;32.50;per 100m
+Bosbeek;250507/200109;250507;200109;aan de Aldeneikermolen;Maaseik;Limburg;Maasbekken;Elektrisch;2021;25/06/2021;kopvoorn;9.00;per 100m
+Bosbeek;250507/200109;250507;200109;aan de Aldeneikermolen;Maaseik;Limburg;Maasbekken;Elektrisch;2000;24/08/2000;serpeling;1.00;per 100m
+Bosbeek;250507/200109;250507;200109;aan de Aldeneikermolen;Maaseik;Limburg;Maasbekken;Elektrisch;2000;20/10/2000;serpeling;1.85;per 100m
+Bosbeek;250507/200109;250507;200109;aan de Aldeneikermolen;Maaseik;Limburg;Maasbekken;Elektrisch;2001;21/02/2001;serpeling;9.00;per 100m
+Bosbeek;250507/200109;250507;200109;aan de Aldeneikermolen;Maaseik;Limburg;Maasbekken;Elektrisch;2007;20/03/2007;serpeling;2.00;per 100m
+Bosbeek;250507/200109;250507;200109;aan de Aldeneikermolen;Maaseik;Limburg;Maasbekken;Elektrisch;2011;17/03/2011;serpeling;4.00;per 100m
+Bosbeek;250507/200109;250507;200109;aan de Aldeneikermolen;Maaseik;Limburg;Maasbekken;Elektrisch;2015;23/07/2015;serpeling;28.00;per 100m
+Bosbeek;250507/200109;250507;200109;aan de Aldeneikermolen;Maaseik;Limburg;Maasbekken;Elektrisch;2015;04/11/2015;serpeling;95.00;per 100m
+Maas;250513/199306;250513;199306;Schansberg (53 km);Maaseik;Limburg;Maasbekken;Elektrisch;1998;12/05/1998;kopvoorn;11.40;per 100m
+Maas;250513/199306;250513;199306;Schansberg (53 km);Maaseik;Limburg;Maasbekken;Elektrisch;2002;13/05/2002;kopvoorn;7.60;per 100m
+Maas;250513/199306;250513;199306;Schansberg (53 km);Maaseik;Limburg;Maasbekken;Elektrisch;2005;17/05/2005;kopvoorn;11.40;per 100m
+Maas;250513/199306;250513;199306;Schansberg (53 km);Maaseik;Limburg;Maasbekken;Elektrisch;2008;20/05/2008;kopvoorn;0.60;per 100m
+Maas;250513/199306;250513;199306;Schansberg (53 km);Maaseik;Limburg;Maasbekken;Elektrisch;2012;22/05/2012;kopvoorn;20.40;per 100m
+Maas;250513/199306;250513;199306;Schansberg (53 km);Maaseik;Limburg;Maasbekken;Elektrisch;2013;28/06/2013;kopvoorn;10.50;per 100m
+Maas;250513/199306;250513;199306;Schansberg (53 km);Maaseik;Limburg;Maasbekken;Elektrisch;2013;10/10/2013;kopvoorn;60.00;per 100m
+Maas;250513/199306;250513;199306;Schansberg (53 km);Maaseik;Limburg;Maasbekken;Elektrisch;2014;17/07/2014;kopvoorn;10.00;per 100m
+Maas;250513/199306;250513;199306;Schansberg (53 km);Maaseik;Limburg;Maasbekken;Elektrisch;2015;18/06/2015;kopvoorn;39.60;per 100m
+Maas;250513/199306;250513;199306;Schansberg (53 km);Maaseik;Limburg;Maasbekken;Elektrisch;2016;23/08/2016;kopvoorn;9.60;per 100m
+Maas;250513/199306;250513;199306;Schansberg (53 km);Maaseik;Limburg;Maasbekken;Elektrisch;2017;29/06/2017;kopvoorn;25.33;per 100m
+Maas;250513/199306;250513;199306;Schansberg (53 km);Maaseik;Limburg;Maasbekken;Elektrisch;2018;29/05/2018;kopvoorn;12.80;per 100m
+Maas;250513/199306;250513;199306;Schansberg (53 km);Maaseik;Limburg;Maasbekken;Elektrisch;2019;21/05/2019;kopvoorn;28.80;per 100m
+Maas;250513/199306;250513;199306;Schansberg (53 km);Maaseik;Limburg;Maasbekken;Elektrisch;2020;09/06/2020;kopvoorn;53.60;per 100m
+Maas;250513/199306;250513;199306;Schansberg (53 km);Maaseik;Limburg;Maasbekken;Elektrisch;2021;30/06/2021;kopvoorn;6.80;per 100m
+Maas;250513/199306;250513;199306;Schansberg (53 km);Maaseik;Limburg;Maasbekken;Elektrisch;2022;31/05/2022;kopvoorn;3.60;per 100m
+Maas;250546/197747;250546;197747;Heppeneert (51 km);Maaseik;Limburg;Maasbekken;Elektrisch;1998;12/05/1998;kopvoorn;5.60;per 100m
+Maas;250975/201975;250975;201975;Teggerse Plas (59 km);Maaseik;Limburg;Maasbekken;Elektrisch;1998;11/05/1998;kopvoorn;2.40;per 100m
+Maas;250975/201975;250975;201975;Teggerse Plas (59 km);Maaseik;Limburg;Maasbekken;Elektrisch;2013;01/10/2013;kopvoorn;4.00;per 100m
+Maas;250975/201975;250975;201975;Teggerse Plas (59 km);Maaseik;Limburg;Maasbekken;Elektrisch;2018;28/05/2018;kopvoorn;155.60;per 100m
+Maas;250975/201975;250975;201975;Teggerse Plas (59 km);Maaseik;Limburg;Maasbekken;Elektrisch;2019;20/05/2019;kopvoorn;7.20;per 100m
+Maas;250975/201975;250975;201975;Teggerse Plas (59 km);Maaseik;Limburg;Maasbekken;Elektrisch;2020;08/06/2020;kopvoorn;8.80;per 100m
+Maas;250975/201975;250975;201975;Teggerse Plas (59 km);Maaseik;Limburg;Maasbekken;Elektrisch;2021;29/06/2021;kopvoorn;15.60;per 100m
+Maas;250975/201975;250975;201975;Teggerse Plas (59 km);Maaseik;Limburg;Maasbekken;Elektrisch;2022;30/05/2022;kopvoorn;1.60;per 100m
+Maas;250975/201975;250975;201975;Teggerse Plas (59 km);Maaseik;Limburg;Maasbekken;Elektrisch;2013;01/10/2013;serpeling;0.20;per 100m
+Bosbeek;251179/200682;251179;200682;Vanaf de monding, Herelaakweg, Aldeneik;Maaseik;Limburg;Maasbekken;Elektrisch;2017;10/04/2017;kopvoorn;6.67;per 100m
+Bosbeek;251179/200682;251179;200682;Vanaf de monding, Herelaakweg, Aldeneik;Maaseik;Limburg;Maasbekken;Elektrisch;2018;01/06/2018;kopvoorn;31.00;per 100m
+Bosbeek;251179/200682;251179;200682;Vanaf de monding, Herelaakweg, Aldeneik;Maaseik;Limburg;Maasbekken;Elektrisch;2018;19/09/2018;kopvoorn;3.00;per 100m
+Bosbeek;251179/200682;251179;200682;Vanaf de monding, Herelaakweg, Aldeneik;Maaseik;Limburg;Maasbekken;Elektrisch;2019;26/08/2019;kopvoorn;41.00;per 100m
+Bosbeek;251179/200682;251179;200682;Vanaf de monding, Herelaakweg, Aldeneik;Maaseik;Limburg;Maasbekken;Elektrisch;2021;25/06/2021;kopvoorn;;per 100m
+Bosbeek;251179/200682;251179;200682;Vanaf de monding, Herelaakweg, Aldeneik;Maaseik;Limburg;Maasbekken;Elektrisch;2018;19/09/2018;serpeling;1.00;per 100m
+Bosbeek;251179/200682;251179;200682;Vanaf de monding, Herelaakweg, Aldeneik;Maaseik;Limburg;Maasbekken;Elektrisch;2019;26/08/2019;serpeling;1.00;per 100m
+Witbeek;251238/203475;251238;203475;aan de stuw;Kinrooi;Limburg;Maasbekken;Elektrisch;2005;31/05/2005;kopvoorn;5.00;per 100m
+Witbeek;251238/203475;251238;203475;aan de stuw;Kinrooi;Limburg;Maasbekken;Elektrisch;2010;27/05/2010;kopvoorn;21.00;per 100m
+Witbeek;251238/203475;251238;203475;aan de stuw;Kinrooi;Limburg;Maasbekken;Elektrisch;2010;27/05/2010;serpeling;3.00;per 100m
+Abeek;251322/202483;251322;202483;aan de monding in de Maas, ter hoogte van het recreatied;Kinrooi;Limburg;Maasbekken;Elektrisch;2013;10/10/2013;kopvoorn;2.00;per 100m
+Grindplas Heerenlaak;251352/200057;251352;200057;Elektrisch zone 5 - Grindplas Herelaak;Maaseik;Limburg;Maasbekken;Elektrisch;2015;15/09/2015;kopvoorn;5.78;per 100m
+Grindplas Heerenlaak;251471/200473;251471;200473;Elektrisch zone 7 - Grindplas Herelaak;Maaseik;Limburg;Maasbekken;Elektrisch;2007;24/05/2007;kopvoorn;3.14;per 100m
+Grindplas Heerenlaak;251765/200433;251765;200433;Elektrisch zone 1 - Grindplas Herelaak;Maaseik;Limburg;Maasbekken;Elektrisch;2015;14/09/2015;kopvoorn;10.83;per 100m
+Maas;251787/200757;251787;200757;jachthaven van lakerveld (57 km);Maaseik;Limburg;Maasbekken;Elektrisch;1998;11/05/1998;kopvoorn;3.00;per 100m
+Maas;251787/200757;251787;200757;jachthaven van lakerveld (57 km);Maaseik;Limburg;Maasbekken;Elektrisch;2002;13/05/2002;kopvoorn;11.60;per 100m
+Maas;251787/200757;251787;200757;jachthaven van lakerveld (57 km);Maaseik;Limburg;Maasbekken;Elektrisch;2005;17/05/2005;kopvoorn;8.00;per 100m
+Maas;251787/200757;251787;200757;jachthaven van lakerveld (57 km);Maaseik;Limburg;Maasbekken;Elektrisch;2008;19/05/2008;kopvoorn;0.80;per 100m
+Maas;251787/200757;251787;200757;jachthaven van lakerveld (57 km);Maaseik;Limburg;Maasbekken;Elektrisch;2012;21/05/2012;kopvoorn;3.00;per 100m
+Maas;251787/200757;251787;200757;jachthaven van lakerveld (57 km);Maaseik;Limburg;Maasbekken;Elektrisch;2013;10/10/2013;kopvoorn;8.00;per 100m
+Maas;251787/200757;251787;200757;jachthaven van lakerveld (57 km);Maaseik;Limburg;Maasbekken;Elektrisch;2014;17/07/2014;kopvoorn;8.00;per 100m
+Maas;251787/200757;251787;200757;jachthaven van lakerveld (57 km);Maaseik;Limburg;Maasbekken;Elektrisch;2015;15/06/2015;kopvoorn;17.60;per 100m
+Maas;251787/200757;251787;200757;jachthaven van lakerveld (57 km);Maaseik;Limburg;Maasbekken;Elektrisch;2016;26/08/2016;kopvoorn;4.44;per 100m
+Maas;251787/200757;251787;200757;jachthaven van lakerveld (57 km);Maaseik;Limburg;Maasbekken;Elektrisch;2016;24/11/2016;kopvoorn;8.00;per 100m
+Maas;251787/200757;251787;200757;jachthaven van lakerveld (57 km);Maaseik;Limburg;Maasbekken;Elektrisch;2017;29/06/2017;kopvoorn;36.00;per 100m
+Maas;251787/200757;251787;200757;jachthaven van lakerveld (57 km);Maaseik;Limburg;Maasbekken;Elektrisch;2018;28/05/2018;kopvoorn;60.80;per 100m
+Maas;251787/200757;251787;200757;jachthaven van lakerveld (57 km);Maaseik;Limburg;Maasbekken;Elektrisch;2019;20/05/2019;kopvoorn;7.20;per 100m
+Maas;251787/200757;251787;200757;jachthaven van lakerveld (57 km);Maaseik;Limburg;Maasbekken;Elektrisch;2020;09/06/2020;kopvoorn;32.80;per 100m
+Maas;251787/200757;251787;200757;jachthaven van lakerveld (57 km);Maaseik;Limburg;Maasbekken;Elektrisch;2021;29/06/2021;kopvoorn;33.20;per 100m
+Maas;251787/200757;251787;200757;jachthaven van lakerveld (57 km);Maaseik;Limburg;Maasbekken;Elektrisch;2022;30/05/2022;kopvoorn;16.40;per 100m
+Maas;251787/200757;251787;200757;jachthaven van lakerveld (57 km);Maaseik;Limburg;Maasbekken;Elektrisch;2020;09/06/2020;serpeling;4.80;per 100m
+Grindplas Heerenlaak;251802/199225;251802;199225;Elektrisch zone 8 - Grindplas Herelaak;Maaseik;Limburg;Maasbekken;Elektrisch;2015;18/09/2015;kopvoorn;0.71;per 100m
+Grindplas De Spaanjerd;251803/203518;251803;203518;Elektrovisserij zone 2 - grindplas Spanjaard;Kinrooi;Limburg;Maasbekken;Elektrisch;2006;04/09/2006;kopvoorn;0.15;per 100m
+Witbeek;251891/205268;251891;205268;De oaj Melkeriej;Kinrooi;Limburg;Maasbekken;Elektrisch;2021;28/10/2021;kopvoorn;25.00;per 100m
+Grindplas Heerenlaak;251954/199476;251954;199476;Elektrisch zone 4 - Grindplas Herelaak;Maaseik;Limburg;Maasbekken;Elektrisch;2015;15/09/2015;kopvoorn;0.80;per 100m
+Maas;251967/199070;251967;199070;tussen kilometerpaal 54,6 en 54,5;Maaseik;Limburg;Maasbekken;Elektrisch;2015;08/07/2015;kopvoorn;2.00;per 100m
+Grindplas De Spaanjerd;252196/204908;252196;204908;Elektrovisserij zone 6;Kinrooi;Limburg;Maasbekken;Elektrisch;2012;25/09/2012;kopvoorn;0.70;per 100m
+Grindplas De Spaanjerd;252221/203552;252221;203552;Elektrovisserij zone 3 - grindplas Spanjaard;Kinrooi;Limburg;Maasbekken;Elektrisch;2006;04/09/2006;kopvoorn;0.63;per 100m
+Raambeek;252279/206449;252279;206449;/;Kinrooi;Limburg;Maasbekken;Elektrisch;2005;31/05/2005;kopvoorn;1.00;per 100m
+Witbeek;252310/205769;252310;205769;/;Kinrooi;Limburg;Maasbekken;Elektrisch;2001;05/06/2001;kopvoorn;2.00;per 100m
+Witbeek;252310/205769;252310;205769;/;Kinrooi;Limburg;Maasbekken;Elektrisch;2005;31/05/2005;kopvoorn;7.00;per 100m
+Witbeek;252310/205769;252310;205769;/;Kinrooi;Limburg;Maasbekken;Elektrisch;2010;27/05/2010;kopvoorn;2.00;per 100m
+Witbeek;252310/205769;252310;205769;/;Kinrooi;Limburg;Maasbekken;Elektrisch;2021;28/10/2021;kopvoorn;16.00;per 100m
+Witbeek;252310/205769;252310;205769;/;Kinrooi;Limburg;Maasbekken;Elektrisch;2014;03/10/2014;serpeling;1.00;per 100m
+Witbeek;252310/205769;252310;205769;/;Kinrooi;Limburg;Maasbekken;Elektrisch;2021;28/10/2021;serpeling;1.00;per 100m
+Maas;252346/199360;252346;199360;Klauwenhof (55 km);Maaseik;Limburg;Maasbekken;Elektrisch;1998;11/05/1998;kopvoorn;14.80;per 100m
+Itterbeek;252407/206828;252407;206828;Bij natuurgebied Vijverbroek;Kinrooi;Limburg;Maasbekken;Elektrisch;2010;02/09/2010;kopvoorn;18.00;per 100m
+Itterbeek;252407/206828;252407;206828;Bij natuurgebied Vijverbroek;Kinrooi;Limburg;Maasbekken;Elektrisch;2017;24/04/2017;kopvoorn;12.00;per 100m
+Maas;252524/203300;252524;203300;(61 km);Kinrooi;Limburg;Maasbekken;Elektrisch;1998;11/05/1998;kopvoorn;2.20;per 100m
+Maas;252524/203300;252524;203300;(61 km);Kinrooi;Limburg;Maasbekken;Elektrisch;2002;13/05/2002;kopvoorn;5.00;per 100m
+Maas;252524/203300;252524;203300;(61 km);Kinrooi;Limburg;Maasbekken;Elektrisch;2005;17/05/2005;kopvoorn;1.60;per 100m
+Maas;252524/203300;252524;203300;(61 km);Kinrooi;Limburg;Maasbekken;Elektrisch;2012;21/05/2012;kopvoorn;2.00;per 100m
+Maas;252524/203300;252524;203300;(61 km);Kinrooi;Limburg;Maasbekken;Elektrisch;2013;10/10/2013;kopvoorn;4.00;per 100m
+Maas;252524/203300;252524;203300;(61 km);Kinrooi;Limburg;Maasbekken;Elektrisch;2018;28/05/2018;kopvoorn;96.00;per 100m
+Maas;252524/203300;252524;203300;(61 km);Kinrooi;Limburg;Maasbekken;Elektrisch;2019;28/08/2019;kopvoorn;;per 100m
+Maas;252524/203300;252524;203300;(61 km);Kinrooi;Limburg;Maasbekken;Elektrisch;2020;08/06/2020;kopvoorn;8.00;per 100m
+Maas;252524/203300;252524;203300;(61 km);Kinrooi;Limburg;Maasbekken;Elektrisch;2021;29/06/2021;kopvoorn;0.40;per 100m
+Maas;252524/203300;252524;203300;(61 km);Kinrooi;Limburg;Maasbekken;Elektrisch;2022;17/11/2022;kopvoorn;;per 100m
+Maas;252524/203300;252524;203300;(61 km);Kinrooi;Limburg;Maasbekken;Elektrisch;2019;20/05/2019;serpeling;5.60;per 100m
+Maas;252524/203300;252524;203300;(61 km);Kinrooi;Limburg;Maasbekken;Elektrisch;2019;28/08/2019;serpeling;;per 100m
+Maas;252524/203300;252524;203300;(61 km);Kinrooi;Limburg;Maasbekken;Elektrisch;2020;08/06/2020;serpeling;5.60;per 100m
+Grindplas De Spaanjerd;252865/204507;252865;204507;Elektrovisserij zone 4;Kinrooi;Limburg;Maasbekken;Elektrisch;2012;24/09/2012;kopvoorn;0.13;per 100m
+Grindplas De Spaanjerd;252925/204125;252925;204125;Elektrovisserij zone 5;Kinrooi;Limburg;Maasbekken;Elektrisch;2012;25/09/2012;kopvoorn;3.31;per 100m
+Grindplas De Spaanjerd;253076/204241;253076;204241;Elektrovisserij zone 1 - grindplas Spanjaard;Kinrooi;Limburg;Maasbekken;Elektrisch;2006;04/09/2006;kopvoorn;0.12;per 100m
+Grindplas De Spaanjerd;253158/204315;253158;204315;Fuik 21;Kinrooi;Limburg;Maasbekken;Fuiken;2012;25/09/2012;kopvoorn;1.00;per fuik
+Grindplas Kessenich;253229/205374;253229;205374;Fuik 13;Kinrooi;Limburg;Maasbekken;Fuiken;2007;09/05/2007;kopvoorn;0.50;per fuik
+Grindplas Kessenich;253439/204759;253439;204759;Elektrovisserij zone A;Kinrooi;Limburg;Maasbekken;Elektrisch;2007;07/05/2007;kopvoorn;1.09;per 100m
+Maas;253494/204537;253494;204537;Molensteen (63 km);Kinrooi;Limburg;Maasbekken;Elektrisch;1998;11/05/1998;kopvoorn;4.00;per 100m
+Maas;253494/204537;253494;204537;Molensteen (63 km);Kinrooi;Limburg;Maasbekken;Elektrisch;2015;16/07/2015;kopvoorn;1.60;per 100m
+Grindplas Kessenich;253680/204855;253680;204855;Elektrovisserij zone B;Kinrooi;Limburg;Maasbekken;Elektrisch;2013;09/07/2013;kopvoorn;1.64;per 100m
+Grindplas Kessenich;253698/205036;253698;205036;Elektrovisserij zone C;Kinrooi;Limburg;Maasbekken;Elektrisch;2013;09/07/2013;serpeling;0.43;per 100m
+Maas;253940/204852;253940;204852;Maas van verbinding grindplas Kessenich tot aan grens Nederland;Kinrooi;Limburg;Maasbekken;Elektrisch;2015;16/07/2015;kopvoorn;0.37;per 100m
+Heidebeek;26021/178440;260210;178440;/;Poperinge;West-Vlaanderen;Ijzerbekken;Elektrisch;2019;02/05/2019;kopvoorn;3.00;per 100m
+IJzer;26150/179533;261500;179533;ter hoogte van Kruisstraat, grens Frankrijk;Alveringem;West-Vlaanderen;Ijzerbekken;Elektrisch;2019;24/05/2019;kopvoorn;0.42;per 100m
+IJzer;27264/180334;272640;180334;ter hoogte van Dode Ijzer;Poperinge;West-Vlaanderen;Ijzerbekken;Elektrisch;2011;24/05/2011;kopvoorn;0.20;per 100m
+IJzer;27264/180334;272640;180334;ter hoogte van Dode Ijzer;Poperinge;West-Vlaanderen;Ijzerbekken;Elektrisch;2019;24/05/2019;kopvoorn;0.20;per 100m
+Poperingevaart;31564/169767;315640;169767;Abele, Brouwer Hoeve;Poperinge;West-Vlaanderen;Ijzerbekken;Elektrisch;2010;04/05/2010;kopvoorn;21.00;per 100m
+Poperingevaart;31639/169817;316390;169817;SH12_VletAbeele;Poperinge;West-Vlaanderen;Ijzerbekken;Elektrisch;2012;03/08/2012;kopvoorn;0.40;per 100m
+Poperingevaart;31639/169817;316390;169817;SH13_VletAbeele;Poperinge;West-Vlaanderen;Ijzerbekken;Elektrisch;2013;12/07/2013;kopvoorn;1.60;per 100m
+Poperingevaart;32253/170369;322530;170369;SH13_VletWinter;Poperinge;West-Vlaanderen;Ijzerbekken;Elektrisch;2013;13/08/2013;kopvoorn;0.80;per 100m
+Poperingevaart;33263/171284;332630;171284;SH12_VletRoodKr;Poperinge;West-Vlaanderen;Ijzerbekken;Elektrisch;2012;03/08/2012;kopvoorn;2.20;per 100m
+Poperingevaart;33263/171284;332630;171284;SH13_VletRoodKr;Poperinge;West-Vlaanderen;Ijzerbekken;Elektrisch;2013;09/07/2013;kopvoorn;13.00;per 100m
+Poperingevaart;33266/171285;332660;171285;Rood Kruis;Poperinge;West-Vlaanderen;Ijzerbekken;Elektrisch;2017;05/05/2017;kopvoorn;9.00;per 100m
+Poperingevaart;33266/171285;332660;171285;Rood Kruis;Poperinge;West-Vlaanderen;Ijzerbekken;Elektrisch;2023;17/05/2023;kopvoorn;11.00;per 100m
+Poperingevaart;33986/183320;339860;183320;/;Alveringem;West-Vlaanderen;Ijzerbekken;Elektrisch;2010;03/05/2010;serpeling;0.50;per 100m
+Poperingevaart;34242/181172;342420;181172;Westvleteren;Vleteren;West-Vlaanderen;Ijzerbekken;Elektrisch;2010;03/05/2010;kopvoorn;1.00;per 100m
+Poperingevaart;35707/174139;357070;174139;Pezelhoekstraat;Poperinge;West-Vlaanderen;Ijzerbekken;Elektrisch;2023;17/05/2023;kopvoorn;1.00;per 100m
+Poperingevaart;37003/176323;370030;176323;Woesten,Wippehoek;Poperinge;West-Vlaanderen;Ijzerbekken;Elektrisch;2022;28/06/2022;kopvoorn;5.00;per 100m
+Kemmelbeek;39224/183739;392240;183739;Aan de broekstraat;Lo-Reninge;West-Vlaanderen;Ijzerbekken;Elektrisch;2019;26/04/2019;kopvoorn;0.50;per 100m
+IJzer;39616/203487;396160;203487;stroomopwaarts het spaarbekken;Nieuwpoort;West-Vlaanderen;Ijzerbekken;Elektrisch;2016;11/04/2016;serpeling;0.50;per 100m
+Oude vaart Ieper-Komen;44821/171728;448210;171728;Tulpenlaan, thv Tempelhof;Ieper;West-Vlaanderen;Ijzerbekken;Elektrisch;2009;16/09/2009;kopvoorn;0.50;per 100m
+Vrouwbeek;62160/167183;621600;167183;Ons Dorp, baan Menen-Roeselare aan het rustoord;Menen;West-Vlaanderen;Leiebekken;Elektrisch;2002;16/04/2002;kopvoorn;1.00;per 100m
+Bornebeek;73336/205389;733360;205389;thv monding kanaal;Oostkamp;West-Vlaanderen;Bekken Brugse polders;Elektrisch;2002;29/05/2002;kopvoorn;0.67;per 100m
+Kanaal Roeselare  Leie;77900/176826;779000;176826;aan de sluis;Wielsbeke;West-Vlaanderen;Leiebekken;Elektrisch;2010;21/10/2010;kopvoorn;0.40;per 100m
+;97305/171319;973050;171319;DVW11_OUD;Oudenaarde;Oost-Vlaanderen;Boven-Scheldebekken;Fuiken;2012;19/06/2012;kopvoorn;;per 100m
+Maarkebeek;98677/167860;986770;167860;Aan eikenberg;Maarkedal;Oost-Vlaanderen;Boven-Scheldebekken;Elektrisch;2019;10/05/2019;kopvoorn;3.00;per 100m
+Maarkebeek;98908/167775;989080;167775;Borcht, aan de molen;Maarkedal;Oost-Vlaanderen;Boven-Scheldebekken;Elektrisch;2010;01/04/2010;kopvoorn;2.30;per 100m
+Maarkebeek;98908/167775;989080;167775;Borcht, aan de molen;Maarkedal;Oost-Vlaanderen;Boven-Scheldebekken;Elektrisch;2010;01/04/2010;serpeling;9.20;per 100m
+Maarkebeek;99582/167700;995820;167700;/;Maarkedal;Oost-Vlaanderen;Boven-Scheldebekken;Elektrisch;2013;02/07/2013;kopvoorn;20.00;per 100m
+Maarkebeek;99582/167700;995820;167700;/;Maarkedal;Oost-Vlaanderen;Boven-Scheldebekken;Elektrisch;2019;10/05/2019;kopvoorn;46.00;per 100m
+Maarkebeek;99582/167700;995820;167700;/;Maarkedal;Oost-Vlaanderen;Boven-Scheldebekken;Elektrisch;2013;02/07/2013;serpeling;10.00;per 100m
+Maarkebeek;99582/167700;995820;167700;/;Maarkedal;Oost-Vlaanderen;Boven-Scheldebekken;Elektrisch;2019;10/05/2019;serpeling;3.00;per 100m
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;

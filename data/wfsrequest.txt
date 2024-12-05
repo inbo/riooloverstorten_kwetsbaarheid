@@ -1,0 +1,1 @@
+https://www.mercator.vlaanderen.be/raadpleegdienstenmercatorpubliek/ps/ows?service=WFS&version=2.0.0&request=GetFeature&typeName=ps_hbtrl_deel&maxFeatures=40000&outputFormat=SHAPE-ZIP
