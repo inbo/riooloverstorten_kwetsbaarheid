@@ -102,4 +102,28 @@ if (interactive()) {
     }
   )
 }
+
+library(INBOmd)
+library(magrittr)       # To use %<>% pipes
+library(here)           # To find files
+library(DBI)            # To connect to database
+library(dplyr)
+library(ggplot2)
+library(lubridate)
+library(tidyverse)
+library(sf)
+library(terra)
+library(maptiles)
+library(mapview)
+library(leaflet)
+library(htmltools)
+library(htmlwidgets)
+library(leafem)
+library(crosstalk)
+library(DT)
+library(inbospatial)
+library(sf)
+library(htmltools)
+library(crosstalk)
+
 ```

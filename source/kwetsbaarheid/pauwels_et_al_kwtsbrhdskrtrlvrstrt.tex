@@ -1,0 +1,376 @@
+\PassOptionsToPackage{english,french,dutch}{babel}
+\documentclass[twoside]{extreport}
+\usepackage{inbo_report}
+\usepackage[colorspec=0.9, fontsize=0.1\paperwidth, angle=90, hpos=5mm, anchor=lm]{draftwatermark}
+\DraftwatermarkOptions{text={ONTWERP}}
+\reviewer{
+\href{https://orcid.org/0000-0003-2732-7428}{Johan Coeck \includegraphics[height=\fontsizebase]{orcid.eps}}
+}
+\corresponding{ine.pauwels@inbo.be}
+\doi{!!! missing DOI !!!}
+\shortauthor{Pauwels, I.; Van Wichelen, J. \& Wils, C.}
+\citetitle{Kwetsbaarheidskaart riooloverstorten}
+
+\establishment{Brussel}
+
+\flandersfont{}
+\usepackage{reportfont}
+
+\makeatletter
+\AtBeginDocument{%
+   \expandafter\renewcommand\expandafter\section\expandafter
+     {\expandafter\@fb@secFB\section}%
+   \newcommand\@fb@secFB{\FloatBarrier
+   \gdef\@fb@afterHHook{\@fb@topbarrier \gdef\@fb@afterHHook{}}}
+   \g@addto@macro\@afterheading{\@fb@afterHHook}
+   \gdef\@fb@afterHHook{}
+}
+\makeatother
+
+\makeatletter
+\AtBeginDocument{%
+   \expandafter\renewcommand\expandafter\subsection\expandafter
+     {\expandafter\@fb@subsecFB\subsection}%
+   \newcommand\@fb@subsecFB{\FloatBarrier
+   \gdef\@fb@afterHHook{\@fb@topbarrier \gdef\@fb@afterHHook{}}}
+   \g@addto@macro\@afterheading{\@fb@afterHHook}
+   \gdef\@fb@afterHHook{}
+}
+\makeatother
+
+\makeatletter
+\AtBeginDocument{%
+   \expandafter\renewcommand\expandafter\subsubsection\expandafter
+     {\expandafter\@fb@subsubsecFB\subsubsection}%
+   \newcommand\@fb@subsubsecFB{\FloatBarrier
+   \gdef\@fb@afterHHook{\@fb@topbarrier \gdef\@fb@afterHHook{}}}
+   \g@addto@macro\@afterheading{\@fb@afterHHook}
+   \gdef\@fb@afterHHook{}
+}
+\makeatother
+
+\title{Kwetsbaarheidskaart riooloverstorten}
+
+\author{
+Ine Pauwels, Jeroen Van Wichelen, Carine Wils
+}
+\colofonauthor{
+\href{https://orcid.org/0000-0002-2856-8787}{Ine Pauwels \includegraphics[height=\fontsizebase]{orcid.eps}}, \href{https://orcid.org/0000-0002-0255-9591}{Jeroen Van
+Wichelen \includegraphics[height=\fontsizebase]{orcid.eps}}, \href{https://orcid.org/0000-0002-5626-6786}{Carine Wils \includegraphics[height=\fontsizebase]{orcid.eps}}
+}
+
+
+
+\colophon{1}
+\public{1}
+\pagefootmessage{!!! missing DOI !!!}
+
+
+% Alter some LaTeX defaults for better treatment of figures:
+% See p.105 of "TeX Unbound" for suggested values.
+% See pp. 199-200 of Lamport's "LaTeX" book for details.
+%   General parameters, for ALL pages:
+\renewcommand{\topfraction}{0.9}	% max fraction of floats at top
+\renewcommand{\bottomfraction}{0.8}	% max fraction of floats at bottom
+%   Parameters for TEXT pages (not float pages):
+\setcounter{topnumber}{2}
+\setcounter{bottomnumber}{2}
+\setcounter{totalnumber}{4}     % 2 may work better
+\setcounter{dbltopnumber}{2}    % for 2-column pages
+\renewcommand{\dbltopfraction}{0.9}	% fit big float above 2-col. text
+\renewcommand{\textfraction}{0.07}	% allow minimal text w. figs
+%   Parameters for FLOAT pages (not text pages):
+\renewcommand{\floatpagefraction}{0.7}	% require fuller float pages
+% N.B.: floatpagefraction MUST be less than topfraction !!
+\renewcommand{\dblfloatpagefraction}{0.7}	% require fuller float pages
+
+\begin{document}
+\maketitle
+\pagenumbering{arabic}
+
+
+
+\chapter*{Dankwoord}\label{dankwoord}
+\addcontentsline{toc}{chapter}{Dankwoord}
+
+De tekst voor het optionele dankwoord.
+
+\chapter*{Voorwoord}\label{voorwoord}
+\addcontentsline{toc}{chapter}{Voorwoord}
+
+De tekst voor het optionele voorwoord.
+
+\chapter*{Samenvatting}\label{samenvatting}
+\addcontentsline{toc}{chapter}{Samenvatting}
+
+De tekst voor de verplichte samenvatting. Hou het
+\href{https://overheid.vlaanderen.be/communicatie/heerlijk-helder}{Heerlijk
+Helder}.
+
+\chapter*{Aanbevelingen voor beheer en/of
+beleid}\label{aanbevelingen-voor-beheer-enof-beleid}
+\addcontentsline{toc}{chapter}{Aanbevelingen voor beheer en/of beleid}
+
+Verplicht wanneer relevant.
+
+\benglish
+
+\chapter*{English abstract}\label{english-abstract}
+\addcontentsline{toc}{chapter}{English abstract}
+
+Insert a translation of the summary here. \eenglish
+
+\bfrench
+
+\chapter*{Résumé français}\label{ruxe9sumuxe9-franuxe7ais}
+\addcontentsline{toc}{chapter}{Résumé français}
+
+Ajoutez éventuellement une traduction du résumé ici.
+
+\efrench
+
+
+\clearpage
+
+\phantomsection
+\addcontentsline{toc}{chapter}{\contentsname}
+\setcounter{tocdepth}{1}
+\tableofcontents
+
+\clearpage
+
+\phantomsection
+\addcontentsline{toc}{chapter}{\listfigurename}
+\listoffigures
+\vspace{34pt}
+
+\phantomsection
+\addcontentsline{toc}{chapter}{\listtablename}
+\listoftables
+
+\clearpage
+
+
+\chapter{Inleiding}\label{inleiding}
+
+Dit document geeft uitleg bij de update van de kwetsbaarheidskaart
+riooloverstorten. De update werd uitgevoerd in 2023-2024 door INBO. De
+versie die geüpdate werd, kreeg haar voorgaande update in 2018
+(Referentie). Verder in dit document wordt verduidelijkt wat de
+definitie is van de waterloopklassen in de versie uit 2018, hoe deze
+definitie werd aangepast en welke informatie daarvoor gebruikt werd. Die
+informatie werd gehaald uit andere beschikbare kaartlagen.
+
+\emph{De kaart is bedoeld om \ldots{}} \emph{Hier background info over
+de reden van een kwetsbaarheidskaart overstorten, met vermelding van:}
+
+\emph{- de richtlijnen die aansturen op een aanpak van de
+overstortwerking (EKRW \& ERSA, \ldots{} )} \emph{- de rationale van het
+bestaan van een kwetsbaarheidskaart overstorten en dat deze opgesteld
+wordt ter bescherming van de ecologie}. \emph{- De beschermde vissoorten
+en welke niet in de kwetsbaarheidskaart OS zaten, maar wel in andere
+kwetsbaarheidskaarten} \emph{- De kwetsbaarheid is louter en alleen
+gebaseerd op de kwetsbaarheid van de oppervlaktewaterlopen in
+Vlaanderen. Deze houdt ook geen} \emph{rekening met andere drukken zoals
+diffuse verontreiniging, illegale lozingen, versnippering van het
+habitat, drukken op de} \emph{(hydro)morfologie, landgebruik,
+drinkwatercaptatie en industriële activiteiten.} \emph{- Voor het
+opstellen en updaten van de kaart wordt wel rekening gehouden met andere
+maatregelen ter bescherming van de ecologie in de oppervlaktewaterlopen,
+zoals de speciale beschermingszones (SBZ gebieden).}
+
+\chapter{Huidige versie kwetsbaarheidskaart
+riooloverstorten}\label{huidige-versie-kwetsbaarheidskaart-riooloverstorten}
+
+\section{De kaart}\label{de-kaart}
+
+De kwetsbaarheidskaart riooloverstorten uit 2018 gebruikt als basis de
+Vlaams Hydrografische Atlas (VHA). De versie die voor de kaarten in dit
+document gebruikt werd is \ldots(VERSIE TOEVOEGEN, VRAAG NA BIJ CARINE),
+en kan teruggevonden worden op geopunt Vlaanderen (LINK IN TE VOEGEN).
+
+De waterlopen in de VHA zijn opgebouwd uit segmenten. Ieder segment werd
+een bepaalde kwetsbaarheid toegekend. Bij de kwestbaarheidskaart
+overstorten betreft het de ecologische kwetsbaarheid voor
+riooloverstortwerking. De klassen die een waterloopsegment kan hebben
+zijn:
+
+\begin{itemize}
+\tightlist
+\item
+  Uiterst kwetsbaar (klasse 1)
+\item
+  Kwetsbaar (klases 2)
+\item
+  Strategisch belangrijk voor ecologie (klasse 3)
+\item
+  Geen van bovenstaande (niet geklasseerd)
+\end{itemize}
+
+De definitie van deze klassen wordt in de volgende paragraaf uitgelegd.
+
+Tabel \ref{tab:tabel-KKOS2018} geeft weer hoe alle segmenten van de VHA
+verdeeld zijn over de vier bovenstaande klassen.
+
+\begin{longtable}[]{@{}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 8\tabcolsep) * \real{0.1812}}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 8\tabcolsep) * \real{0.2174}}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 8\tabcolsep) * \real{0.3333}}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 8\tabcolsep) * \real{0.2464}}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 8\tabcolsep) * \real{0.0217}}@{}}
+\caption{\label{tab:tabel-KKOS2018}Aantal waterloopsegmenten per klasse in
+de kwetsbaarheidskaart riooloverstorten van 2018}\tabularnewline
+\toprule\noalign{}
+\begin{minipage}[b]{\linewidth}\raggedright
+Kwetsbaarheidsklasse
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+Aantal waterloopsegmenten
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+Procentueel aantal waterloopsegmenten (\%)
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+Aantal kilometer waterloop (km)
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+NA
+\end{minipage} \\
+\midrule\noalign{}
+\endfirsthead
+\toprule\noalign{}
+\begin{minipage}[b]{\linewidth}\raggedright
+Kwetsbaarheidsklasse
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+Aantal waterloopsegmenten
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+Procentueel aantal waterloopsegmenten (\%)
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+Aantal kilometer waterloop (km)
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+NA
+\end{minipage} \\
+\midrule\noalign{}
+\endhead
+\bottomrule\noalign{}
+\endlastfoot
+Uiterst kwetsbaar & 1208 & 3 & 846 & 4 \\
+Kwetsbaar & 540 & 1 & 491 & 2 \\
+Strategisch belangrijke & 3979 & 9 & 2718 & 12 \\
+Niet geklasseerd & 40117 & 88 & 19140 & 83 \\
+\end{longtable}
+
+Figuur \ref{fig:uiterst-kwetsbaar-2018} geeft de kaart van de uiterst
+kwetsbare waterlopen (klasse 1), zoals vastgelegd in de update van 2018.
+Dat zijn de waterlopen die binnen Speciale BeschermingsZone (SBZ) liggen
+of twee SBZ gebieden verbinden als deze verbinding \textless{} 5 km
+bedraagt. De SBZ gebieden zijn opgenomen in de specifieke
+instandhoudingsdoelstellingen voor beekprik, rivierdonderpad en habitat
+type 3260. Ook doorstroomvijvers met oligotrofe en mesotrofe habitats
+worden als `uiterst kwetsbaar' gedefinieerd.
+
+De figuur toont hier de relatie met de habitatrichtlijn en SBZ gebieden.
+
+\begin{figure}
+
+{\centering \includegraphics{pauwels_et_al_kwtsbrhdskrtrlvrstrt_files/figure-latex/uiterst-kwetsbaar-2018-1} 
+
+}
+
+\caption{De kwetsbaarheidskaart riooloverstorten volgens de update in 2018. De gele en groene vlakken zijn de habitatrichtlijn en SBZ gebieden, respectievelijk. De kleuren in de legende (speerpuntklassen) wijzen op de kaartlaag speerpuntgebieden en geven aan tot welke klasse een speerpuntgebied behoort.}\label{fig:uiterst-kwetsbaar-2018}
+\end{figure}
+
+\section{De definitie van de
+kwetsbaarheidsklassen}\label{de-definitie-van-de-kwetsbaarheidsklassen}
+
+\subsection{Uiterst kwetsbare
+waterloopsegmenten}\label{uiterst-kwetsbare-waterloopsegmenten}
+
+Ecologisch uiterst kwetsbare waterloopsegmenten zijn blauw ingekleurd op
+de kwetsbaarheidskaart. Het betreft waterloopsegmenten met:
+Waterlooptraject(en) gelegen binnen een speciale beschermingszone en
+Waterlooptraject(en) die 2 speciale beschermingszones met elkaar
+verbindt en waarvan de lengte niet meer bedraagt dan 5 km. De speciale
+beschermingszone is opgenomen in de gewestelijke
+instandhoudingsdoelstellingen voor beekprik, rivierdonderpad of habitat
+3260. Ze zijn onderhevig aan strengere milieudoelstellingen voor
+waterkwaliteit in het stroomgebiedbeheerplan, en het betreft ook
+doorstroomvijvers met oligo- of mesotrofe waterhabitats. De doelstelling
+van de klasse uiterst kwetsbare waterlopen is het bereiken van de
+habitatkwaliteit voor de beekprik, rivierdonderpad of habitat 3260
+(bron: code van de goede praktijk).
+
+\subsection{Kwetsbare
+waterloopsegmenten}\label{kwetsbare-waterloopsegmenten}
+
+Ecologisch kwetsbare waterloopsegmenten zijn groen ingekleurd op de
+kwetsbaarheidskaart. Het betreft wterloopsegmenten met beekprik,
+rivierdonderpad of habitat 3260 hoofdzakelijk gelegen buiten de speciale
+beschermingszone maar wel aangemeld binnen de desbetreffende speciale
+beschermingszone. Wanneer het groen ingekleurde (kwetsbare)
+waterloopsegment binnen de speciale beschermingzone gelegen is, dan is
+noch beekprik, rivierdonderpad of habitat type 3260 er waargenomen.De
+doelstelling van de klasse kwetsabre waterlopen is om op termijn de
+habitatkwaliteit voor beekprik, rivierdonderpad of habitat 3260 te
+bereiken (bron: code van de goede praktijk).
+
+\subsection{Ecologisch strategisch belangrijke
+waterloopsegmenten}\label{ecologisch-strategisch-belangrijke-waterloopsegmenten}
+
+Ecologisch strategisch belangrijke waterloopsegmenten zijn geel
+ingekleurd op de kwetsbaarheidskaart. Het betreft waterloopsegmenten die
+uitmonden in een blauw of een groen traject. Indien een overstort
+aanwezig is op een geel traject kan dit stroomafwaarts op een traject
+met een hoger beschermingsniveau een schadelijk effect uitoefenen. Deze
+trajecten hebben voornamelijk een knipperlichtfunctie (bron: code van de
+goede praktijk).
+
+\subsection{Overige
+waterloopsegmenten}\label{overige-waterloopsegmenten}
+
+Deze waterloopsegmenten zijn niet ingekleurd op de kwetsbaarheidskaart
+omdat ze niet geklasseerd zijn als uiterst kwetsbaar, kwetsbaar of
+ecologisch strategisch belangrijk. Dat betekent dat ze niet binnen een
+speciale beschermingszone liggen, noch dat beekprik, rivierdonderpad
+en/of habitat type 3260 er waargenomen zijn.
+
+\section{Informatie (kaartlagen) aan de basis van de versie van
+2018}\label{informatie-kaartlagen-aan-de-basis-van-de-versie-van-2018}
+
+\emph{eventueel in kaarten te tonen of anders deze sectie wegdoen}
+
+\section{Aanpassing van de definities voor de
+update}\label{aanpassing-van-de-definities-voor-de-update}
+
+\emph{Uitleg over hoe we de definitie aanpasten en waarom}
+
+\section{Extra kaartlagen}\label{extra-kaartlagen}
+
+In dit digitale rapport kunnen in verschillende figuren extra kaartlagen
+aan of uitgezet worden. Dat doe je met de knoppen rechts boven in een
+kaart. Deze kaartlagen bevatten informatie over o.a. het speerpuntgebied
+waarin een bepaald waterloopsegment ligt, of het (deel)bekken of het
+zuiveringsgebied.
+
+In deze kaarten kan je ook kiezen uit verschillende achtergrond
+kaartlagen, zoals een orthofoto of een topografische kaart.
+
+De legende bij de kaarten in dit rapport gaat over de speerpuntgebieden
+(links onder in de kaarten). De kleuren van de andere kaartlagen staan
+in de hoofding van de figuur uitgelegd.
+
+Figuur \ref{fig:base-map-extended-show} toont deze extra kaartlagen.
+
+\begin{figure}
+
+{\centering \includegraphics{pauwels_et_al_kwtsbrhdskrtrlvrstrt_files/figure-latex/base-map-extended-show-1} 
+
+}
+
+\caption{Kaart van Vlaanderen met selecteerbare (aan of uit) kaartlagen voor de rivierbekkens, deelbekkens, habitatrichtlijn gebieden (HRgebieden), Speciale Beschermings Zones (SBZgebieden), de Zuiveringsgebieden van de rioolbeheerders en de Speerpuntgebieden}\label{fig:base-map-extended-show}
+\end{figure}
+
+\appendix
+
+\chapter{Eerste hoofdstuk van de
+bijlage}\label{eerste-hoofdstuk-van-de-bijlage}
+
+Inhoud van de eerste bijlage
+
+\end{document}

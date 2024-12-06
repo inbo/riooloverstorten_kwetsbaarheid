@@ -1,3 +1,154 @@
+---
+title: "Kwetsbaarheidskaart riooloverstorten"
+author:
+  - name:
+      given: "Ine"
+      family: "Pauwels"
+    email: "ine.pauwels@inbo.be"
+    orcid: "0000-0002-2856-8787"
+    affiliation: "Instituut voor Natuur- en Bosonderzoek (INBO)"
+    corresponding: true
+  - name:
+      given: "Jeroen"
+      family: "Van Wichelen"
+    email: "jeroen.vanwichelen@inbo.be"
+    orcid: "0000-0002-0255-9591"
+    affiliation: "Instituut voor Natuur- en Bosonderzoek (INBO)"
+  - name:
+      given: "Carine"
+      family: "Wils"
+    email: "carine.wils@inbo.be"
+    orcid: "0000-0002-5626-6786"
+    affiliation: "Instituut voor Natuur- en Bosonderzoek (INBO)"
+reviewer:
+  - name:
+      given: "Johan"
+      family: "Coeck"
+    email: "johan.coeck@inbo.be"
+    orcid: "0000-0003-2732-7428"
+    affiliation: "Instituut voor Natuur- en Bosonderzoek (INBO)"
+lang: nl
+style: INBO
+floatbarrier: subsubsection
+lof: TRUE
+lot: TRUE
+keywords: "riooloverstort"
+community: "inbo"
+publication_type: report
+funder: Instituut voor Natuur- en Bosonderzoek (INBO)
+rightsholder: Instituut voor Natuur- en Bosonderzoek (INBO)
+bibliography: references.bib
+link-citations: TRUE
+site: bookdown::bookdown_site
+output:
+  INBOmd::gitbook: default
+  INBOmd::pdf_report: default
+  INBOmd::epub_book: default
+# Don't run the format below.
+# Only required for RStudio to recognise the project as a bookdown project.
+# Hence don't use 'Build all formats'.
+  bookdown::dontrun: default
+---
+
+# Dankwoord {.unnumbered}
+
+De tekst voor het optionele dankwoord.
+
+# Voorwoord {.unnumbered}
+
+De tekst voor het optionele voorwoord.
+
+# Samenvatting {.unnumbered}
+
+<!-- description: start -->
+
+De tekst voor de verplichte samenvatting.
+Hou het [Heerlijk Helder](https://overheid.vlaanderen.be/communicatie/heerlijk-helder).
+<!-- description: end -->
+
+# Aanbevelingen voor beheer en/of beleid {.unnumbered}
+
+Verplicht wanneer relevant.
+
+```{r setup, include = FALSE}
+library(knitr)
+opts_chunk$set(
+  echo = FALSE,
+  eval = TRUE,
+  cache = FALSE,
+  warning = TRUE,
+  error = FALSE,
+  message = TRUE
+)
+library(tidyverse)
+library(INBOtheme)
+if (interactive()) {
+  theme_set(theme_inbo(base_size = 10))
+} else {
+  switch(
+    opts_knit$get("rmarkdown.pandoc.to"),
+    html = {
+      opts_chunk$set(dev = "png", dpi = 72)
+      theme_set(theme_inbo(base_size = 12))
+    },
+    latex = {
+      opts_chunk$set(dev = "cairo_pdf", dpi = 300)
+      theme_set(theme_inbo(base_size = 9))
+      update_geom_defaults("point", list(size = 1.5))
+    },
+    epub3 = {
+      opts_chunk$set(dev = "png", dpi = 300)
+      theme_set(theme_inbo(base_size = 12))
+    }
+  )
+}
+
+library(INBOmd)
+library(magrittr)       # To use %<>% pipes
+library(here)           # To find files
+library(DBI)            # To connect to database
+library(dplyr)
+library(ggplot2)
+library(lubridate)
+library(tidyverse)
+library(sf)
+library(terra)
+library(maptiles)
+library(mapview)
+library(leaflet)
+library(htmltools)
+library(htmlwidgets)
+library(leafem)
+library(crosstalk)
+library(DT)
+library(inbospatial)
+library(sf)
+library(htmltools)
+library(crosstalk)
+
+```
+
+<!--chapter:end:index.Rmd-->
+
+\benglish
+
+# English abstract {-}
+
+Insert a translation of the summary here.
+\eenglish
+
+<!--chapter:end:000_abstract.Rmd-->
+
+\bfrench
+
+# Résumé français {-}
+
+Ajoutez éventuellement une traduction du résumé ici.
+
+\efrench
+
+<!--chapter:end:001_resume.Rmd-->
+
 <!-- hier komt de inhoudstafel bij pdf -->
 
 \mainmatter
@@ -339,3 +490,247 @@ Figuur \@ref(fig:base-map-extended-show) toont deze extra kaartlagen.
 ```{r base-map-extended-show, fig.cap="Kaart van Vlaanderen met selecteerbare (aan of uit) kaartlagen voor de rivierbekkens, deelbekkens, habitatrichtlijn gebieden (HRgebieden), Speciale Beschermings Zones (SBZgebieden), de Zuiveringsgebieden van de rioolbeheerders en de Speerpuntgebieden", echo=FALSE, message=FALSE, warning=FALSE}
 basis_ext
 ```
+
+<!--chapter:end:01_inleiding.Rmd-->
+
+# Methodologie
+
+*Carine die uitlegt hoe we dit in GIS gedaan hebben? Is deze sectie nodig? Mss niet?*
+
+Om de kwetsbaarheidskaart riooloverstorten te updaten gaan we stapsgewijs te werk.
+We stellen ons onderstaande vragen en bepalen bij iedere vraag welke status een waterloopsegement moet krijgen: uiterst kwetsbaar, kwetsbaar of ecologisch relevant?
+
+-   Stap 1: moet de kaart geüpdate worden op basis van nieuwe waarnemingen van de soorten en habitat type 3260 uit de definitie van 2018? Dat zijn nieuwe waarnemingen van beekprik en/of rivierdonderpad en/of habitat type 3260.
+-   Stap 2: wat als we de kaart updaten met aanwezigheden van kleine modderkruiper?
+-   Stap 3: zijn er vindplaatsen van Grote Modderkruiper die buiten de uiterst kwetsbare, kwetsbare en ecologisch relevante waterlopen vallen?
+-   Stap 4: wat als we de kaart updaten met aanwezigheden van kopvoorn, serpeling en kwabaal?
+
+## Kaartlagen die aan bod komen in bovenstaande stappen
+
+### Nieuwe observaties van beekprik, rivierdonderpad en habitat type 3260
+
+Vooreerst kijken we of er sinds 2018 nieuwe waarnemingen gedaan zijn van beekprik en rivierdonderpad, en of er nieuw habitat type 3260 toegekend geweest is.
+We voegen deze toe aan bestaande waarnemingen van deze soorten en dit habitat type.
+
+Figuur \@ref(fig:update-voorkomen-beekprik-rivierdonderpad-habitat3260) toont de waterloopsegmenten waarvan men anno 2024 weet dat beekprik, rivierdonderpad en habitat type 3260 er voorkomen.
+Deze kaartlaag vergelijken we met de kwetsbaarheidskaart riooloverstorten versie 2018 om te kijken of een update nodig is, van welke segmenten en naar welke kwetsbaarheidsklasse.
+
+```{r update-voorkomen-beekprik-rivierdonderpad-habitat3260, echo=FALSE, fig.cap="Deze kaart toont de waterloopsegmenten waarin tot vandaag (anno 2024) beekprik, rivierdonderpad en habitat type 3260 waargenomen werd (oranje segementen:voorkomen van beekprik, magenta segmenten: voorkomen rivierdonderpad, rode segmenten: voorkomen habitat type 3260)."}
+
+shp_nieuwe_BP_RDP_3260 <- shp_ROJoin_WGS84 %>% dplyr::filter(!is.na(BP) | !is.na(RDP) | !is.na(BRON_3260) | !is.na(PCM_BP) | !is.na(PCM_RDP))
+
+shp_nieuwe_BP <- shp_ROJoin_WGS84 %>% dplyr::filter(!is.na(BP) | !is.na(PCM_BP))
+
+shp_nieuwe_RDP <- shp_ROJoin_WGS84 %>% dplyr::filter(!is.na(RDP) | !is.na(PCM_RDP))
+
+shp_nieuwe_3260 <- shp_ROJoin_WGS84 %>% dplyr::filter(!is.na(BRON_3260))
+
+nieuwe_observaties <- basis %>%
+  addMapPane("Nieuwe observaties beekprik", zIndex = 490) %>%
+  addMapPane("Nieuwe observaties rivierdonderpad", zIndex = 480) %>%
+  addMapPane("Nieuwe toekenningen van Habitat type 3260", zIndex = 470) %>%
+  addPolylines(data = shp_nieuwe_BP,
+               popup = ~htmlEscape(NAAM),
+               color = "brown",
+               weight = 2,
+               fillOpacity = 1,
+               group = "Beekprik 2024",
+               options = pathOptions(pane = "Nieuwe observaties beekprik")) %>%
+  addPolylines(data = shp_OS_2,
+               popup = ~htmlEscape(NAAM),
+               color = "magenta",
+               weight = 2,
+               fillOpacity = 1,
+               group = "Rivierdonderpad 2024",
+               options = pathOptions(pane = "Nieuwe observaties rivierdonderpad")) %>%
+  addPolylines(data = shp_OS_3,
+               popup = ~htmlEscape(NAAM),
+               color = "red",
+               weight = 2,
+               fillOpacity = 1,
+               group = "Habitat type 3260 2024",
+               options = pathOptions(pane = "Nieuwe toekenningen van Habitat type 3260")) %>%
+  addLayersControl(
+    baseGroups = c("OSM", "Orthophoto BE", "Topo BE"), overlayGroups = c("Beekprik 2024", "Rivierdonderpad 2024", "Habitat type 3260 2024"), options = layersControlOptions(collapsed = FALSE))
+
+```
+
+De vraag die we in een eerste stap van de update stellen is of de kaart in Figuur \@ref(fig:uiterst-kwetsbaar-2018) geüpdate moet worden op basis van nieuwe waarnemingen van beekprik en/of rivierdonderpad en/of habitat type 3260.
+We vergelijken Figuur \@ref(fig:update-voorkomen-beekprik-rivierdonderpad-habitat3260) met de kwetsbaarheidskaart riooloverstorten versie 2018 en gaan op zoek naar de segmenten waar vandaag ook beekprik, rivierdonderpad en habitat type 3260 voorkomt.
+Deze segmenten moeten een update krijgen van hun kwetsbaarheidsklasse, tenzij ze al uiterst kwetsbaar waren ingekleurd.
+Deze segmenten moeten een update krijgen van hun kwetsbaarheidsklasse.
+
+### Kwetsbaarheidskaarten droogte en watercaptatie
+
+Naast de kwetsbaarheidskaart riooloverstorten, werden ook kwetsbaarheidskaarten opgesteld voor droogte en watercaptatie.
+Ook binnen deze kwetsbaarheidskaarten worden de klasses uiterst kwetsbaar en kwetsbaar gedefinieerd.
+De definitie volgt ook de aanwezigheid van soorten en het habitat type 3260.
+
+De definitie van de klassen uit de **kwetsbaarheidskaart droogte** zijn de volgende:
+
+-   Uiterst kwetsbare waterlopen hebben een actueel voorkomen van beekprik, rivierdonderpad, kleine modderkruiper of grote modderkruiper.
+-   Kwetsbare waterlopen hebben geen voorkomen van beekprik, rivierdonderpad, kleine en grote modderkruiper, maar wel van serpeling, kopvoorn en kwabaal
+
+De definitie van de klassen uit de **kwetsbaarheidskaart watercaptatie** zijn de volgende:
+
+-   Uiterst kwetsbare waterlopen hebben een actueel voorkomen van rivierprik, beekprik, grote modderkruiper en habitat type 3260. Samen met waterlopen van het type bronbeek of kleine beek, mag er in deze waterlopen geen water gecapteerd worden.
+-   Kwetsbare waterlopen hebben een actueel voorkomen van kleine modderkruiper, serpeling, kovpoorn en kwabaal.
+
+Deze ecologische kwetsbaarheidskaarten verschillen dus voornamelijk van de ecologische kwetsbaarheidskaart riooloverstorten doordat kleine- en grote modderkruiper observaties meegenomen worden in de definitie van de uiterst kwetsbare en kwetsbare waterlopen.
+Omdat deze soorten minder wijd verspreid zijn dan andere soorten, zoals kopvoorn en serpeling, en omdat deze soorten ook kwetsbaarder zijn voor vervuiling dan kopvoorn, serpeling, rivierprik, fint, zeeprik en zalm, willen we ze mee in rekening brengen in een update van de kwetsbaarheidskaart riooloverstorten.
+
+Hieronder analyseren we wat een update volgens deze soorten betekent.
+We houden daarbij rekening met de update die moet gebeuren op basis van nieuwe observaties van beekprik en/of rivierdonderpad en/of habitat type 3260 (zie resultaten van stap 1).
+
+#### kwetsbaarheidskaart droogte
+
+Figuur \@ref(fig:kwetsbaarheidskaart-droogte) toont de meest up-to-date kwetsbaarheidskaart droogte.
+Deze kaart werd opgesteld of laatst geupdate in ...
+(**nog aanvullen**)
+
+```{r kwetsbaarheidskaart-droogte, echo=FALSE}
+
+shp_KKD_uiterst_kwetsbaar <- shp_KKD_WGS84 %>% dplyr::filter(kwetsbaarh == "1")
+shp_KKD_kwetsbaar <- shp_KKD_WGS84 %>% dplyr::filter(kwetsbaarh == "2")
+shp_KKD_ER <- shp_KKD_WGS84 %>% dplyr::filter(kwetsbaarh == "3")
+
+KKD <- basis %>%
+  addMapPane("Kwetsbaarheid droogte: uiterst kwetsbaar", zIndex = 490) %>%
+  addMapPane("Kwetsbaarheid droogte: kwetsbaar", zIndex = 480) %>%
+  addMapPane("Kwetsbaarheid droogte: ecologisch relevant", zIndex = 470) %>%
+  addPolylines(data = shp_KKD_uiterst_kwetsbaar,
+               popup = ~htmlEscape(NAAM),
+               color = "blue",
+               weight = 2,
+               fillOpacity = 1,
+               group = "Droogte: uiterst kwetsbaar",
+               options = pathOptions(pane = "Kwetsbaarheid droogte: uiterst kwetsbaar")) %>%
+  addPolylines(data = shp_KKD_kwetsbaar,
+               popup = ~htmlEscape(NAAM),
+               color = "green",
+               weight = 2,
+               fillOpacity = 1,
+               group = "Droogte: kwetsbaar",
+               options = pathOptions(pane = "Kwetsbaarheid droogte: kwetsbaar")) %>%
+  addPolylines(data = shp_KKD_ER,
+               popup = ~htmlEscape(NAAM),
+               color = "yellow",
+               weight = 2,
+               fillOpacity = 1,
+               group = "Droogte: ecologisch relevant",
+               options = pathOptions(pane = "Kwetsbaarheid droogte: ecologisch relevant")) %>%
+  addLayersControl(
+    baseGroups = c("OSM", "Orthophoto BE", "Topo BE"), overlayGroups = c("Droogte: uiterst kwetsbaar", "Droogte: kwetsbaar", "shp_KKD_ER"), options = layersControlOptions(collapsed = FALSE))
+
+```
+
+#### kwetsbaarheidskaart watercaptatie
+
+#### Huidig voorkomen en doelen voor kleine modderkruiper
+
+```{r kleine-modderkruiper, echo=FALSE}
+
+KMK_observaties <- shp_ROJoin_WGS84 %>% dplyr::filter(!is.na(KMK))
+KMK_doelen <- shp_ROJoin_WGS84 %>% dplyr::filter(!is.na(DKstatus_K))
+
+KMK <- basis %>%
+  addMapPane("Observaties kleine modderkruiper", zIndex = 490) %>%
+  addMapPane("Doelen kleine modderkruiper", zIndex = 480) %>%
+  addPolylines(data = KMK_observaties,
+               popup = ~htmlEscape(NAAM),
+               color = "brown",
+               weight = 2,
+               fillOpacity = 1,
+               group = "Observaties",
+               options = pathOptions(pane = "Observaties kleine modderkruiper")) %>%
+  addPolylines(data = KMK_doelen,
+               popup = ~htmlEscape(NAAM),
+               color = "magenta",
+               weight = 2,
+               fillOpacity = 1,
+               group = "Doelen",
+               options = pathOptions(pane = "Doelen kleine modderkruiper")) %>%
+  addLayersControl(
+    baseGroups = c("OSM", "Orthophoto BE", "Topo BE"), overlayGroups = c("Observaties", "Doelen"), options = layersControlOptions(collapsed = FALSE))
+
+```
+
+#### Huidig voorkomen en doelen voor grote modderkruiper
+
+```{r observaties-grote-modderkruiper, echo=FALSE}
+
+GMK <- basis %>%
+  addCircleMarkers(data = shp_GM_WGS84,
+                   color = "darkmagenta",
+                   radius = 2,
+                   fill = "magenta",
+                   fillOpacity = 1,
+               group = "Observaties") %>%
+  addLayersControl(
+    baseGroups = c("OSM", "Orthophoto BE", "Topo BE"), overlayGroups = c("Observaties"), options = layersControlOptions(collapsed = FALSE))
+
+```
+
+#### Huidig voorkomen van serpeling, kopvoorn en kwabaal
+
+```{r observaties-kopvoorn-serpeling-kwabaal, echo=FALSE}
+
+KoSe <- shp_KKD_WGS84 %>% dplyr::filter(kwetsbaarh == 2) # waterloopsegmenten met kopvoorn en/of serpeling en/of kwabaal
+KoSe_VIS <- shp_KV_SP_WGS84
+
+Kw <- shp_ROJoin_WGS84 %>% dplyr::filter(!is.na(KWB_aantal)) # waterloopsegmenten met observatie van kwabaal
+
+KoSeKw <- basis %>%
+  addMapPane("Kopvoorn uit KKD", zIndex = 490) %>%
+  addMapPane("Observaties kwabaal", zIndex = 470) %>%
+  addPolylines(data = KoSe,
+               popup = ~htmlEscape(NAAM),
+               color = "brown",
+               weight = 2,
+               fillOpacity = 1,
+               group = "Kopvoorn uit KKD",
+               options = pathOptions(pane = "Kopvoorn uit KKD")) %>%
+  addCircleMarkers(data = KoSe_VIS,
+                   color = "darkorange",
+                   radius = 2,
+                   fill = "orange",
+                   fillOpacity = 1,
+               group = "Observaties kopvoorn") %>%
+  addPolylines(data = Kw,
+               popup = ~htmlEscape(NAAM),
+               color = "red",
+               weight = 2,
+               fillOpacity = 1,
+               group = "Observaties kwabaal",
+               options = pathOptions(pane = "Observaties kwabaal")) %>%
+  addLayersControl(
+    baseGroups = c("OSM", "Orthophoto BE", "Topo BE"), overlayGroups = c("Kopvoorn uit KKD", "Observaties kopvoorn", "Observaties kwabaal"), options = layersControlOptions(collapsed = FALSE))
+
+```
+
+#### EXTRA: kwetsbaarheidskaart vismigratie
+
+HIER VERDERDOEN
+
+Onderstaande doe ik nog weg:
+
+```{r deelverzamelingen, eval=FALSE, fig.cap="Tijdelijke schets deelverzamelingen", message=FALSE, warning=FALSE, include=FALSE}
+include_graphics("Afbeelding_schets_deelverzamelingen_Ine.jpg")
+```
+
+Figuur \@ref(fig:deelverzamelingen)
+
+<!--chapter:end:02_methode.Rmd-->
+
+```{r references, results = "asis", echo = FALSE}
+# insert the references at this position
+# set appendix = FALSE, when the report has no appendix
+INBOmd::references(appendix = TRUE)
+```
+
+# Eerste hoofdstuk van de bijlage
+
+Inhoud van de eerste bijlage
+
+<!--chapter:end:zzz_references_and_appendix.Rmd-->
+
